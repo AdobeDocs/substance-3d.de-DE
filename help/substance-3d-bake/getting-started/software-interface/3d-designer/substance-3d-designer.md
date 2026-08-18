@@ -73,7 +73,7 @@ Im Bäcker kannst du die Textur auswählen, die du erzeugen möchtest. Standardm
 * **Neuen Bäcker hinzufügen:** Klicken Sie auf die Schaltfläche &quot;Bäcker hinzufügen&quot;.
 * **Einen Bäcker entfernen:** Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Bäcker löschen&quot;.
 * **Einen Bäcker nach oben verschieben:** Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach oben ziehen&quot;.
-* **Einen Bäcker nach unten bewegen:**Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach unten drücken&quot;.
+* **Einen Bäcker nach unten bewegen:**&#x200B;Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach unten drücken&quot;.
 
 Jeder Bäcker in der erbt standardmäßig die Standardwerte (siehe oben). Die Größe (Auflösung) kann z.B. überschrieben werden, indem man auf die Zelle in der Zeile des Bäckers klickt. Dies gilt auch für die anderen Einstellungen in der Zeile.
 

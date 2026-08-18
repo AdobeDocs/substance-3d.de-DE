@@ -56,7 +56,7 @@ ht-degree: 0%
 * [Entfernen des Substance-Zusatzmoduls](../../game-engines/unity/removing-plugin/removing-substance-plugin.md)
 * [Substance 3D in Tutorials](../../game-engines/unity/3d-in-unity-tutorials/substance-3d-in-unity-tutorials.md)
 * [Physische Größe in der Einheit](../../game-engines/unity/physical-size-in-unity/physical-size-in-unity.md)
-* [Freigeben von Unterfensterdateien zwischen Projekten](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html)[](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
+* [Freigeben von Unterfensterdateien zwischen Projekten](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html) [&#128279;](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
 
 **[FORMULAR GEFUNDEN - ERFORDERLICHE REGELN]**
 

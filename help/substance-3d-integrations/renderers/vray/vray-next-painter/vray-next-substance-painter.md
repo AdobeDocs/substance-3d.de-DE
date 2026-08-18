@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Nächste variieren - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) wird mit [VrayMtl](https://docs.chaosgroup.com/display/VRAY4MAYA/VRayMtl) Shadern für Metallic- und Specular-Arbeitsabläufe ausgeliefert. Sie können [Ihr Substance Painter-Projekt ](https://docs.substance3d.com/display/SPDOC/Project+Creation) mithilfe der **VrayMtl-Vorlage** einrichten, die Ihren Viewport-Shader konfiguriert.
+Substance Painter 2020.1 (6.1.0) wird mit [VrayMtl](https://docs.chaosgroup.com/display/VRAY4MAYA/VRayMtl) Shadern für Metallic- und Specular-Arbeitsabläufe ausgeliefert. Sie können [Ihr Substance Painter-Projekt &#x200B;](https://docs.substance3d.com/display/SPDOC/Project+Creation) mithilfe der **VrayMtl-Vorlage** einrichten, die Ihren Viewport-Shader konfiguriert.
 
 ![](../../../assets/template-16.jpg)
 

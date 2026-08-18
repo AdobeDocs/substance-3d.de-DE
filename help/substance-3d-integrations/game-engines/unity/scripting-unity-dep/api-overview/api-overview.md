@@ -29,7 +29,7 @@ Using Substance.Game
 
 Substance.Game ist die Assembly, die die für die Skripterstellung verwendeten Klassen enthält. Diese Klassen lauten wie folgt:
 
-**Substance.Game.****Substance**: Verweist auf den Unterstrich
+**Substance.Game.**&#x200B;**Substance**: Verweist auf den Unterstrich
 
 **Substance.Game.SubstanceGraph**: Individuelles Diagramm im Unterabschnitt *(war früher ProceduralMaterial in Unity 2017)*
 

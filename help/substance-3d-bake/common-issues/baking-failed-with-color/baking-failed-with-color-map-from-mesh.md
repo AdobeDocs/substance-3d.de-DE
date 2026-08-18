@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Mögliche Fehlermeldung:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > [ Backen ] Fehler beim Backen (Farbzuordnung aus Gitter)\
 > Scheitelpunktfarben konnten nicht gefunden werden

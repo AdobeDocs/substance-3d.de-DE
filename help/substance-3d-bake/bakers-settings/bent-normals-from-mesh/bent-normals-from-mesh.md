@@ -33,7 +33,7 @@ Die Funktion &quot;Gebeugte Normale&quot; des Gitterbäckers berechnet eine Text
 | *Parameter* | *Beschreibung* |
 | --- | --- |
 | **Sekundärstrahlen** | Anzahl der Verdeckungen. Ein hoher Wert erzeugt weniger Rauschen, ist aber länger zu berechnen. |
-| **Min. Okcluderentfernung** | Mindestabstand, ab dem die Strahlen der Verdeckung auf die hohe Polygeometrie treffen**.** |
+| **Min. Okcluderentfernung** | Mindestabstand, ab dem die Strahlen der Verdeckung auf die hohe Polygeometrie treffen&#x200B;**.** |
 | **Max. Okcluderentfernung** | Maximale Entfernung zwischen den Strahlen der Verdeckung und der hohen Polygeometrie. |
 | **Relativ zum Begrenzungsrahmen** | Wenn diese Option aktiviert ist, basieren die Berechnungen des Strahlabstands auf dem normalisierten Abstand (0 bis 1) des Gitters mit geringer Poly-Intensität. Wenn diese Option deaktiviert ist, basiert die Berechnung des Strahlenabstands auf den Einheiten, die beim Export im Gitter mit geringer Poly-Struktur angegeben wurden (Meter, Zentimeter usw.). |
 | **Spread Angle** | Maximaler Ausbreitungswinkel der Verdeckungsstrahlen. Der Standardwert ist 180. |

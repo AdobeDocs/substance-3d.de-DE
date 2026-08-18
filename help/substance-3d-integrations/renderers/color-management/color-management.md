@@ -45,7 +45,7 @@ Dies ist zwar eine zu starke Vereinfachung, aber es kann hilfreich sein, sich de
 >
 > Die Konvertierung der sRGB-Decodierungsfunktion (EOTF) vom Gamma- in den Linearraum wird in Substance Painter und Substance Designer verwendet und ist in der IEC 61966-2-1:1999-Norm definiert.
 
-Substance Designer kann so konfiguriert werden, dass [OpenColorIO](https://opencolorio.org/) für das Farbmanagement verwendet wird. Dadurch können Sie *konsistente* Farbtransformationen und Bilddarstellung über mehrere Anwendungen hinweg durchführen. In diesem Modus arbeitet Substance Designer intern mit **linearen RGB**-Farben. Da 8 Bittiefen normalerweise nicht ausreichen, um Linearfarben darzustellen, wird empfohlen, mindestens ** **16-bit** Tiefen für Farbtexturen im [Diagramm](https://docs.substance3d.com/display/SDDOC/Graph+View) zu verwenden.
+Substance Designer kann so konfiguriert werden, dass [OpenColorIO](https://opencolorio.org/) für das Farbmanagement verwendet wird. Dadurch können Sie *konsistente* Farbtransformationen und Bilddarstellung über mehrere Anwendungen hinweg durchführen. In diesem Modus arbeitet Substance Designer intern mit **linearen RGB**-Farben. Da 8 Bittiefen normalerweise nicht ausreichen, um Linearfarben darzustellen, wird empfohlen, mindestens **&#x200B; **&#x200B;16-bit** Tiefen für Farbtexturen im [Diagramm](https://docs.substance3d.com/display/SDDOC/Graph+View) zu verwenden.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/sd-cm?$png$&jpegSize=200&wid=686)
 
