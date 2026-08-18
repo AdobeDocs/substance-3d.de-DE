@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Lerne, wie du mit Substance Baker maschenbasierte Informationen in Texturdateien umwandeln und deinen Workflow für Texturierung verbessern kannst.
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ Diese Dokumentation behandelt die <b>Grundlagen des Backens</b> und die <b>häuf
 ### Häufige Probleme
 
 * [Aliasing bei UV-Nähten](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [Baker-Ausgabe ist vollständig schwarz oder leer](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [Baker-Ausgabe ist vollständig schwarz oder leer](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [Fehler beim Backen mit der Farbzuordnung aus dem Gitter](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [Schwarze Schattierungen auf der Gitteroberfläche.](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [Gitterteile ineinander verlaufen](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
 breadcrumb-title: ''
 description: Nutzen Sie Videotutorials und Lernressourcen, um sich mit Substance 3D-Materialien in Unity-Projekten vertraut zu machen.
 helpx_creative_field: ""

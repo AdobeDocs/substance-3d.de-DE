@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: Wandeln Sie Gitter-UVs in Vektorgrafikdateien um, die zur Erstellung präziser Masken und Überlagerungen verwendet werden können.
 helpx_creative_field: ""

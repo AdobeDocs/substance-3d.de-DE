@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/partnerships/maxon-and-substance-3d.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/partnerships/maxon-and-substance-3d.html"
 breadcrumb-title: ''
 description: Informieren Sie sich über die Partnerschaft zwischen Substance 3D und Maxon One, einschließlich der Vorteile und Arbeitsabläufe bei der Integration.
 helpx_creative_field: ""

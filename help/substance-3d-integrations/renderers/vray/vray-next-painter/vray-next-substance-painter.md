@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: Exportieren Sie Substance Painter-Texturen für den V-Ray Next-Renderer mit Ausgabevorlagen und den richtigen Workflow-Einstellungen.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Unter den Shader-Einstellungen können Sie den Vray-Shader für die Arbeit mit V
 
 >[!NOTE]
 >
-> Wenn Ihr Projekt für die Verwendung von [UV Tile UDIM Legacy](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html) eingerichtet wurde. Verwenden Sie die Vray Next UDIM-Ausgabevorlage.
+> Wenn Ihr Projekt für die Verwendung von [UV Tile UDIM Legacy](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html) eingerichtet wurde. Verwenden Sie die Vray Next UDIM-Ausgabevorlage.
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

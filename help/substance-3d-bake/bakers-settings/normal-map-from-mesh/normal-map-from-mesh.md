@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: Erstellen Sie mithilfe der Option "Normalmap" vom Gitterbaker aus Tangentenräume oder Weltraumnormalkarten aus hochgepolten Meshes.
 helpx_creative_field: ""

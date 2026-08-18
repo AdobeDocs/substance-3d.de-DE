@@ -57,4 +57,4 @@ können sich an bestehende Committer wenden, um ein Gespräch darüber zu führe
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten nicht über diesen Problem-Tracker gemeldet werden. Stattdessen [senden Sie ein Problem an unsere Sicherheitsexperten](https://helpx.adobe.com/security/alertus.html).
+Sicherheitsprobleme sollten nicht über diesen Problem-Tracker gemeldet werden. Stattdessen [senden Sie ein Problem an unsere Sicherheitsexperten](https://helpx.adobe.com/de/security/alertus.html).

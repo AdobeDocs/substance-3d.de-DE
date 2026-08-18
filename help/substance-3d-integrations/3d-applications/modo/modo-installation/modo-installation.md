@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-installation.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/modo-installation.html"
 breadcrumb-title: ''
 description: Installieren Sie das Substance-Plugin für MODO, indem Sie die LPK-Datei in MODO ziehen, um Substance-Funktionen hinzuzufügen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Bedienfeld "Substance 3D" in Blender verwenden, um Materialien, Parameter und Ausgaben zu verwalten.
 helpx_creative_field: ""

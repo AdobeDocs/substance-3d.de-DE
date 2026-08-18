@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/home.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-general/home.html"
 breadcrumb-title: ''
 description: Entdecke grundlegende Informationen zum Substance 3D-Ökosystem, und erfahre, wie du die 3D-Tools von Adobe einsetzt.
 helpx_creative_field: ""
@@ -22,11 +22,11 @@ ht-degree: 1%
 
 ![](../assets/ecosystem-banner.jpg)
 
-Erfahren und entdecken Sie Informationen, die für das gesamte [Substance 3D-Ökosystem](https://www.adobe.com/products/substance3d/3d-augmented-reality.html) relevant sind.
+Erfahren und entdecken Sie Informationen, die für das gesamte [Substance 3D-Ökosystem](https://www.adobe.com/de/products/substance3d/3d-augmented-reality.html) relevant sind.
 
 ## Ökosystem
 
-* [Allgemeine Systemanforderungen](../ecosystem/system-requirements/general-system-requirements.md) — Auf dieser Seite werden die Systemanforderungen für das Substance 3D-Angebot https://www.adobe.com/products/substance3d/3d-augmented-reality.html zusammengefasst.
+* [Allgemeine Systemanforderungen](../ecosystem/system-requirements/general-system-requirements.md) — Auf dieser Seite werden die Systemanforderungen für das Substance 3D-Angebot https://www.adobe.com/de/products/substance3d/3d-augmented-reality.html zusammengefasst.
 * [Import- und Exportformate](../ecosystem/import-and-export-formats/import-and-export-formats.md) — Auf dieser Seite erhalten Sie einen Überblick über die Dateiformate, die von den einzelnen Anwendungen zum Import- und Exportzeitpunkt unterstützt werden.
 * [Ältere Versionen](../ecosystem/legacy-versions/legacy-versions.md) — Ältere Versionen sind Substance 3D-Anwendungen, die mit dem alten Lizenzschlüsseldateiaktivierungssystem kompatibel sind, das vor dem Übergang zur Adobe-Kontoaktivierung vorhanden war. Diese Versionen sind nicht mit Lizenzen kompatibel, die über Ihr Adobe- oder Steam-Konto erworben wurden.
 * [Versionierung des Substance-Moduls](../ecosystem/engine-versioning/substance-engine-versioning.md) — Auf dieser Seite werden Informationen darüber neu gruppiert, welche Version des Substance-Moduls in jeder Software und jedem Tool verwendet wird.

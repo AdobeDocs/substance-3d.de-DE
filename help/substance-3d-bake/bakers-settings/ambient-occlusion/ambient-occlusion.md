@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie den Bäcker "Umgebungsschatten" verwenden, um mithilfe schneller GPU-beschleunigter Verdeckungen Umgebungs-Schattenstrukturen zu erzeugen.
 helpx_creative_field: ""

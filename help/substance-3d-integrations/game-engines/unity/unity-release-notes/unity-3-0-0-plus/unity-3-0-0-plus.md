@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Unity-Plug-ins ab Version 3.0.0, um mehr über neue Funktionen und Verbesserungen zu erfahren.
 helpx_creative_field: ""

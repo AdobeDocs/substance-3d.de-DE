@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
 description: Berechnen Sie gebogene Normal-Texturen, die die durchschnittliche Richtung der Umgebungsbeleuchtung aus hochpolaren Netzen beschreiben.
 helpx_creative_field: ""

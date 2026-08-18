@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Erfahre, wie du mithilfe des Backfensters in Substance 3D Designer Modellinformationen in Texturen umwandelst.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-Auf das Backing-Fenster kann über die Gitterdatei im Fenster [Explorer](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) zugegriffen werden. Klicken Sie mit der rechten Maustaste auf den Netznamen und wählen Sie &quot;**Informationen zum Backmodell**&quot; aus, um das Backing-Fenster zu öffnen.
+Auf das Backing-Fenster kann über die Gitterdatei im Fenster [Explorer](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) zugegriffen werden. Klicken Sie mit der rechten Maustaste auf den Netznamen und wählen Sie &quot;**Informationen zum Backmodell**&quot; aus, um das Backing-Fenster zu öffnen.
 
 ## Überblick
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance Painter-Ausgabevorlagen für den Arnold-Renderer mit aiStandard-Material für das physikalisch basierte Rendering.
 helpx_creative_field: ""

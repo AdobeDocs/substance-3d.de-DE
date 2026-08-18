@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux/faq.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-general/ecosystem/substance-for-linux/faq.html"
 breadcrumb-title: ''
 description: Hier finden Sie Antworten auf häufig gestellte Fragen zur Verwaltung von Substance 3D-Lizenzen und zum Zugriff auf Software über das Adobe Download Access-Portal.
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ Wenn Sie eine Fehlermeldung bezüglich einer falschen E-Mail oder eines falschen
 
 
 
-Wenn Sie einen anderen Fehlertyp finden, [wenden Sie sich an unseren Enterprise-Support](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+Wenn Sie einen anderen Fehlertyp finden, [wenden Sie sich an unseren Enterprise-Support](https://helpx.adobe.com/de/enterprise/using/support-for-enterprise.html).
 
 
 
@@ -118,20 +118,20 @@ Der Bestellungsverlauf kann nur über das LWS-Portal aufgerufen werden. Zugriff 
 
 * Klicken Sie auf Suchen.
 
-[Weitere Informationen zu LWS finden Sie hier](https://helpx.adobe.com/x-productkb/policy-pricing/volume-licensing-site.html).
+[Weitere Informationen zu LWS finden Sie hier](https://helpx.adobe.com/de/x-productkb/policy-pricing/volume-licensing-site.html).
 
 
 
 +++
 
 +++An wen kann ich mich wenden, wenn ich weitere Hilfe benötige?
-Wenn Sie weitere Unterstützung benötigen, können Sie sich an unser Enterprise-Support-Team wenden. Ihr Administrator muss sich [&#x200B; bei der Adobe Admin Console anmelden und einen Support-Fall öffnen](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+Wenn Sie weitere Unterstützung benötigen, können Sie sich an unser Enterprise-Support-Team wenden. Ihr Administrator muss sich [&#x200B; bei der Adobe Admin Console anmelden und einen Support-Fall öffnen](https://helpx.adobe.com/de/enterprise/using/support-for-enterprise.html).
 
 Wenn Sie weitere Hilfe benötigen, können Sie sich an Ihren Adobe CSM wenden.
 
 +++
 
 +++Ich kann die Software nicht mit der Lizenzschlüsseldatei von ADA aktivieren.
-[Ausführliche Aktivierungsanweisungen finden Sie hier](../../../ecosystem/for-linux/substance-for-linux.md). Wenn diese Ihr Problem nicht beheben, [wenden Sie sich an das Support-Team für Unternehmen](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+[Ausführliche Aktivierungsanweisungen finden Sie hier](../../../ecosystem/for-linux/substance-for-linux.md). Wenn diese Ihr Problem nicht beheben, [wenden Sie sich an das Support-Team für Unternehmen](https://helpx.adobe.com/de/enterprise/using/support-for-enterprise.html).
 
 +++

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
 description: Passen Sie die Eigenschaften der Substance-Texturkachelung in MODO an, indem Sie horizontale und vertikale Umbrucheinstellungen festlegen.
 helpx_creative_field: ""

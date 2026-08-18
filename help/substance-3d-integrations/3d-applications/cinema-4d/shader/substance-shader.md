@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Substance-Shader Substance-Assets mit Cinema 4D-Materialien für Rendering-Workflows verknüpfen.
 helpx_creative_field: ""

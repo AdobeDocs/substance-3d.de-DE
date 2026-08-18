@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: Konfigurieren Sie die normalen Ausrichtungseinstellungen für Karten in MODO, um sicherzustellen, dass das normale Rendering von Karten mit Substance-Materialien korrekt ist.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Backfenster in Substance 3D Painter verwenden, um Gitterzuordnungen für Ihre Texturen zu generieren.
 helpx_creative_field: ""

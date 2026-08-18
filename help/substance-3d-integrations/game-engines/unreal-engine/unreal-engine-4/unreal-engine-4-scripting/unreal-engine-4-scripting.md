@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
 breadcrumb-title: ''
 description: Verwenden Sie die Skript-API Substance Unreal Engine 4, um Substance-Materialien in Ihren Projekten programmgesteuert zu verwalten.
 helpx_creative_field: ""

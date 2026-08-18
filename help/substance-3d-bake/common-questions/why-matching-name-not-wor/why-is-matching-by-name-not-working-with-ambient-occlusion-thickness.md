@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
 description: Erfahren Sie, warum das Anpassen nach Namen nicht mit "Umgebende Verdeckung"- und "Thickness"-Bäkern funktioniert, und finden Sie Alternativen.
 helpx_creative_field: ""

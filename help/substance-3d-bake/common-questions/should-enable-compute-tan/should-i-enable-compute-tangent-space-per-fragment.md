@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wann der Tangentenraum pro Fragment berechnet werden soll und wie sich dies auf die Backergebnisse auswirkt.
 helpx_creative_field: ""

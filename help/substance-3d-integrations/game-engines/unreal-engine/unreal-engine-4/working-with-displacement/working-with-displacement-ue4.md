@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
 description: Aktivieren Sie die Tesselierung und verwenden Sie Versatz-Maps von Substance-Materialien in Unreal Engine 4, um Oberflächendetails anzuzeigen.
 helpx_creative_field: ""

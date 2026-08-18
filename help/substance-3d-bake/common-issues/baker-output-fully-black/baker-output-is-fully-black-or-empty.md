@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: Beheben Sie, warum Bäcker-Ausgaben vollständig schwarz oder leer sind, und erfahren Sie, wie Sie Gitter- und UV-Probleme beheben können.
 helpx_creative_field: ""

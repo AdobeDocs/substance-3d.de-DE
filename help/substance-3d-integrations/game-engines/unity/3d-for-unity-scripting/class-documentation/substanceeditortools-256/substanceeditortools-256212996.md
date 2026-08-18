@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
 breadcrumb-title: ''
 description: Referenzdokumentation für die SubstanceEditorTools-Klasse zum Substance von Materialverwaltung in Unity.
 helpx_creative_field: ""

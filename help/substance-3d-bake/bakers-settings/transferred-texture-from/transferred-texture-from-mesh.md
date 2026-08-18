@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
 breadcrumb-title: ''
 description: Übertragen Sie Texturen zwischen Netzen basierend auf ihren UVs, einschließlich Unterstützung für normale Map-Konvertierungen.
 helpx_creative_field: ""

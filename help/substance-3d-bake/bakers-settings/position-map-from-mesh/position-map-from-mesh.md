@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
 breadcrumb-title: ''
 description: Berechnen Sie genaue Positionsabbildungen aus hochpolaren Netzen, um präzise Geometriedaten zur Positionsbestimmung zu erfassen.
 helpx_creative_field: ""

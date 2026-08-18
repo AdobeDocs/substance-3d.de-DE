@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate-substance.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate-substance.html"
 breadcrumb-title: ''
 description: Kombinieren Sie mehrere Substance-Materialien zur Laufzeit in Unreal Engine 5 mithilfe von Blueprint-Aggregatknoten für erweiterte Workflows.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über das Substance-Plugin für MODO und wie Sie Substance-Materialien in Ihren Arbeitsablauf importieren und verwenden können.
 helpx_creative_field: ""

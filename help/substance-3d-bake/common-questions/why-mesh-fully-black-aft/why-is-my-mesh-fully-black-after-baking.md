@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: Fehlerbehebung, wenn das Mesh nach dem Backen vollständig schwarz angezeigt wird, und Erfahren Sie, wie Sie häufige Ursachen beheben können.
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > Es gibt zwei mögliche Lösungen:
 > 
-> * Korrigieren Sie Ihre Backeinstellungen, um schwarze Texturen zu vermeiden, siehe : [Baker-Ausgabe ist vollständig schwarz oder leer](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * Korrigieren Sie Ihre Backeinstellungen, um schwarze Texturen zu vermeiden, siehe : [Baker-Ausgabe ist vollständig schwarz oder leer](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 > * Entfernen Sie die schwarze Textur aus den [Textursatzeinstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings).

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-direction.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/world-space-direction.html"
 breadcrumb-title: ''
 description: Berechnen Sie Vektorrichtungen im Weltraum und speichern Sie sie in Texturen für gerichtete Effekte und Maskierung.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
 breadcrumb-title: ''
 description: Referenzdokumentation für die veraltete Substance Unity-Scripting-API für die Unterstützung älterer Projekte.
 helpx_creative_field: ""

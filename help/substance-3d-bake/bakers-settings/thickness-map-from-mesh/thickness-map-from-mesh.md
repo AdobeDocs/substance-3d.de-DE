@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
 breadcrumb-title: ''
 description: Generieren Sie Thicknessen-Maps, indem Sie Strahlen von Gitteroberflächen nach innen werfen, um sie in SSS-Shadern und Maskierungen zu verwenden.
 helpx_creative_field: ""

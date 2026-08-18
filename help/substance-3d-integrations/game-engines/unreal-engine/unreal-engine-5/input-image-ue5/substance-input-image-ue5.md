@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
 breadcrumb-title: ''
 description: Verwenden Sie Bildtexturen als Eingabeparameter für das Substance von Materialien in Unreal Engine 5, um modulare Materialien zu erstellen.
 helpx_creative_field: ""

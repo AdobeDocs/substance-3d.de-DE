@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/de/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Verwenden Sie die Funktion "Namenskongruenz", um Gitter mit niedrigem und hohem Poly zu isolieren und Geometrieausblutungen während des Backens zu verhindern.
 helpx_creative_field: ''

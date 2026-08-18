@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien in Roblox Studio mit dem PBR-Workflow für metallische Raueit für immersive 3D-Erlebnisse.
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ Lassen Sie Designer *den Vorlagenordner überwachen*, um nach Diagrammvorlagen z
 * Wechseln Sie zum Verzeichnis `templates` und klicken Sie auf **Ordner auswählen**.
 * Klicken Sie auf die Schaltfläche **OK**.
 * Gehen Sie zu **Datei > Neu > Substance-Diagramm...1**
-* Überprüfen Sie, ob die Vorlage &quot;`Roblox`&quot; im Fenster &quot;[Neues Substance-Diagramm](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)&quot; am unteren Rand der Vorlagenliste aufgeführt ist.
+* Überprüfen Sie, ob die Vorlage &quot;`Roblox`&quot; im Fenster &quot;[Neues Substance-Diagramm](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)&quot; am unteren Rand der Vorlagenliste aufgeführt ist.
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,7 +102,7 @@ Lassen Sie Designer *den Vorlagenordner überwachen*, um nach Diagrammvorlagen z
 
 Erstellen Sie ein Diagramm mit der Roblox-Vorlage und exportieren Sie Bitmaps aus diesem Diagramm, sobald Sie die Arbeit an einem Material abgeschlossen haben.
 
-* Wählen Sie im Fenster [Neues Substance-Diagramm](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) die Vorlage `Roblox` aus.
+* Wählen Sie im Fenster [Neues Substance-Diagramm](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) die Vorlage `Roblox` aus.
 * Legen Sie einen beliebigen Bezeichner und andere Parameter für das Diagramm fest und klicken Sie auf **OK**.
 * Arbeiten Sie in der [Diagrammansicht](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view) an Ihrem Material. Lesen Sie [hier](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview), um mit dem Arbeitsablauf zu beginnen.
 * Wenn Sie fertig sind, gehen Sie zu **Tools > Bitmaps exportieren...** in der Diagrammansicht *Symbolleiste*

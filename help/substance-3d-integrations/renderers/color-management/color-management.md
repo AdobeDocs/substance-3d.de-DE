@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über Farbmanagement und Gamma-Korrektur bei der Verwendung von Substance-Materialien mit verschiedenen Renderern.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Wir werden einen vereinfachten Ansatz wählen, indem wir darauf hinweisen, dass 
 
 ## Farbmanagement
 
-In diesem Dokument wird die Arbeit mit Texturen beschrieben, die aus **Substance Painter** und **Substance Designer** in [3D-Software](https://www.adobe.com/products/substance3d/3d-augmented-reality.html) und Renderern exportiert wurden.
+In diesem Dokument wird die Arbeit mit Texturen beschrieben, die aus **Substance Painter** und **Substance Designer** in [3D-Software](https://www.adobe.com/de/products/substance3d/3d-augmented-reality.html) und Renderern exportiert wurden.
 
 Wie ein als Eingabe in einen Materialkanal verwendetes Bild korrekt interpretiert wird, hängt davon ab, wie das Bild in der Szene verwendet wird. Der Farbraum, die Codierung und ob die Farbwerte proportional zu **szenenbezogener Luminanz** oder **szenenbezogener Luminanz** sind, spielt ebenfalls eine wichtige Rolle.
 

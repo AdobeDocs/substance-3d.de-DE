@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien mit dem Redshift-Renderer in Maya über exportierte Maps oder das Substance-Plug-in.
 helpx_creative_field: ""

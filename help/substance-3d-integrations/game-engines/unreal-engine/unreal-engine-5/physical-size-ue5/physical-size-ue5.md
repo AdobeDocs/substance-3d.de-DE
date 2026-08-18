@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
 breadcrumb-title: ''
 description: Verwenden Sie die Physische Größe-Einstellungen, um Substance-Materialien basierend auf den realen Abmessungen in der Unreal Engine 5 zu skalieren.
 helpx_creative_field: ""
