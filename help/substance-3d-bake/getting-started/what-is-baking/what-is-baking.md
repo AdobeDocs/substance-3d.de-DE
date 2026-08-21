@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: Erfahre, was Backen ist, und speichere Informationen zu 3D-Meshes in Texturdateien, um deine Substance-Materialien auszugestalten.
 helpx_creative_field: ""
