@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-Auf das Backing-Fenster kann über die [Textursatzeinstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings) zugegriffen werden. Klicken Sie auf die Schaltfläche &quot;**Gitterzuordnungen backen**&quot;, um das Backing-Fenster des aktuellen Projekts zu öffnen.
+Auf das Backing-Fenster kann über die [Textursatzeinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings) zugegriffen werden. Klicken Sie auf die Schaltfläche &quot;**Gitterzuordnungen backen**&quot;, um das Backing-Fenster des aktuellen Projekts zu öffnen.
 
 ## Überblick
 

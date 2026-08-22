@@ -91,7 +91,7 @@ Die Zuordnung nach Name kann in den [allgemeinen Parametern](../../bakers-settin
 Die Standardsuffixe lauten \_low und \_high und können wie folgt geändert werden:
 
 * **Substance Painter**: Im [Sicherungsfenster](../../getting-started/software-interface/3d-painter/substance-3d-painter.md) innerhalb der allgemeinen Parameter.
-* **Substance Designer**: In den [Projekteinstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings) unter den Backeinstellungen.
+* **Substance Designer**: In den [Projekteinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/preferences/project-settings) unter den Backeinstellungen.
 
 ## High-Poly-Meshes von zBrush
 
