@@ -66,7 +66,7 @@ Parameter, die im Substance Designer verfügbar gemacht wurden, können mit den 
 
 Das Dateiformat von Ausgabetexturen kann über die Dropdown-Menüs geändert werden.
 
-Weitere Informationen finden Sie unter [Verfügbarmachen eines Parameters](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) auf der Designer-Dokumentationsseite.
+Weitere Informationen finden Sie unter [Verfügbarmachen eines Parameters](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) auf der Designer-Dokumentationsseite.
 
 ## Technische Parameter
 

@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Ökosystem und Zusatzmodule
 
-Das [Substance-Materialteilsleistenformat &#x200B;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file) wird von allen gängigen Game- und DCC-Tools (Digital Content Creation) unterstützt. Das Format wird in Substance 3D-Anwendungen als .sbsar-Datei veröffentlicht. SBSAR-Dateien können über ein Substance-Plugin oder eine native Integration in DCC-Anwendungen und Game-Engines geladen werden, die Substance-Materialien unterstützen.
+Das [Substance-Materialteilsleistenformat &#x200B;](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file) wird von allen gängigen Game- und DCC-Tools (Digital Content Creation) unterstützt. Das Format wird in Substance 3D-Anwendungen als .sbsar-Datei veröffentlicht. SBSAR-Dateien können über ein Substance-Plugin oder eine native Integration in DCC-Anwendungen und Game-Engines geladen werden, die Substance-Materialien unterstützen.
 
 Weitere Informationen zur Verwendung dieser Materialien finden Sie unter:
 
