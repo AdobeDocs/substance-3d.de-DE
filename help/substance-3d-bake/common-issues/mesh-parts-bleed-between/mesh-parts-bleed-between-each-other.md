@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
-description: Verhindern Sie, dass während des Backens Gitterteile ineinander übergehen, indem Sie "Anpassung durch Name" verwenden oder die Abstände anpassen.
+description: Verhindern Sie, dass Teile von Mesh beim Baking führ ineinander übergehen, indem Sie die Funktion "Abgleich nach Name" verwenden oder die Abstände anpassen.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Mesh parts bleed between each other
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **Problem**
 > 
-> Mit Gittergeometrien lassen sich Anschnitte an anderen Teilen erzeugen und Artefakte erzeugen.
+> Anschnitt mit Mesh an anderen Teilen, um Artefakte zu erzeugen.
 > 
 > ![](../../assets/bleed-example.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **Erklärung**
 > 
-> Beim Backen werden Strahlen von der Oberfläche des Gitters mit niedrigem Polyeffekt auf das Gitter mit hohem Polyeffekt übertragen, um eine Übereinstimmung zu erzielen. Manchmal gehen die Strahlen zu weit und treffen auf die falsche Geometrie, was zu Blutungen und Artefakten führt.
+> Der Baking führend Prozess sendet Strahlen von der Oberfläche des Meshs mit niedriger Poly, um den Mesh mit hoher Poly zu treffen und eine Übereinstimmung zu erzeugen. Manchmal gehen die Strahlen zu weit und treffen auf die falsche Geometrie, was zu Blutungen und Artefakten führt.
 
 >[!NOTE]
 >
@@ -40,6 +40,6 @@ ht-degree: 0%
 > 
 > Es gibt einige Lösungen, um dieses Problem zu vermeiden:
 > 
-> * Verwenden Sie die Funktion [Zuordnung nach Name](../../features/matching-by-name/matching-by-name.md), um die Gitter zu isolieren.
+> * Verwenden Sie die Funktion [Zuordnung nach Name](../../features/matching-by-name/matching-by-name.md), um die Mesh zu isolieren.
 > * Verwenden Sie einen [Käfig](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html), um den Strahlenabstand zu begrenzen.
-> * Legen Sie in den allgemeinen Bäcker-Einstellungen einen niedrigeren Standardwert für den Strahlenabstand fest.
+> * Legen Sie in den allgemeinen Baker-Einstellungen einen niedrigeren Standardwert für den Strahlenabstand fest.

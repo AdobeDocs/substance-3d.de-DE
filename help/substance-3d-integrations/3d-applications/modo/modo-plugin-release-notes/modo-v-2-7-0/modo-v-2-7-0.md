@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Modo v. 2.7.0
 
-* Zahlreiche Fehlerbehebungen für Abstürze
+* Zahlreiche Fehlerbehebungen für Absturz
 * 32-Bit-Gleitkommaunterstützung
-* 4k Texturen in der CPU Engine und 8k Texturen in der GPU Engine
+* 4K-Texturen im CPU-Engine und 8K-Texturen im GPU-Engine
 * neues LPK-Format für die Plugin-Version
 * Neues Kit-Menü für das Substance-Plugin
-* glTF / Principled shader Unterstützung für MODO 12.0
+* glTF / Principled Shader Unterstützung für MODO 12.0
 * Relativer Pfad für Substance-Dateien hinzugefügt
 * Linux-Unterstützung
 * Neue Benutzeroberfläche zum Laden und Speichern von Vorgaben
@@ -35,7 +35,7 @@ ht-degree: 0%
 
   Die neuen verfügbaren Befehle sind:
 
-  **substance.getsbsname** Konvertieren des Bezeichners eines Substanzobjekts in seinen internen Namen
+  **substance.getsbsname** Konvertieren der Identifizierung eines Substance-Objekts in seinen internen Namen
 
   Alle diese erwarten einen korrekten internen Namen, der von substance.getsbsname erworben wurde:
 

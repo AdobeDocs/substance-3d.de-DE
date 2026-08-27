@@ -32,8 +32,8 @@ Sie können Ihr Substance Painter-Projekt ganz einfach in Maverick importieren, 
 
 **Auf Substance** **Painter**&#x200B;**:**
 
-1. Exportiere dein Gitter.
-1. Exportiere deine Texturen in denselben Ordner, in dem sich auch das Gitter befindet, und verwende eine der Maverick-Vorgaben (siehe Bild):
+1. Exportiere deinen Mesh.
+1. Exportiere deine Texturen in denselben Ordner, in dem sich auch der Mesh befindet, und verwende eine der Maverick-Vorgaben (siehe Bild):
 
    ![](../../../assets/maverickrender-exportpresets-substancepainter.jpg)
 
@@ -47,15 +47,15 @@ Sie können Ihr Substance Painter-Projekt ganz einfach in Maverick importieren, 
 1. Klicken Sie auf das Substance Painter-Symbol:
 
    ![](../../../assets/maverickrender-substancepainter-icon.jpg)
-1. Wählen Sie die Gitterdatei aus, die Sie aus dem Substance Painter exportiert haben.
+1. Wählen Sie die Meshdatei aus, die Sie aus Substance Painter exportiert haben.
 1. Befolgen Sie die Anweisungen im Dialogfeld &quot;Importieren&quot;:
 
-   * Auf der ersten Dialogseite können Sie einige Materialparameter einstellen.
+   * Auf der ersten Dialogseite können Sie einige Parameter für das Material festlegen.
    * Auf der zweiten Dialogseite können Sie die Umgebung auswählen, in der Ihr Modell erscheinen soll.
-   * Im dritten Dialogfenster können Sie die Skalierung und die Achsenausrichtung Ihres Modells wählen.
+   * Im dritten Dialogfenster können Sie die Skalierung und die Ausrichtung der Achse Ihres Modells wählen.
 
    ![](../../../assets/maverickrender-substancepainter-import.jpg)
-1. Fahren Sie fort, damit Ihr Modell nach dem Texturensatz und den Materialien, die automatisch erstellt und angewendet werden, korrekt organisiert ist. Bereit für die Lichtphase.
+1. Fahren Sie fort, damit Sie Ihr Modell nach Textursatz und mit seinen Materialien richtig organisiert und automatisch erstellt und angewendet bekommen. Bereit für die Lichtphase.
 
    **Wenn** **Sie &#x200B;**&#x200B;**Ihre**&#x200B;**Texturen in Substance**&#x200B;**Painter**&#x200B;**ändern**&#x200B;Sie&#x200B;**&#x200B;** noch einmal **&#x200B;**,**&#x200B;**&#x200B;Überschreiben **&#x200B;**&#x200B;der **&#x200B;**&#x200B;vorherige&#x200B;**&#x200B;** Einsen **&#x200B;**.**&#x200B;**&#x200B;**&#x200B;**&#x200B;Verwenden Sie dann&#x200B;**&#x200B;**&#x200B;in **&#x200B; **&#x200B;Maverick **&#x200B;**&#x200B;das Update&#x200B;**&#x200B;**&#x200B;Maps&#x200B;**&#x200B;** Symbol&#x200B;**&#x200B;**:**
 

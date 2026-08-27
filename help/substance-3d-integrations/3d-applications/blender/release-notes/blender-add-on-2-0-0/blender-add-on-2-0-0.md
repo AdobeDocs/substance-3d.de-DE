@@ -53,12 +53,12 @@ Das Substance 3D Add-on 2.0 markiert ein transformatives Update für Blender-Ben
 * [BLD] Weiche und harte Grenzen der Eingaben werden ignoriert
 * [BLD] Farbintensität wird beim Anpassen eines Parameters nicht korrekt aktualisiert
 * [SRE] Deinstallation der Integrationstools schlägt fehl
-* [SRE] Wir haben das Problem behoben, dass das mehrmalige Duplizieren von Materialien einen Fehler verursacht hat.
+* [SRE] Wir haben das Problem behoben, dass das mehrmalige Duplizieren von Materialien zu einem Fehler führte.
 * [SRE] Der Farbraum der Bildknoten stimmt jetzt mit den Benutzereinstellungen überein.
 
 <b>Bekannte Probleme:</b>
 
 * Bei Verwendung von Blender 4.0 und höher sind die Sockel nach mehrfacher Aktivierung und Deaktivierung nicht in der richtigen Reihenfolge
 * Strg+Z zum Rückgängigmachen von Änderungen kann zu Fehlern führen
-* Das Laden einer leeren Datei oder eines Ordners anstelle einer .sbsar-Datei kann das Plug-in beschädigen
+* Das Laden einer leeren Datei oder eines Ordners anstelle von .sbsar-Datei könnte das Plug-in beschädigen
 * Unterstützung für den Headless-Modus von Blender

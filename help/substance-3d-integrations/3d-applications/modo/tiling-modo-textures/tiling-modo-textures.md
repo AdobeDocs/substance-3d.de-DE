@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
-description: Passen Sie die Eigenschaften der Substance-Texturkachelung in MODO an, indem Sie horizontale und vertikale Umbrucheinstellungen festlegen.
+description: Passen Sie die Kachelung der Substance-Textur in MODO an, indem Sie die Einstellungen für horizontalen und vertikalen Zeilenumbruch festlegen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Tiling Modo textures
 helpx_experience_level: ""
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Kacheln von Modo-Strukturen
 
-Sie können die Eigenschaften einer Substance-Textur wie jede Textur in MODO anpassen. Um die Texturen nebeneinander anzuordnen, kannst du den horizontalen und vertikalen Umbruch festlegen.
+Sie können die Eigenschaften einer Substance-Textur wie jede andere Textur in MODO anpassen. Um die Texturen nebeneinander anzuordnen, können Sie den horizontalen und vertikalen Umbruch festlegen.
 
 ![](../../../assets/wrap-1.png)

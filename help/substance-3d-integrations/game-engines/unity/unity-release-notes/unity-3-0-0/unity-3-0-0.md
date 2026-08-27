@@ -29,9 +29,9 @@ Aktualisiert/hinzugefügt:
 * Neue Skriptdokumentation
 * Unterstützung von &quot;control-z&quot; im Substance-Grafen-Editor und im Haupt-Editor für Substance-Dateien
 * Verbesserte Leistung beim Laden einer großen Anzahl von SBSAR-Dateien
-* Unterstützung für Substance-Materialien mit mehreren Graphen
-* Die Benutzeroberfläche für die Verwaltung von Substance-Graphen wurde geändert.
-* Verfügbare API zum Laden einer Vorgabe über C#
+* Unterstützung für Substance-Material mit mehreren Grafen
+* Die Benutzeroberfläche für die Verwaltung von Substance-Grafen wurde geändert.
+* Gelegt API zum Laden einer Vorgabe über C#
 * Aktualisierte Online-Dokumentation
 
 Fest:
@@ -41,7 +41,7 @@ Fest:
 * &quot;Alle Ausgaben generieren&quot;, &quot;Mip-Maps generieren&quot; und &quot;Nur Laufzeitumgebung&quot; funktionieren nicht
 * Probleme mit Namespaces
 * Null-Referenzfehler beim Aufrufen des Wiedergabemodus mit ausgewähltem Grafikelement
-* Problem mit HDRP und URP für die neueste LTS-Version 2021.3 von Unity, wenn nur Laufzeitmaterialien verwendet werden
+* Problem mit HDRP und URP für die neueste LTS-Version 2021.3 von Unity bei Verwendung von Nur-Laufzeitumgebungen (Runtime Only Materials)
 * Leistungsprobleme bei SBSAR-Dateien mit mehreren Eingaben
 * Fehler &quot;Der Handle wurde bereits freigegeben&quot;
 * Problem &quot;Blau im Wiedergabemodus verschoben&quot;

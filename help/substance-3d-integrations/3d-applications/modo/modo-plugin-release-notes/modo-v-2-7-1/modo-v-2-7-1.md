@@ -20,4 +20,4 @@ ht-degree: 6%
 
 # Modo v. 2.7.1
 
-* Alle Engines in D3D11 und OGL3 geändert
+* Alle Engine in D3D11 und OGL3 geändert

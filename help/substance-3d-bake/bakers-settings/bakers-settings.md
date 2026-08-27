@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
-description: Entdecken Sie alle verfügbaren Bäckereinstellungen und erfahren Sie, wie Sie jeden Bäckertyp für optimale Ergebnisse der Texturgenerierung konfigurieren können.
+description: Entdecken Sie alle verfügbaren Baker-Einstellungen und erfahren Sie, wie Sie jeden Baker-Typ konfigurieren, um optimale Ergebnisse bei der Generierung von Texturen zu erzielen.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 41%
 
 # Einstellungen für Bäcker
 
-Weitere Informationen zu den einzelnen Bäckereien und deren Einstellungen findet ihr auf den jeweiligen Seiten:
+Weitere Informationen zu den einzelnen Bakern und ihren Einstellungen finden Sie auf den entsprechenden Seiten:
 
 * [Häufig verwendete Parameter](../bakers-settings/common-parameters/common-parameters.md)
 * [Umgebungsverdeckung](../bakers-settings/ambient-occlusion/ambient-occlusion.md)

@@ -14,8 +14,8 @@ ht-degree: 2%
 
 + [Startseite](/help/substance-3d-integrations/home/home.md)
 + Game Engines.{#game-engines}
-  + [Game Engines - Übersicht](/help/substance-3d-integrations/game-engines/game-engines.md)
-  + Unreal Engine{#unreal-engine}
+  + [Game Engine - Übersicht](/help/substance-3d-integrations/game-engines/game-engines.md)
+  + Unechtes Engine{#unreal-engine}
     + Unreal Engine 5{#unreal-engine-5}
       + [Unreal Engine 5 - Übersicht](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5.md)
       + Unreal Engine 5 - Versionshinweise{#unreal-engine-5-release-notes}
@@ -28,7 +28,7 @@ ht-degree: 2%
       + [Substance-Eingabebild - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md)
       + [Materialinstanzdefinition - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md)
       + [Verwendung der Materialvorlage - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
-      + [Gebrauchsfertige Materialvorlagen](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md)
+      + [Gebrauchsfertige Vorlagen für Materials](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md)
       + [Physische Größe - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
       + [Kachel-Substance - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
       + [Standardvorlagen für Substance 3D-Plug-ins](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
@@ -123,7 +123,7 @@ ht-degree: 2%
     + [Importieren einer Substance](/help/substance-3d-integrations/game-engines/lumberyard/importing-a/importing-a-substance.md)
     + [Zuweisen einer Substance](/help/substance-3d-integrations/game-engines/lumberyard/assigning-a/assigning-a-substance.md)
     + [Parameter und Ausgaben](/help/substance-3d-integrations/game-engines/lumberyard/parameters-and-outputs/parameters-and-outputs.md)
-    + [Flow Graph API](/help/substance-3d-integrations/game-engines/lumberyard/flow-graph-api/flow-graph-api.md)
+    + [Flow Graf API](/help/substance-3d-integrations/game-engines/lumberyard/flow-graph-api/flow-graph-api.md)
   + [Roblox](/help/substance-3d-integrations/game-engines/roblox/roblox.md)
 + 3D-Anwendungen{#3d-applications}
   + [3D-Anwendungen - Übersicht](/help/substance-3d-integrations/3d-applications/3d-applications.md)

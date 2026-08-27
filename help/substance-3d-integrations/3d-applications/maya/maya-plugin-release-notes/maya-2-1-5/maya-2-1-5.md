@@ -26,6 +26,6 @@ Veröffentlicht am 5. August 2020
 
 * Die SBSAR-Dateien sollten jetzt angezeigt werden und können im Dateipfad-Editor festgelegt werden.
 * Dateipfade sollten von Maya relativ beim Freigeben eines Projekts festgelegt werden
-* &quot;Senden an&quot; vom Substance Launcher kopiert jetzt die SBSAR-Datei in das Projektverzeichnis
+* &quot;Senden an&quot; von Substance Launcher kopiert die sbsar-Dateien jetzt in das Projektverzeichnis
 
 Diese Version wird für Maya 2017, 2018, 2019 und 2020 unter Linux, MacOS und Windows und Maya LT 2018, 2019 und 2020 unter MacOS und Windows veröffentlicht.

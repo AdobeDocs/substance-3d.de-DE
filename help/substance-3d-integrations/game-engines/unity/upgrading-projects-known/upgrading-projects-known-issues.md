@@ -32,4 +32,4 @@ ht-degree: 1%
 * Fehler &quot;*Assertion bei Ausdruck fehlgeschlagen&quot; beim Navigieren zu Bedienfeldordnern.*
   * Dies ist ein Fehler, der auf der Unity-Seite auftritt, wenn Änderungen an der Benutzeroberfläche vorgenommen werden, in der Regel sind Miniaturansichtsänderungen eine harmlose Nachricht.
 * *Bildeingaben scheinen auf 8 Bit gesperrt zu sein*
-  * Dieses Problem wurde in Version 3.8.0-3 behoben. Der richtige Arbeitsablauf wäre, wenn die Benutzer das Standardformat von Unity für die Textur in RGBA64 ändern würden. Das Plug-in sorgt dafür, dass diese Informationen ordnungsgemäß an Substance Engine gesendet werden.
+  * Dieses Problem wurde in Version 3.8.0-3 behoben. Der richtige Arbeitsablauf wäre, wenn die Anwender Unity&#39;s Standardformat für die Textur in RGBA64 ändern würden. Das Plug-in sorgt dafür, dass diese Informationen ordnungsgemäß an Substance Engine gesendet werden.

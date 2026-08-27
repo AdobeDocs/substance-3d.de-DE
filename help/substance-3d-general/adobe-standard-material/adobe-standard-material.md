@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
-description: Erfahren Sie mehr über das Adobe-Standardmaterialmodell und seine Verwendung für physikalisch basiertes Rendering in verschiedenen Adobe-Anwendungen.
+description: Erfahren Sie mehr über das Adobe Standard Material-Modell und wie Sie es für physikalisch basiertes Rendering über Adobe-Anwendungen hinweg verwenden können.
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 # Adobe-Standardmaterial
 
-Das <b>Adobe-Standardmaterial</b> (ASM) ist ein Materialmodell, das als gemeinsame Benutzeroberfläche für Materialien entwickelt wurde, die von Adobe-Anwendungen und -Services für physikalisch basiertes Rendering (PBR) verwendet werden.
+Das <b>Adobe Standard Material</b> (ASM) ist ein Materialmodell, das als gemeinsame Benutzeroberfläche für Material entwickelt wurde, die von Adobe-Anwendungen und -Services für physikalisch basiertes Rendering (PBR) verwendet werden.
 
 Weitere Informationen finden Sie auf den folgenden Seiten:
 

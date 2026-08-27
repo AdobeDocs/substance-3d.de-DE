@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/cinema-4d.html"
 breadcrumb-title: ''
-description: Installieren und verwenden Sie das Substance-Plugin für Cinema 4D , um Substance-Materialien in Ihre Projekte zu importieren und damit zu arbeiten.
+description: Installieren und verwenden Sie das Substance-Plugin für Cinema 4D, um Substance-Materialien in Ihren Projekten zu importieren und mit ihnen zu arbeiten.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Cinema 4D
 helpx_experience_level: ""
@@ -27,7 +27,7 @@ ht-degree: 0%
 Das Substance-Plugin besteht im Wesentlichen aus zwei Komponenten: **Substance von Dateien** und einem **Substance-Shader**.
 
 * Substance-Assets repräsentieren die aktuellen Substance innerhalb von Cinema 4D. Sie werden im Substance Asset Manager verwaltet.
-* Substance Shader verbindet Ausgabekanäle von Substance-Assets mit Cinema 4D-Materialkanälen.
+* Substance Shader verbindet Ausgabekanäle von Substance-Assets mit Cinema 4D-Material-Kanälen.
 
 ## Inhaltsverzeichnis
 

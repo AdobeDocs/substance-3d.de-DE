@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4.html"
 breadcrumb-title: ''
-description: Verwenden Sie Live Link in Unreal Engine 4, um Substance-Materialien in Echtzeit zwischen Painter und UE4 zu synchronisieren.
+description: Verwenden Sie Live Link in Unreal Engine 4, um Substance-Materials in Echtzeit zwischen Painter und UE4 zu synchronisieren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Live Link in UE4
 helpx_experience_level: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!WARNING]
 >
-> Live Link funktioniert nicht mit UE4 BSP-Netzen. Bei dem von Ihnen gesendeten Element muss es sich um eine in Ihr UE4-Projekt importierte Modelldatei handeln
+> Live Link funktioniert nicht mit UE4 BSP-Meshs. Bei dem von Ihnen gesendeten Element muss es sich um eine in Ihr UE4-Projekt importierte Modelldatei handeln
 
 ## Herstellen einer Verknüpfung zum Substance Painter
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 1. Klicken Sie im Inhaltsbrowser mit der rechten Maustaste auf das Element, das Sie an Painter senden möchten, und wählen Sie &quot;An Painter senden&quot;.
 
    ![](../../../../assets/link1-22.png){width="400px"}
-1. Das Gitter erscheint im Substance Painter und du kannst mit der Texturierung beginnen. Während du arbeitest, werden Texturen an UE4 gesendet und auf die Materialien angewendet. Der grüne Punkt auf dem UE4-Symbol in der Symbolleiste zeigt an, dass der Link live ist und Texturen sendet.
+1. Der Mesh erscheint im Substance Painter und du kannst mit der Texturierung beginnen. Während du arbeitest, werden die Texturen an UE4 gesendet und auf die Materialien angewendet. Der grüne Punkt auf dem UE4-Symbol in der Symbolleiste zeigt an, dass der Link live ist und Texturen sendet.
 
    ![](../../../../assets/icon-12.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 Sie können dort weitermachen, wo Sie aufgehört haben, nachdem Sie Painter oder Unity geschlossen haben.
 
 1. Öffnen Sie das Projekt .spp im Substance Painter unter Ihrem Unity-Projekt>assets>.sp-Ordner.
-1. Klicken Sie mit der rechten Maustaste auf das Gitter im Inhaltsbrowser und wählen Sie &quot;An Painter senden&quot;, um die Verknüpfung wiederherzustellen.
+1. Klicken Sie im Inhaltsbrowser mit der rechten Maustaste auf den Mesh und wählen Sie &quot;An Painter senden&quot;, um die Verknüpfung wiederherzustellen.
 
    ![](../../../../assets/link5-3.png){width="600px"}

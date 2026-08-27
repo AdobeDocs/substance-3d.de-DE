@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
 breadcrumb-title: ''
-description: Verwende die Physische Größe-Einstellungen in Blender, um Substance-Materialien auf Basis realer Abmessungen zu skalieren.
+description: Verwenden Sie die Physische Größe-Einstellungen, um Substance-Materialien in Blender basierend auf den realen Abmessungen zu skalieren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Blender > Physical size in Blender
 helpx_experience_level: ""
@@ -24,10 +24,10 @@ Physische Größe in Substance-Materialien ermöglicht die Skalierung von Materi
 
 ![](../../../assets/blender-physical-size.png)
 
-Wenn die Physische Größe aktiviert ist, werden die Materialien entsprechend ihrer tatsächlichen Größe in Zentimetern gekachelt. Die Materialkachelung bleibt unabhängig vom Maßstab des Objekts gleich. Sie können die Funktion aktivieren, indem Sie im Add-On-Bedienfeld zum Physische Größe-Shader wechseln. Nachdem Sie die Skalierung eines Objekts angepasst haben, sollte die Skalierung mit Strg/Befehl+A angewendet werden, um die Physische Größe exakt zu kacheln.
+Wenn die Physische Größe aktiviert ist, werden die Materialien entsprechend ihrer tatsächlichen Größe in Zentimetern unterteilt. Die Kachelung des Materials bleibt unabhängig von der Größe des Objekts gleich. Die Funktion kann aktiviert werden, indem zum Physische Größe-Shader im Add-On-Bedienfeld gewechselt wird. Nachdem Sie die Skalierung eines Objekts angepasst haben, sollte die Skalierung mit Strg/Befehl+A angewendet werden, um die Textur der Physische Größe exakt zu kacheln.
 
 ## Anpassen der Physische Größe
 
-Die Werte im Zuordnungsknoten können angepasst werden, um die künstlerische Kontrolle über die Unterteilung von Physische Größen zu gewährleisten. Darüber hinaus kann ein Objekt wie z. B. Leer für die Texturkoordinateneingabe verwendet werden, um die Texturzuordnung mithilfe der Transformationen des Eingabeobjekts zu steuern (siehe Beispiel unten).
+Die Werte im Zuordnungsknoten können für die künstlerische Kontrolle über die Kachelung der Physische Größe angepasst werden. Darüber hinaus kann ein Objekt wie z. B. Leer für die Textur-Koordinateneingabe verwendet werden, um die Textur-Zuordnung mithilfe der Transformationen des Eingabeobjekts zu steuern (siehe Beispiel unten).
 
 ![](../../../assets/blender-physical-szie-empty.gif)

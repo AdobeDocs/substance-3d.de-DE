@@ -103,9 +103,9 @@ In den folgenden Tabellen ist die GPU-Raytracing-Unterstützung für jeden Bäck
 | Position aus Mesh | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | Position | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | Dicke aus Mesh | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| Transferierte Textur aus Gitter | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| Weltraumrichtung | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| Normale im Weltraum | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Transferierte Textur aus Mesh | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Welt-Raumrichtung | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Welt-Raum-Normale | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 \*: Unterstützt CPU-Raytracing, das deutlich langsamer ist als GPU-Raytracing.

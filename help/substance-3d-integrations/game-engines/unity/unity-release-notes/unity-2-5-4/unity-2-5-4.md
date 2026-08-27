@@ -24,7 +24,7 @@ Veröffentlicht am 9. Dezember 2020
 
 Fest:
 
-* Bitcodekompatible iOS-Apps können nicht erstellt werden, wenn Substance-Materialien in einem Unity-Projekt enthalten sind
+* Bitcodekompatible iOS-Apps können nicht generiert werden, wenn Substance-Material in einem Unity-Projekt enthalten sind
 
 Bekannte Probleme:
 

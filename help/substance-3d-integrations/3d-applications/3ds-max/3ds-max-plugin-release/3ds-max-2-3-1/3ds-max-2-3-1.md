@@ -29,16 +29,16 @@ Für einige der Probleme, die in dieser Version nicht behoben werden, ist in Kü
 Diese Version wird derzeit für 3ds Max 2018, 2019, 2020 und 2021 veröffentlicht.
 
 * &quot;Sbsar laden&quot; sucht jetzt zuerst im Ordner &quot;Projektbilder&quot;
-* Das Dialogfeld &quot;Renderer-Kompatibilität&quot; wird jetzt nur für den Renderer &quot;VRay RT&quot; und &quot;VUE File&quot; angezeigt
+* Das Dialogfeld &quot;Renderer-Kompatibilität&quot; wird jetzt nur für den VRay RT- und VUE-Dateirenderer angezeigt
 * Drag &amp; Drop für den Slate Material Editor deaktiviert, um Probleme mit Max. Stapel zu entfernen
 * Das Dialogfeld &quot;Rendern&quot; wird nicht mehr im Modus &quot;3ds Max, stumm&quot; angezeigt
 * Kleinere Python-Skripte sind jetzt mit Python 3 kompatibel
 * Unterstützung für den Substance Launcher hinzugefügt, um Substance Source-Assets an 3ds Max zu senden. Dies erfordert Änderungen am Launcher, aber die Unterstützung für das Plug-in wird vorhanden sein, da die Funktion hinzugefügt wird.
 * Das Skript für den Redshift-Renderer verwendet jetzt die in Redshift 2.6.24 festgelegten neuen Knotennamen
-* Max stürzt nicht mehr ab, wenn dem Substance2 SubstanceFilePath ein leerer Pfad zugewiesen wird
+* Max. Absturz nicht mehr, wenn dem Substance2 SubstanceFilePath ein leerer Pfad zugewiesen wurde
 * Namenskollision des SubstanceOutput-Typs mit dem alten Plug-in entfernen
 * SubstanceOutput-Klasse in Substance2Output umbenannt
 * Substance Menu Manager-Klasse wurde in Substance2MenuManager umbenannt
-* Paramblock-IDs werden jetzt beim Öffnen einer Szene gewaltsam gelöscht, sodass Kollisionen zwischen Szenendateien entfernt werden. Dadurch sollten Probleme mit ungültigen Parameterblöcken beim Laden behoben werden, wenn zwischen Szenen gewechselt wird. Beim Importieren können weiterhin Probleme auftreten, da dies komplexere Änderungen erfordert
+* Paramblock-IDs werden jetzt beim Öffnen einer Szene gelöscht, wodurch Kollisionen zwischen Szene-Dateien entfernt werden. Dadurch sollten Probleme mit ungültigen Parameterblöcken beim Laden behoben werden, wenn zwischen den Szenen gewechselt wird. Beim Importieren können weiterhin Probleme auftreten, da dies komplexere Änderungen erfordert
 * Das Plug-in wird jetzt außerhalb von 3ds Max installiert. Alle Pfade wurden von der Ladeposition aus in relative Pfade geändert.
 * Das Plug-in verwendet jetzt das Autodesk Application Plug-in-System.

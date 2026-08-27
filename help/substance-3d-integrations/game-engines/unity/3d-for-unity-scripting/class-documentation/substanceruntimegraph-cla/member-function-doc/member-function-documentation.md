@@ -130,7 +130,7 @@ float Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputFloat ( string input
 ```
 
 
-Substance Float-Eingang abrufen
+Substance-Fließkommazahl-Eingabe abrufen
 
 **Parameter**
 
@@ -393,7 +393,7 @@ bool value ) [inline]
 ```
 
 
-Aktualisieren der booleschen Substance-Eingabe
+Substance Boolesche Wert-Eingabe aktualisieren
 
 **Parameter**
 
@@ -429,7 +429,7 @@ float value ) [inline]
 ```
 
 
-Aktualisieren des Substance-Float-Eingangs
+Substance-Fließkommazahl-Eingabe aktualisieren
 
 **Parameter**
 

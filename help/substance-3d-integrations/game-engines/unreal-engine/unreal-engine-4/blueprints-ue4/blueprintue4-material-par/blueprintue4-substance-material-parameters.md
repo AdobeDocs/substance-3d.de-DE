@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
 breadcrumb-title: ''
-description: Ändern Sie die Substance-Materialparameter zur Laufzeit in Unreal Engine 4 mithilfe von Blueprint-Knoten für die dynamische Materialsteuerung.
+description: Ändern Sie die Parameter des Substance-Materials zur Laufzeit in Unreal Engine 4 mithilfe von Blueprint-Knoten für die dynamische Steuerung des Materials.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Blueprints - UE4 > Blueprint(UE4) Substance material parameters
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Blueprint(UE4) Substance-Materialparameter
+title: Blueprint(UE4) Substance Material-Parameter
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -46,13 +46,13 @@ Die Farbparameter werden mit &quot;Eingabefarbe festlegen&quot; geändert.
 
 ![](../../../../../assets/setcolor.png){width="800px"}
 
-## Ändern eines Integer-Parameters:
+## Parameter &quot;Ganzzahl&quot; ändern:
 
-Ganzzahlparameter funktionieren genauso wie der &quot;Fließkommawert für Eingabe festlegen&quot;. Sie verwenden den ganzzahligen Eingabeknoten.
+Die Parameter für die Ganzzahl funktionieren genauso wie die Fließkommazahl &quot;Eingabe festlegen&quot;. Sie verwenden den Knoten &quot;Ganzzahl der Eingabe festlegen&quot;.
 
 ![](../../../../../assets/int.png)
 
-## Bezeichner
+## Identifizierungen
 
 Sie finden den Bezeichner für einen Parameter in der Substanz INST. Bewegen Sie den Mauszeiger über den Parameter, und die QuickInfo zeigt den Bezeichnernamen an. Dies ist der Name, der im ID-Feld der Ausgabe in Substance Designer festgelegt wird.
 

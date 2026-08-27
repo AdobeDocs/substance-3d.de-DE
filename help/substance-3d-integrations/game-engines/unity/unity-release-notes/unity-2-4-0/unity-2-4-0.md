@@ -39,12 +39,12 @@ ht-degree: 0%
 ### Fehlerbehebungen:
 
 * Es wurde ein Fehler behoben, durch den das Öffnen einer Substance Source unter Mac einen Linux-Fehler auslöste.
-* Verkürzte Zeit, die beim Wechseln von Plattformen benötigt wird. Die Texturkonvertierung für mobile Plattformen erfolgt jetzt im Build und nicht beim Wechseln der Zielplattform.
+* Verkürzte Zeit, die beim Wechseln von Plattformen benötigt wird. Die Konvertierung von Texturen für mobile Plattformen erfolgt jetzt im Build und nicht beim Wechseln der Zielplattform.
 * Assertionsfehler beim Importieren von SBSAR
-* Beim Aktualisieren von Projekten mit .NET 3.5 brechen Substance-Materialien ab
+* Das Aktualisieren von Projekten mit .NET 3.5 führt zum Bruch von Substance-Materialien
 * Substance-Quelle wird im Linux-Dialogfeld unter OS X nicht unterstützt
-* Durch die Änderung des Diagrammnamens werden Vorschauen und Szenendateien im ForceText-Serialisierungsmodus zerstört.
-* Substance von Materialien mit mehreren Ausgaben mit derselben Verwendung bricht Plug-in unterstützt keine benutzerdefinierten Ausgaben in SBSAR
+* Namensänderung des Grafen zerstört Prefabs und Szene im ForceText-Serialisierungsmodus
+* Substance von Materialien mit mehreren Ausgaben mit derselben Verwendung unterbricht das Plug-in unterstützt keine benutzerdefinierten Ausgaben in sbsar
 
 ### Bekannte Probleme:
 

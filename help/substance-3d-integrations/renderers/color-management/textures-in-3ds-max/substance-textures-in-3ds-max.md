@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Das Substance in 3ds Max Plugin kümmert sich um die Gamma-Einstellung für Ausgänge.
 
-Beim Importieren von Texturen müssen Sie Gamma auf Override1.0 für Bilder festlegen, die Nicht-Farbdaten darstellen, wie z. B. Metall, Raueit, Normal, Height und Versatz.
+Beim Importieren von Texturen müssen Sie Gamma auf Override1.0 für Bilder festlegen, die Nicht-Farbdaten wie metallic, Rauheit, Normal, Height und Versatz darstellen.
 
 ![](../../../assets/3ds-override.png)

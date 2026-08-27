@@ -22,8 +22,8 @@ ht-degree: 0%
 
 ## Fehlerbehebungen/Updates:
 
-* Bei Verwendung des HDRP wird der metallische Wert des erzeugten HDRP-Materials auf 0 gesetzt. Der Standardwert wurde auf 1,0 festgelegt.
+* Bei Verwendung des HDRP wird der metallic Wert des generierten HDRP-Materials auf 0 gesetzt. Der Standardwert wurde auf 1,0 festgelegt.
 * HDRP-Maskenausgabe wurde auf sRGB gesetzt - Fixiert, um sRGB zu deaktivieren
-* Lese-/Schreibzugriff ist bei Nicht-Substance-Texturen nicht mehr aktiviert
+* Lese-/Schreibzugriff ist auf Nicht-Substance-Texturen nicht mehr aktiviert
 * Android unterstützt jetzt ordnungsgemäß 64-Bit.
 * Behobene Substance Source wird unter Mac OS nicht geladen

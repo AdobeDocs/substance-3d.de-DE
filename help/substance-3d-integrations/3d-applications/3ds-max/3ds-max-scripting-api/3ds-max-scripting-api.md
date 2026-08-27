@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api.html"
 breadcrumb-title: ''
-description: Referenzdokumentation zur Substance 3ds Max-Scripting-API zur Automatisierung von Materialvorgängen.
+description: Referenzdokumentation zur Substance 3ds Max-Scripting-API zur Automatisierung von Material-Vorgängen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > 3ds MAX Scripting API
 helpx_experience_level: ""
@@ -32,32 +32,32 @@ Unten finden Sie die Liste der Befehle und Eigenschaften für den Knoten Substan
 
 | Befehl | Beschreibung | Zurückgeben | Rückgabetyp: | Parameter |
 | --- | --- | --- | --- | --- |
-| getCurrentPackageName | Rufen Sie den Basisdateinamen des geladenen Pakets ab (sbsar-Datei, die im Diagrammknoten geladen wurde). | Der Dateiname (ohne das Präfixverzeichnis) des geladenen Pakets (SBSAR-Datei) | Zeichenfolge |  |
-| getCurrentGraphName | Den Namen des aktuellen Diagramms abrufen | Kennung der aktuellen Grapheninstanz | Zeichenfolge |  |
+| getCurrentPackageName | Rufen Sie den Basisdateinamen des geladenen Pakets ab (im Knoten &quot;Graf&quot; geladene sbsar-Dateien). | Der Dateiname (ohne das Präfixverzeichnis) des geladenen Pakets (sbsar-Datei) | Zeichenfolge |  |
+| getCurrentGraphName | Den Namen des aktuellen Grafen abrufen | Identifizierung der aktuellen Grapheninstanz | Zeichenfolge |  |
 | getOutputsNamesFromCurrentGraph | Liste der Ausgabenamen für aktivierte Ausgaben abrufen | Tabelle mit einer Liste von Kanalnamen für aktivierte Ausgaben | Liste |  |
-| getPresetIdentifiers | Liste der Vorgaben aus dem Substance-Diagramm abrufen | Tabelle mit der Liste der Zeichenfolgenbezeichner für alle Vorgaben | Liste |  |
-| setPackageAndGraphNames | Laden einer SBSAR-Datei von der Festplatte in den Diagrammknoten | Richtig bei Erfolg, Falsch bei Fehler | Boolescher Wert | ***Zeichenfolgenparameter***: **substancePackageFilePath** Der Pfad zur SBSAR-Datei auf dem Datenträger ***String-Parameter***: **graphInstanceNameToSelect** Der Zeichenfolgenbezeichner des Diagramms |
-| setInputInt | Festlegen einer Ganzzahleingabe mit einem neuen Wert |  |  | ***Ganzzahlparameter***: **Wert** Integer-Wert, um den Input auf ***String-Parameter festzulegen***: **inputIdentifier** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputFloat | Festlegen eines gleitenden Eingangs mit einem neuen Wert |  |  | ***Gleitkommaparameter***: **Wert** Gleitkommawert, um den Input auf den ***String-Parameter festzulegen***: **inputIdentifier** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputString | Festlegen einer Zeichenfolgeneingabe mit einem neuen Wert |  |  | ***Zeichenfolgenparameter***: **Wert** String-Wert, um den Input auf den ***String-Parameter festzulegen***: **inputIdentifier** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputBool | Festlegen einer booleschen Eingabe mit einem neuen Wert |  |  | ***Boolescher Parameter:* Wert &#x200B;** Boolescher Wert, um den Input auf den&#x200B;***String-Parameter festzulegen &#x200B;***: **inputIdentifier** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputVec2 | Festlegen einer Vektoreingabe mit zwei Elementen |  |  | ***Point2-Parameter:**&#x200B;***Wert** Max. Point2-Wert zum Festlegen des Eingangs auf den ***String-Parameter &#x200B;***: **inputIdentifier** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputVec3 | Festlegen einer Vektoreingabe mit drei Elementen |  |  | ***Point3-Parameter:* Wert &#x200B;** Max. Point3-Wert, um den Input auf den&#x200B;***-String-Parameter festzulegen &#x200B;***: **inputIdentifier** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputVec4 | Festlegen einer Vektoreingabe mit vier Elementen |  |  | ***Point4-Parameter***: **Wert** Max. Punkt4-Wert zum Festlegen der Eingabe auf ***String-Parameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputColor | Festlegen einer Farbeingabe mit einem neuen Wert |  |  | ***Farbparameter***: **Wert** Maximaler Farbwert zum Festlegen der Eingabe auf ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| setInputComboSelection | Aktuell ausgewählten Wert in einer Kombinationsfeldeingabe festlegen |  |  | ***Ganzzahlparameter***: **Wert** Index des Kombinationsfeld-Widget ***String-Parameters***: **inputIdentifier** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputInt | Abrufen des Eingabewerts für einen Ganzzahleingabetyp | Der aktuelle Ganzzahlwert der Eingabe | Ganzzahl | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputFloat | Abrufen des Eingabewerts für einen Gleitkommaeingabetyp | Der aktuelle Gleitkommawert der Eingabe | Float | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputString | Abrufen des Eingabewerts für einen Zeichenfolgeneingabetyp | Der aktuelle Zeichenfolgenwert der Eingabe | Zeichenfolge | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputBool | Abrufen des Eingabewerts für einen booleschen Eingabetyp | Der aktuelle boolesche Wert der Eingabe | Boolescher Wert | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputVec2 | Abrufen des Eingabewerts für einen point2-Eingabetyp | Der aktuelle max point2-Wert der Eingabe | Punkt 2 | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputVec3 | Abrufen des Eingabewerts für einen point3-Eingabetyp | Der aktuelle max point3-Wert der Eingabe | Punkt 3 | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputVec4 | Abrufen des Eingabewerts für einen point4-Eingabetyp | Der aktuelle max point4-Wert der Eingabe | Punkt 4 | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputColor | Abrufen des Eingabewerts für einen Farbeingabetyp | Der aktuelle Wert der Eingabe als Farbe | Color | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getInputComboSelection | Index der Kombinationsfeldauswahl basierend auf Bezeichner abrufen | Der Index des ausgewählten Kombinationsfeldelements | Ganzzahl | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Der eindeutige Zeichenfolgenbezeichner der Eingabe |
-| getMaterialDependentCount | Die Anzahl der Materialabhängigkeiten abrufen | Die Anzahl der abhängigen Referenzen eines Materialtyps | Ganzzahl |  |
+| getPresetIdentifiers | Liste der Vorgaben vom Substance-Graf abrufen | Tabelle mit der Liste der Zeichenfolgen-Identifizierungen für alle Vorgaben | Liste |  |
+| setPackageAndGraphNames | Laden einer sbsar-Datei vom Datenträger in den Graf-Knoten | Richtig bei Erfolg, Falsch bei Fehler | Boolescher Wert | ***Zeichenfolgenparameter***: **substancePackageFilePath** Der Pfad zum Parameter &quot;sbsar-Datei auf dem Datenträger ***String&quot;***: **graphInstanceNameToSelect** Die Zeichenfolgen-Identifizierung des Grafen |
+| setInputInt | Festlegen einer Ganzzahl mit einem neuen Wert |  |  | ***Ganzzahl-Parameter***: **Wert** Ganzzahl zum Festlegen des Eingabeparameters auf ***String***: **inputIdentifier** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| setInputFloat | Festlegen eines gleitenden Eingangs mit einem neuen Wert |  |  | ***Fließkommazahl-Parameter***: **Wert** Fließkommazahl zum Festlegen des Eingabeparameters auf ***String***: **inputIdentifier** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| setInputString | Festlegen einer Zeichenfolgeneingabe mit einem neuen Wert |  |  | ***Zeichenfolgenparameter***: **Wert** String-Wert, um den Input auf den ***String-Parameter festzulegen***: **inputIdentifier** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| setInputBool | Festlegen einer booleschen Eingabe mit einem neuen Wert |  |  | ***Boolesche Wert-Parameter:* Wert &#x200B;** Boolesche Wert-Wert, um den Input auf&#x200B;***String-Parameter festzulegen &#x200B;***: **inputIdentifier** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| setInputVec2 | Festlegen einer Vektoreingabe mit zwei Elementen |  |  | ***Point2-Parameter:**&#x200B;***Wert** Max. Point2-Wert zum Festlegen des Eingangs auf den ***String-Parameter &#x200B;***: **inputIdentifier** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| setInputVec3 | Festlegen einer Vektoreingabe mit drei Elementen |  |  | ***Point3-Parameter:* Wert &#x200B;** Max. Point3-Wert, um den Input auf den&#x200B;***-String-Parameter festzulegen &#x200B;***: **inputIdentifier** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| setInputVec4 | Festlegen einer Vektoreingabe mit vier Elementen |  |  | ***Point4-Parameter***: **Wert** Max. Point4-Wert zum Festlegen der Eingabe auf ***String-Parameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| setInputColor | Festlegen einer Farbeingabe mit einem neuen Wert |  |  | ***Farbparameter***: **Wert** Max. Farbwert, um die Eingabe auf ***Zeichenfolgenparameter festzulegen:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenkennung der Identifizierung |
+| setInputComboSelection | Aktuell ausgewählten Wert in einer Kombinationsfeldeingabe festlegen |  |  | ***Ganzzahl-Parameter***: **Wert** Index des Kombinationsfeld-Widget ***String-Parameters***: **inputIdentifier** Die eindeutige Zeichenfolgen-Identifizierung der Eingabe |
+| getInputInt | Abrufen des Eingabewerts für einen Ganzzahl-Eingabetyp | Die aktuelle Ganzzahl der Eingabe | Ganzzahl | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputFloat | Abrufen des Eingabewerts für einen Gleitkommaeingabetyp | Der aktuelle Gleitkommawert der Eingabe | Float | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputString | Abrufen des Eingabewerts für einen Zeichenfolgeneingabetyp | Der aktuelle Zeichenfolgenwert der Eingabe | Zeichenfolge | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputBool | Abrufen des Eingabewerts für einen booleschen Eingabetyp | Der aktuelle boolesche Wert der Eingabe | Boolescher Wert | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputVec2 | Abrufen des Eingabewerts für einen point2-Eingabetyp | Der aktuelle max point2-Wert der Eingabe | Punkt 2 | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputVec3 | Abrufen des Eingabewerts für einen point3-Eingabetyp | Der aktuelle max point3-Wert der Eingabe | Punkt 3 | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputVec4 | Abrufen des Eingabewerts für einen point4-Eingabetyp | Der aktuelle max point4-Wert der Eingabe | Punkt 4 | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputColor | Abrufen des Eingabewerts für einen Farbeingabetyp | Der aktuelle Wert der Eingabe als Farbe | Color | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getInputComboSelection | Index der Kombinationsfeldauswahl nach Identifizierung abrufen | Der Index des ausgewählten Kombinationsfeldelements | Ganzzahl | ***Zeichenfolgenparameter:* inputIdentifier &#x200B;** Die eindeutige Zeichenfolgenversion der Identifizierung der Eingabe |
+| getMaterialDependentCount | Die Anzahl der Abhängigkeiten in einem Material abrufen | Die Anzahl der abhängigen Verweise eines Materials vom Typ | Ganzzahl |  |
 | ApplyValuesToSelectedPreset | Überschreibt die aktuell ausgewählte Vorgabe mit den aktuellen Eingabewerten |  |  |  |
-| RemoveAllPresets | Alle Vorgaben im aktuellen Diagrammknoten entfernen |  |  |  |
+| RemoveAllPresets | Alle Vorgaben im aktuellen Graf entfernen |  |  |  |
 | CreatePreset | Erstellen einer neuen Vorgabe aus den aktuellen Eingaben |  |  | ***Zeichenfolgenparameter:* newPresetName &#x200B;** Anzeigename für die neue Vorgabe |
 | RemoveOnePreset | Vorgabe mit dem angegebenen Namen entfernen |  |  | ***Zeichenfolgenparameter:* selectedPresetName &#x200B;** Name der zu entfernenden Vorgabe |
 | ImportPreset | Die SBSPS-Datei in die aktuellen Vorgaben importieren |  |  | ***String-Parameter:**&#x200B;***filePath** String, der den Dateipfad enthält, aus dem die Vorgabe importiert werden soll |

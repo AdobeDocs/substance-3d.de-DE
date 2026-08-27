@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Substance in Maya-Plugin
 
-Das Substance in Maya-Plugin unterstützt pxrSurface über den Renderman-Render-Workflow. Dieser Workflow erstellt einen pxrSurface-Shader und konvertiert die Substance-Ausgaben zur Verwendung mit dem Material.
+Das Substance in Maya-Plugin unterstützt pxrSurface über den Renderman-Render-Workflow. Mit diesem Workflow wird ein pxrSurface-Shader erstellt und die Substance-Ausgaben zur Verwendung mit dem Material konvertiert.
 
 ![](../../../assets/renderman-1.png)

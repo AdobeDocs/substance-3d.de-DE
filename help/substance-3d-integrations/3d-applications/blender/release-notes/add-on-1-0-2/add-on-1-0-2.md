@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ***Voreinstellungsabschnitt: Hinzugefügt/aktualisiert:***
 
-* *Ein Link mit Pin-Einstellungen wurde zu den Adobe-Community-Foren und dem Discord-Kanal hinzugefügt.*
+* *Ein Link zu den Nadel-Voreinstellungen wurde zu den Adobe-Community-Foren und dem Discord-Kanal hinzugefügt.*

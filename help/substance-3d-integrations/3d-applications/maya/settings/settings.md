@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
-description: Konfigurieren Sie die Substance-Plugin-Einstellungen in Maya über das Substance-Shelf oder das Menü, um das Verhalten anzupassen.
+description: Konfigurieren Sie die Substance-Plugin-Einstellungen in Maya über das Substance-Regal oder -Menü, um das Verhalten anzupassen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Settings
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Einstellungen
 
-Das Substance-Einstellungsmenü kann über das Substance-Shelf oder das Substance-Menü aufgerufen werden. Die Einstellungen für dieses Menü werden in einer editierbaren Konfigurationsdatei &quot;substance.cfg&quot; gespeichert.
+Das Substance-Einstellungsmenü kann über das Substance-Regal oder das Substance-Menü aufgerufen werden. Die Einstellungen für dieses Menü werden in einer editierbaren Konfigurationsdatei &quot;substance.cfg&quot; gespeichert.
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Das Substance-Einstellungsmenü kann über das Substance-Shelf oder das Substanc
 
 ## Standardauflösung
 
-Legt die Standardauflösung für einen Substance-Knoten fest, wenn die SBSAR-Datei geladen wird.
+Legt die Standardauflösung für einen Substance-Knoten fest, wenn die sbsar-Datei geladen wird.
 
 ## Arbeitsablauf beim Rendern
 
@@ -47,21 +47,21 @@ Legt den standardmäßigen Rendering-Arbeitsablauf fest, der auf dem Substance-K
 
 ## Substance-Engine
 
-Festlegen von Voreinstellungen für das Substance Engine und global für alle Substance-Knoten. Die Substance-Engine wird zur Berechnung der Substance-Texturen verwendet.
+Festlegen von Voreinstellungen für das Substance Engine und global für alle Substance-Knoten. Das Substance-Engine wird verwendet, um die Substance-Texturen zu berechnen.
 
-### Motortyp
+### Engine-Typ
 
-Das Substance Engine ist als CPU- und GPU-Engine verfügbar. Um den Motor zu wechseln, muss Maya neu gestartet werden. Die GPU-Engine ermöglicht eine höhere Auflösung als die CPU-Engine.
+Das Substance Engine ist als CPU- und GPU-Engine verfügbar. Um das Engine zu wechseln, muss Maya neu gestartet werden. Das GPU-Engine ermöglicht eine höhere Auflösung als das CPU-Engine.
 
 >[!WARNING]
 >
-> Es kann Unterschiede zwischen der CPU und der GPU-Engine geben. Für konsistente Ergebnisse ist es daher am besten, den Typ auf die gleiche Engine festzulegen, die auch im Substance Designer verwendet wird.
+> Es kann Rechenunterschiede zwischen der CPU und dem GPU-Engine geben. Für konsistente Ergebnisse ist es daher am besten, den Typ auf das gleiche Engine festzulegen, das im Substance Designer verwendet wird.
 
-Die CPU-Kerne und der Engine-Speicher sind Einstellungen für die Menge an Ressourcen, die die Substance-Engine verwenden darf.
+Die CPU-Kerne und der Engine-Speicher geben an, wie viele Ressourcen das Substance-Engine verwenden darf.
 
 ### Blockieren von Renderings
 
-Mit dieser Option können Sie festlegen, ob der Substance-Engine-Compute die Maya-UI-Prozesse blockiert. Wenn diese Option aktiviert ist, hat die Substance-Engine Vorrang und blockiert die Maya-UI-Prozesse. Wenn diese Option deaktiviert ist, werden die Maya-Benutzeroberflächenprozesse nicht durch Substance-Engine-Berechnungen blockiert.
+Mit dieser Option können Sie festlegen, ob der Substance-Engine-Computer die Maya-Benutzeroberflächenprozesse blockiert. Wenn diese Option aktiviert ist, hat das Substance-Engine Vorrang und blockiert die Maya-Benutzeroberflächenprozesse. Wenn diese Option deaktiviert ist, werden die Maya-UI-Prozesse nicht von Substance-Engine-Berechnungen blockiert.
 
 ## Cache-Ausgaben auf Festplatte
 

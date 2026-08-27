@@ -57,31 +57,31 @@ Die Add-On-Voreinstellungen finden Sie im Fenster &quot;Einstellungen&quot; von 
 
 <b>Discord Server</b> - Öffnet den Discord-Server für das Ökosystem und die Plug-Ins im Browser.
 
-<b>Kacheln</b> - Passen Sie die X-, Y- und Z-Kachelung des Materials an. Die Sperre kann verwendet werden, um die Verknüpfung der Werte aufzuheben und sie einzeln anzupassen.
+<b>Kachelung</b> - Passen Sie die X-, Y- und Z-Kachelung des Materials an. Die Sperre kann verwendet werden, um die Verknüpfung der Werte aufzuheben und sie einzeln anzupassen.
 
 <b>Auflösung</b> - Die Standardauflösung für generierte Texturen. Die Sperre kann zum Aufheben der Verknüpfung verwendet werden, um die Auflösung unabhängig voneinander festzulegen.
 
-<b>Typ &quot;</b>&quot; anwenden: Legt das Verhalten der Schaltfläche &quot;Anwenden&quot; fest: Durch <b>Einfügen </b> wird das aktuelle Material mit dem ausgewählten Substance-Material überschrieben, und durch <b>Anhängen</b> wird das Material dem Objekt in einem neuen Materialschlitz hinzugefügt.
+<b>Typ &quot;</b>&quot; anwenden: Legt das Verhalten der Schaltfläche &quot;Anwenden&quot; fest: <b>Durch Einfügen von </b> wird das aktuelle Material mit dem ausgewählten Substance-Material überschrieben, und durch <b>Anhängen</b> wird das Material dem Objekt in einem neuen Material-Steckplatz hinzugefügt.
 
-<b>Bildformat exportieren</b> - Wenn in Blender generierte Bilder als Bildeingaben für ein Substance-Material verwendet werden, wird dieses Format verwendet, um das Bild im Zeitordner zu speichern.
+<b>Bildformat exportieren</b> - Wenn in Blender generierte Bilder als Bildeingaben für ein Substance-Material verwendet werden, wird dieses Format verwendet, um dieses Bild im Zeitordner zu speichern.
 
-<b>Standardmäßig ausgeblendete Eingabegruppen</b> - Schaltet die Eingabegruppen des Substance-Materials ein oder aus.
+<b>Standardmäßig ausgeblendete Eingabegruppen</b> - Schaltet nach Bedarf um, ob die Eingabegruppen des Substance-Materials standardmäßig erweitert oder ausgeblendet sind.
 
-<b>Nur Texturen standardmäßig aktualisieren</b> - Schaltet die Substance-Parameter für die Wetteraktualisierung um, die nur die Ausgabetexturen im Netzwerk der Blender-Schattierung betreffen. Wenn Sie diese Option deaktivieren, werden die Knotenverbindungen nach dem Anpassen der Parameter zurückgesetzt. Die Aktivierung wird empfohlen, wenn einem Material zusätzliche Knoten hinzugefügt werden. Andernfalls werden diese nach dem Anpassen der Parameter getrennt.
+<b>Nur Texturen standardmäßig aktualisieren</b> - Schaltet die Substance-Parameter für die Wetteraktualisierung um und wirkt sich nur auf die Texturen der Ausgabe im Netzwerk der Blender-Schattierung aus. Wenn Sie diese Option deaktivieren, werden die Knotenverbindungen nach dem Anpassen der Parameter zurückgesetzt. Die Aktivierung wird empfohlen, wenn einem Material weitere Knoten hinzugefügt werden, andernfalls werden diese nach dem Anpassen der Parameter getrennt.
 
-<b>Substance-Remotemodul </b>: Legt die vom Substance-Remotemodul verwendete Hardware fest.
+<b>Substance Remote-Engine </b>: Legt die vom Substance Remote-Engine verwendete Hardware fest.
 
-<b>Material automatisch anwenden</b> - Wenn ein Substance-Material erstellt wird, hängen Sie das Material automatisch an die ausgewählten Objekte in einem neuen Materialschlitz an.
+<b>Material automatisch anwenden</b> - Wenn ein Substance-Material erstellt wird, wird das Material automatisch an die ausgewählten Objekte in einem neuen Material-Steckplatz angehängt.
 
-<b>Material für ausgewählte Objekte automatisch hervorheben</b> - Ändern Sie das hervorgehobene Material im Substance 3D-Bedienfeld, wenn ein Objekt mit diesem Material ausgewählt ist.
+<b>Material für ausgewählte Objekte automatisch markieren</b> - Ändern Sie das markierte Material im Bedienfeld &quot;Substance 3D&quot;, wenn ein Objekt mit diesem Material ausgewählt ist.
 
-<b>Zyklen Texturen automatisch aktualisieren</b> - Zwingt die Textur zur Aktualisierung im 3D-Viewport, während die Zyklen-Renderansicht verwendet wird.
+<b>Zyklen Automatische Aktualisierung von Texturen</b> - Erzwingt die Aktualisierung der Textur im 3D-Viewport, während die Zyklen-Renderansicht verwendet wird.
 
-<b>Bestätigung zum Löschen der Vorgabe entfernen</b> - Entfernt das Bestätigungsfenster, das beim Löschen der Materialvorgaben angezeigt wird.
+<b>Bestätigung zum Löschen der Vorgabe entfernen</b> - Entfernt das Bestätigungsfenster, das beim Löschen von Materialvorgaben angezeigt wird.
 
 <b>Material mit aktiviertem gefälschtem Benutzer erstellen</b> - Legt fest, ob das Material mit aktiviertem oder deaktiviertem &quot;gefälschtem Benutzer&quot; erstellt wird. Mischerdaten, die als gefälschter Benutzer markiert sind, werden nach dem Schließen nicht bereinigt, auch wenn die Daten nicht verwendet werden.
 
-<b>Substance-Remotemodul &quot;</b>&quot; automatisch starten - Schaltet um, wenn das Substance-Remotemodul beim Starten von Blender initialisiert wird. Ist diese Option deaktiviert, startet die Remote-Engine nur, wenn ein Benutzer den Ladeknopf betätigt oder den Ladebefehl verwendet.
+<b>Das Substance-Remote-Engine &quot;</b>&quot; automatisch starten - Schaltet um, wenn das Substance-Remote-Engine beim Starten von Blender initialisiert wird. Wenn diese Option deaktiviert ist, startet das Remote-Engine nur, wenn ein Benutzer den Tastaturbefehl lädt oder verwendet.
 
 >[!NOTE]
 >
@@ -89,24 +89,24 @@ Die Add-On-Voreinstellungen finden Sie im Fenster &quot;Einstellungen&quot; von 
 
 <b>SBSAR-Bibliothekspfad</b> - Der Ordner, der standardmäßig geöffnet wird, wenn die Schaltfläche &quot;Laden&quot; zum Suchen nach einer Substance-Datei verwendet wird.
 
-<b>Temporärer Ordner </b> - Dieser Ordner ist der Standardspeicherort, an dem Texturen gespeichert werden, bevor eine Datei zum ersten Mal gespeichert wird.
+<b>Temporärer Ordner </b>: Dieser Ordner ist der Standardspeicherort, an dem Texturen gespeichert werden, bevor eine Datei zum ersten Mal gespeichert wird.
 
 <b>SBSAR-Dateien beim Speichern in </b> kopieren - Wenn diese Option aktiviert ist, werden SBSAR-Dateien in den angegebenen relativen Pfad kopiert, wenn die Datei gespeichert wird. Dies kann die gemeinsame Nutzung von Projekten zwischen Geräten erleichtern.
 
-<b>Beim Speichern Texturen kopieren nach </b> - Wenn eine Datei zum ersten Mal gespeichert wird, werden Texturen im temporären Ordner an diesen Speicherort kopiert. Die Variable $matname wird verwendet, um Unterordner für jedes Material zu erstellen.
+<b>Kopieren Sie beim Speichern die Texturen nach </b>: Wenn eine Datei zum ersten Mal gespeichert wird, werden die Texturen im temporären Ordner an diesen Speicherort kopiert. Die Variable $matname wird verwendet, um Unterordner für jedes Material zu erstellen.
 
-<b>Shader-Vorgabe</b>: Legt die Standard-Shader-Vorgabe fest, die beim Erstellen von Mischermaterialien aus Substance-Dateien verwendet wird. Kann auf Standard für UV-basierte Zuordnung oder Projektion für box-, sphere- und zylinder-basierte Zuordnung festgelegt werden.
+<b>Shader-Vorgabe</b>: Legt die standardmäßige Shader-Vorgabe fest, die beim Erstellen von Blender-Materialien aus Substance-Dateien verwendet wird. Kann auf den Standard für UV-basierte Zuordnung oder auf die Projektion für box-, sphere- und zylinder-Projektion-basierte Zuordnung gesetzt werden.
 
 <b>Versatz mittlerer Stufe</b> - Der Standardwert ist die Grundlage für Versatz im Versatz. Höhere Werte als der Standardwert schieben die Flächen nach außen und niedrigere Werte ziehen die Flächen nach innen.
 
 <b>Versatz-Skalierung</b>: Der Standardskalierungswert im Versatz-Knoten.
 
-<b>Emissionsintensität</b> - Der Standardwert für Emissionsstärke im Knoten Principled BSDF.
+<b>Emissive-Intensität</b> - Der Standardwert für die Emissions-Stärke im Knoten Principled BSDF.
 
-<b>Projektionsüberblendung</b> - Legt den Grad der Überblendung zwischen Winkeln für die Projektionsmethodenschattierungen fest.
+<b>Überblendung der Projektion</b>: Legt den Grad der Überblendung zwischen den Winkeln für die Projektion-Methodenschattierer fest.
 
-<b>AO Mix</b> - Wenn Umgebungsfarbe als Ausgabe aktiviert ist, bestimmt dieser Wert den Standardfaktorwert des MixRGB-Verdeckung-Knotens, der zum Kombinieren der Grundfarben- und Umgebungsfarben-Texturen verwendet wird.
+<b>AO Mix</b> - Wenn Ambient occlusion als Ausgabe aktiviert ist, bestimmt dieser Wert den Standardfaktorwert des MixRGB-Knotens, der zum Kombinieren der Grundfarbe- und Ambient occlusion-Texturen verwendet wird.
 
 <b>Ausgaben</b> - Die einzelnen Ausgaben von Materialien können aktiviert oder deaktiviert werden. Der Standardfarbraum, das Dateiformat und die Tiefe der Farben der einzelnen Ausgaben können ebenfalls angepasst werden.
 
-<b>Tastaturbefehle </b> - Passen Sie die Tastaturbefehle an, die zum Aufrufen eines schwebenden Menüs, zum Laden eines Substance-Materials und zum Anwenden des aktuellen Materials verwendet werden. Für Verknüpfungsaktualisierungen ist ein Neustart erforderlich, damit sie wirksam werden.
+<b>Tastaturbefehle </b> - Passen Sie die Tastaturbefehl-Tasten an, die zum Aufrufen eines schwebenden Menüs, zum Laden eines Substance-Materials und zum Anwenden des aktuellen Materials verwendet werden. Tastaturbefehl-Updates müssen neu gestartet werden.

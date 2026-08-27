@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
 breadcrumb-title: ''
-description: Verwenden Sie die Bump Offset-Zuordnung mit Substance-Materialien in Unreal Engine 4, um Tiefen-Illusionen und Oberflächendetails zu erstellen.
+description: Verwenden Sie die Bump Offset-Zuordnung mit Substance-Materialien in Unreal Engine 4, um Tiefen-Illusionen und Oberflächendetails zu erzeugen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Working with Bump Offset (Parallax) - UE4
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Arbeiten mit Bump Offset (Parallax) - UE4
 
-**Bump Offset**-Zuordnung verleiht einer Oberfläche die Illusion von Tiefe, indem die UV-Koordinaten auf kreative Weise geändert werden, um die Texel weiter von der Oberfläche des Objekts zu verschieben, sodass die Illusion entsteht, dass die Oberfläche mehr Details aufweist als sie tatsächlich tut. In diesem Beispiel wird beschrieben, wie Sie nicht nur den Ausdruck &quot;Bump-Offset-Material&quot; finden, sondern auch, wie Sie den Knoten &quot;Bump-Offset&quot; in Ihren Materialien verwenden können.
+**Bump Offset**-Zuordnung verleiht einer Oberfläche die Illusion von Tiefe, indem die UV-Koordinaten auf kreative Weise geändert werden, um die Texel weiter von der Oberfläche des Objekts zu verschieben. Dadurch entsteht der Eindruck, dass die Oberfläche mehr Details aufweist als sie tatsächlich tut. In diesem Beispiel wird beschrieben, wie Sie nicht nur den Bump-Offset-Knotenausdruck finden, sondern auch, wie Sie den Bump-Offset-Material in Ihren Materialien verwenden können.
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/HowTo/BumpOffset/>
 
@@ -28,6 +28,6 @@ Um die Height-Ausgabe zu verwenden, müssen Sie auf die Ausgabe in der Substance
 
 ![](../../../../assets/height-1.png){width="600px"}
 
-Erstellen Sie einen Bump-Offset-Knoten und schließen Sie dann den Rot-Kanal des Heights an das Height an. Sie können dann einen TexCoord in den Koordinateneingang des Bumpoffset eingeben. Der Ausgang des Bump-Offsets wird an den UV-Eingang für alle Substance-Texturen angeschlossen.
+Erstellen Sie einen Bump-Offset-Knoten und schließen Sie dann den Rot-Kanal des Heights an das Height an. Sie können dann einen TexCoord in den Koordinateneingang des Bumpoffset eingeben. Schließlich wird der Ausgang des Bumpoffset an den UV-Eingang für alle Substance-Texturen angeschlossen.
 
 ![](../../../../assets/bump.png){width="800px"}

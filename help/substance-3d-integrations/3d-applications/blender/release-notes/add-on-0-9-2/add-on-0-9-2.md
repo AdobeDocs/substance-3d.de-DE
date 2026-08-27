@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ***Versionshinweise für Add-on-Version 0.9.2***
 
-* *Das Kopieren von Blender-Dateien in den Texturordner wurde behoben.*
+* *Das Kopieren von Blender-Dateien in den Ordner &quot;Textur&quot; wurde behoben.*

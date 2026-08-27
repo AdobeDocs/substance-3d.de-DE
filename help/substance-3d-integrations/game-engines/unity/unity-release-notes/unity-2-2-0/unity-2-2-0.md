@@ -32,31 +32,31 @@ ht-degree: 0%
 * **.NET 4.x-Unterstützung**
 * Unterstützung von Substance Sourcen im Jahr 2018.3
 * Problem mit der Farbgebung für Substance Sourcen wurde behoben
-* Das Diagramm und das entsprechende Material haben jetzt denselben Objektnamen
+* Der Graf und das zugehörige Material haben nun denselben Objektnamen
 * Verbesserungen bei der Lesbarkeit der Unity Pro-Skin-GUI
-* Zusätzliche Unterstützung für Materialausgabezuweisungen
+* Zusätzliche Unterstützung für Materials Ausgabezuweisungen
 * Fehler in der sRGB-Verarbeitung behoben
-* Es wurde ein Fehler behoben, durch den ein Benutzer alle Instanzen eines Diagramms löschen konnte
+* Es wurde ein Fehler behoben, durch den ein Benutzer alle Instanzen eines Grafen löschen konnte
 * Es wurde ein Fehler behoben, durch den der Versuch, Substance zu rendern, während Parameter zur Laufzeit geändert wurden, dazu führte, dass nur zwei gleichzeitig gerendert werden konnten.
 * Beim Importieren eines Pakets, das alte Substance-Dateien enthält, benachrichtigt das Plug-in den Anwender, dass es alte Substance-Daten enthält, und löscht die Paketdateien, wenn Unity versucht, sie zu importieren (d. h. der Anwender muss nicht alles manuell löschen, wenn es defekt geliefert wurde)
 * Es wurde eine Schaltfläche &quot;Info&quot; im Substance-Menü hinzugefügt, um Informationen zum Substance-Plug-in anzuzeigen.
-* Hinzugefügte QuickInfos zum Mouseover in der Substance-GUI zum Anzeigen der angezeigten Substance-Parameternamen
-* Navigationsschaltflächen in der Substance-Benutzeroberfläche wurden hinzugefügt, um einen Link zu Substance-Grafiken und -Materialien zu erstellen.
-* Neue Symbole für das Substance-Diagramm/Material/Texturen im Inhaltsbrowser hinzugefügt
+* Hinzugefügte QuickInfos für das Mouseover in der Substance-GUI zum Anzeigen gelegt Substance-Parameternamen
+* Navigationsschaltflächen in der Substance-GUI wurden hinzugefügt, um einen Link zu Substance-Graf und -Materialien zu erstellen
+* Neue Symbole für den Substance-Graf/das Material/die Texturen im Inhaltsbrowser hinzugefügt
 * Substance-Miniaturansichten im Inhaltsbrowser aktualisiert
-* Die .mat-Datei von der Vorderseite der Substance-Materialnamen entfernt
-* Substance-Grafiken und -Materialien können jetzt umbenannt werden.
-* Wenn Sie die Substance-Diagrammauflösung ändern, wird das Popupfenster &quot;Anwenden/Wiederherstellen&quot; nicht mehr angezeigt, sodass der Benutzer die Änderung in diesem Moment bestätigen muss
+* Die Datei &quot;.mat&quot; wurde von der Vorderseite des Substance-Materials entfernt.
+* Substance-Graf und -Material können jetzt umbenannt werden
+* Wenn Sie die Auflösung des Substance-Grafen ändern, wird das Popupfenster &quot;Anwenden/Wiederherstellen&quot; nicht mehr angezeigt, sodass der Benutzer die Änderung in diesem Moment bestätigen muss.
 * Es wurde ein Fehler behoben, durch den beim Reflexionsprozess nur die vom Benutzer definierte Standardauflösung für den Substance verwendet wurde.
 * Es wurde eine Warnung zum Mouseover zur Substance-GUI hinzugefügt, die den Benutzer informiert, wenn der Farbraum auf Gamma festgelegt ist.
-* Die Funktionalität von Substance-Graph-Instanzen wurde geändert: Benutzer können jetzt Grafikinstanzen auf einem Substance erstellen, ohne zu jeder erstellten Instanz auf der grafischen Substance-Benutzeroberfläche aufgefordert zu werden
+* Die Funktionalität von Substance-Grapheninstanzen wurde geändert: Benutzer können jetzt Grapheninstanzen auf einem Substance erstellen, ohne für jede erstellte Instanz in der Substance Graf-Benutzeroberfläche aufgefordert zu werden
 
 ### Skripterstellung:
 
 * Wir haben einige Funktionen ausgeblendet, die nicht für die Skriptunterstützung vorgesehen sind
-* Funktion zum Duplizieren von Substance-Graphinstanzen über das Skript hinzugefügt: Duplicate()
-* Funktion zum Abfragen prozeduraler Eingabeinformationen über C# hinzugefügt, gibt ein Array von &quot;InputProperties&quot;-Elementen zurück: GetInputProperties()
-* Zusätzliche Funktion zum Überprüfen, ob eine Eingabe in einem Diagramm vorhanden ist, gibt true/false zurück: HasInput(string inputName)
+* Funktion zum Duplizieren von Substance-Grapheninstanzen über das Skript hinzugefügt: Duplicate()
+* Eine hinzugefügte Funktion zum Abfragen prozeduraler Eingabeinformationen über C# gibt ein Array von &quot;InputProperties&quot;-Elementen zurück: GetInputProperties()
+* Funktion hinzugefügt, um zu überprüfen, ob eine Eingabe in einem Graf vorhanden ist, gibt true/false zurück: HasInput(string inputName)
 * Funktion hinzugefügt, um zu überprüfen, ob eine visibleF-Eingabe sichtbar ist, gibt true/false zurück: IsInputVisible(string inputName)
 * Das Rendering-Schema wurde neu gestaltet. RenderSubstancesAsync() als solche veraltet ist, wurde dies in graphName.RenderAsync() geändert.
 
@@ -67,12 +67,12 @@ ht-degree: 0%
 * Der Benutzer muss &quot;Bitcode aktivieren&quot; im Menü &quot;Buildeinstellungen&quot; in Xcode deaktivieren, um für iOS zu erstellen.
 * Substance-Objektvorschauen im Inhaltsbrowser werden schwarz angezeigt, wenn das Buildziel auf Android/iOS festgelegt ist
 * Die Schaltfläche &quot;Alpha&quot; und der Schieberegler für die Vorschau der Mip-Map fehlen auf der nicht-Substance-Textur-GUI nach dem Importieren des Substance-Plugins
-* Der Anwender muss zwei Möglichkeiten nutzen, um eine Substance-Diagrammauflösung durch Skript zu definieren
-* Substance-Materialien sind nicht dauerhaft, wenn sie mit einem Unity-Paket exportiert/importiert werden
+* Der Anwender muss zwei Möglichkeiten nutzen, um eine Substance-Graf-Auflösung mittels Skript zu definieren
+* Substance-Material sind nicht dauerhaft, wenn sie mit einem Unity-Paket exportiert/importiert werden
 * Substance funktionieren nicht mit Asset Bundles
 * Substance-Vorschausymbole im Asset-Browser werden nach einem erneuten Import alle zum Substance S-Symbol
-* Durch das Umbenennen eines Substance-Diagramms, das ein Material in der Szene enthält, wird dieses Material von den Objekten entfernt, auf denen es platziert ist.
-* (Nur Mac) Durch die Aktualisierung des Plug-ins auf Mac werden Substance-Materialien aus Vorschauen in der Szene entfernt|
+* Durch das Umbenennen eines Substance-Grafen, der ein Material in der Szene enthält, wird dieses Material aus den Objekten entfernt, auf denen es platziert ist.
+* (Nur Mac) Durch die Aktualisierung des Plug-ins auf Mac werden Substance-Material aus Vorfabriken in der Szene entfernt|
 
 **Skripterstellung**
 

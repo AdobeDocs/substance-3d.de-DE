@@ -62,12 +62,12 @@ SBSAR-Dateien können mit Vorgaben veröffentlicht werden, die Sie im Dropdown-F
 
 ## Substance-Parameter
 
-Parameter, die im Substance Designer verfügbar gemacht wurden, können mit den Substance-Parametersteuerelementen angepasst werden. Diese Parameter werden vom Ersteller des Substance-Materials festgelegt und variieren je nach Material. Durch Anpassen dieser Parameter werden die erzeugten Texturen aktualisiert, wie durch das Bearbeitungssymbol neben dem Materialnamen im Abschnitt Geladene 3D-Substance-Materialien angezeigt wird.
+Parameter, die in Substance Designer gelegt wurden, können mit den Substance Parameter-Steuerelementen angepasst werden. Diese Parameter werden vom Ersteller des Substance-Materials festgelegt und variieren zwischen den Materialien. Durch Anpassen dieser Parameter werden die generierten Texturen aktualisiert, wie durch das Verarbeitungssymbol neben dem Namen des Materials im Abschnitt Geladene 3D-Substance-Materialien angegeben.
 
-Das Dateiformat von Ausgabetexturen kann über die Dropdown-Menüs geändert werden.
+Das Dateiformat der Ausgabe-Texturen kann über die Dropdown-Menüs geändert werden.
 
-Weitere Informationen finden Sie unter [Verfügbarmachen eines Parameters](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) auf der Designer-Dokumentationsseite.
+Weitere Informationen finden Sie auf der Designer-Dokumentationsseite unter [, das einen Parameter Legt](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter).
 
 ## Technische Parameter
 
-Substance-Materialien können eine Reihe von technischen Parametern aufweisen. Dies sind zusätzliche Steuerelemente für Farbkorrekturen und andere Materialanpassungen.
+Substance-Material können eine Reihe von technischen Parametern aufweisen. Dies sind zusätzliche Steuerelemente für Farbkorrekturen und andere Material-Anpassungen.

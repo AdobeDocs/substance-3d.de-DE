@@ -25,6 +25,6 @@ Veröffentlicht am 18. Dezember 2020
 **Fest:**
 
 * Der interaktive Renderer wird nicht aktualisiert, wenn die Optionen in den Koordinaten des Substance-Knotens geändert werden
-* Ganzzahlregler werden zurückgesetzt, wenn sie geändert werden
+* Ganzzahl-Schieberegler werden beim Ändern zurückgesetzt
 
 Diese Version wurde für die 3ds Max 2019, 2020 und 2021 veröffentlicht.

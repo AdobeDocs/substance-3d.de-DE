@@ -27,17 +27,17 @@ Heute haben wir die Version 2.3.2 des Plugins veröffentlicht, die meist ein Bug
 2.3.2 Version:
 
 * Aktualisierte Substance Engine auf 7.2.9
-* Problem beim Rendern mit Redshift/VRay-Abstürzen in 3ds Max 2018, 2019 und 2020 behoben
+* Problem beim Rendern mit Redshift/VRay behoben, das in 3ds Max 2018, 2019 und 2020 abstürzte
 * Debug-Assert-Fehler werden nicht mehr angezeigt
 * Der Substance2-Knoten verfügt jetzt über die Skriptschnittstellen für iMultipleOutputChannelsWithValues.
 * Der Substance-Quelleintrag im Menü öffnet nun den Substance Launcher zur Registerkarte Source (Quelle), falls er installiert ist
-* Substance-Materialien sollten jetzt korrekt aktualisiert werden, wenn Sie mit dem Corona-Renderer arbeiten
+* Substance-Materials sollten jetzt korrekt aktualisiert werden, wenn Sie mit dem Corona-Renderer arbeiten
 * Substance-Ausgaben werden bei Verwendung mit VRay Next nicht mehr vorübergehend durch Bilder ersetzt
 * Das Dialogfeld &quot;Renderkompatibilität&quot; wurde entfernt und wird automatisch angezeigt. Sie ist bei Bedarf noch im Dialogfeld &quot;Einstellungen&quot; verfügbar
-* Mögliche Probleme beim Exportieren einer FBX-Datei behoben, während Substance-Material in 3ds Max 2021 angewendet wurde
+* Mögliche Probleme beim Exportieren einer FBX-Datei behoben, während Substance Material in 3ds Max 2021 angewendet wurde
 
 Bekannte Probleme:
 
-* In 3ds Max 2018 stürzt das Exportieren einer FBX mit einem an das Objekt angehängten Substance-Material im fbxmax.dlu-Plug-in ab. Wir sprechen derzeit mit Autodesk, um zu sehen, ob es etwas auf unserer Seite gibt, das getan werden kann, oder ob es sich um eine Einschränkung der älteren Version der fbx-Integration handelt. Die vorherige Problemumgehung war unzuverlässig und wurde entfernt. Dies tritt nicht bei 3ds Max 2019 oder höher auf.
+* In 3ds Max 2018 wird das Exportieren einer FBX mit einem an das Objekt angehängten Substance-Material im fbxmax.dlu-Plug-in als Absturz angezeigt. Wir sprechen derzeit mit Autodesk, um zu sehen, ob es etwas auf unserer Seite gibt, das getan werden kann, oder ob es sich um eine Einschränkung der älteren Version der fbx-Integration handelt. Die vorherige Problemumgehung war unzuverlässig und wurde entfernt. Dies tritt nicht bei 3ds Max 2019 oder höher auf.
 
 Diese Version wurde für die 3ds Max 2018, 2019, 2020 und 2021 veröffentlicht.

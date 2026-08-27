@@ -54,17 +54,17 @@ Die von Materialien verwendete Standard-Shader-Vorgabe kann im Add-on [Voreinste
 
 Der Abschnitt &quot;Ausgaben&quot; des Substance 3D-Bedienfelds enthält auch Optionen zum Filtern von Ausgaben. Mit drei Schaltflächen neben der Dropdown-Liste für die Shader-Vorgabe können Sie nach aktivierten Ausgaben (Häkchen), Shader-Ausgaben (Kugel) und allen verfügbaren Ausgaben (Zeilen) filtern.
 
-Die Ausgaben können einzeln über das Kontrollkästchen aktiviert werden. Wenn eine Ausgabe aktiviert ist, wird eine entsprechende Ausgabe in der Texturknotengruppe erstellt. Wenn diese Ausgabe vom Materialknoten Principled BSDF unterstützt wird, wird sie automatisch mit ihr verbunden. Height stellt eine Verbindung zu einem Versatz-Knoten her, und Ambient Verdeckung wird mit der Grundfarbe in einem MixRGB-Knoten kombiniert.\
-Das Dropdown-Menü für das Dateiformat neben dem Häkchen kann verwendet werden, um den Dateityp festzulegen, als dem die Ausgabetextur gespeichert wird.
+Die Ausgaben können einzeln über das Kontrollkästchen aktiviert werden. Wenn eine Ausgabe aktiviert ist, wird eine entsprechende Ausgabe in der Textur-Knotengruppe erstellt. Wenn diese Ausgabe vom Knoten Principled BSDF Material unterstützt wird, wird sie automatisch mit ihr verbunden. Height stellt die Verbindung zu einem Versatz-Knoten her und Ambient occlusion wird mit der Grundfarbe in einem MixRGB-Knoten kombiniert.\
+Das Dropdown-Menü für das Dateiformat neben dem Häkchen kann verwendet werden, um den Dateityp festzulegen, als dem die Ausgabe-Textur gespeichert wird.
 
 Darüber hinaus können die Standardeinstellungen für die Dateiausgabe im Add-on &quot;[Voreinstellungen](../../../3d-applications/blender/preferences/preferences.md)&quot; geändert werden.
 
-## Materialien auf Objekten austauschen
+## Austauschen von Materialien gegen Objekte
 
-Klicke auf das Kugelsymbol im Bedienfeld &quot;Materialeigenschaften&quot; des Mischers, um eine Liste der Materialien in deinem Blende-Projekt zu öffnen. Substance-Materialien, die im Bedienfeld erstellt wurden, werden ebenfalls in der Liste angezeigt. Wenn Sie ein Material aus dieser Liste auswählen, wird das aktive Material in diesem Materialschlitz ersetzt.
+Klicke auf das Kugelsymbol im Bedienfeld &quot;Blender-Material&quot;, um eine Liste der Materialien in deinem Blende-Projekt anzuzeigen. Substance-Materialien, die im Bedienfeld erstellt wurden, werden ebenfalls in der Liste angezeigt. Wenn Sie ein Material aus dieser Liste auswählen, wird das aktive Material in diesem Material-Steckplatz ersetzt.
 
 ## Verschiebung
 
-Versatz des Gitters aus Texturen, die im Zyklen-Renderer unterstützt werden, jedoch nicht in &quot;Gleichmäßig&quot;. Um den Versatz anzuzeigen, stellen Sie sicher, dass die Height-Ausgabe aktiviert ist. Das Add-On setzt die Materialeinstellungen automatisch auf **Versatz und Bump** Versatz. Beim Anzeigen des Materials eines Objekts wird jetzt Versatz in der Renderansicht angezeigt. Der Versatz-Maßstab kann im Materialbedienfeld oder auf dem Versatz-Knoten justiert werden.
+Versatz des Meshs aus Texturen wird im Zyklen-Renderer unterstützt, nicht jedoch in &quot;Gleichmäßig&quot;. Um den Versatz anzuzeigen, stellen Sie sicher, dass die Height-Ausgabe aktiviert ist. Das Add-On setzt die Versatz-Einstellung des Materials automatisch auf **Versatz und Bump**. Beim Anzeigen des Materials eines Objekts wird jetzt Versatz in der Renderansicht angezeigt. Die Knotenskalierung kann im Bedienfeld &quot;Material&quot; oder auf dem Versatz &quot;Versatz&quot; angepasst werden.
 
-Um optimale Ergebnisse zu erzielen, sollten Sie höhere Unterteilungsebenen oder hochpolare Gitter für Versätze mit komplexen Materialdetails verwenden.
+Die besten Ergebnisse erzielen Sie, wenn Sie für Materialien mit komplexen Versatz-Details höhere Unterteilungsebenen oder Meshs mit hohem Poly-Anteil verwenden.

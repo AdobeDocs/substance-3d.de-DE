@@ -21,7 +21,7 @@ Die Dokumentation zu den folgenden Produkten und Themen ist jetzt auf dem Experi
 [Substance 3D Painter](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/home)
 [Substance 3D Designer](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/home)
 [Substance 3D Sampler](https://experienceleague.adobe.com/de/docs/substance-3d-sampler/using/home)
-[Backen mit Substance 3D](https://experienceleague.adobe.com/de/docs/substance-3d/bakers/home)
+[Baking führ mit Substance 3D](https://experienceleague.adobe.com/de/docs/substance-3d/bakers/home)
 [Allgemeine Informationen zu Substance 3D](https://experienceleague.adobe.com/de/docs/substance-3d/general-knowledge/home)
 [Ökosystem und Integrationen](https://experienceleague.adobe.com/de/docs/substance-3d/ecosystem/home)
 
@@ -33,7 +33,7 @@ Der Inhalt wechselt von HelpX zu Experience League. Die Dokumentation zu den fol
 [Substance 3D Painter](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/home)
 [Substance 3D Designer](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/home)
 [Substance 3D Sampler](https://experienceleague.adobe.com/de/docs/substance-3d-sampler/using/home)
-[Backen mit Substance 3D](https://experienceleague.adobe.com/de/docs/substance-3d/bakers/home)
+[Baking führ mit Substance 3D](https://experienceleague.adobe.com/de/docs/substance-3d/bakers/home)
 [Allgemeine Informationen zu Substance 3D](https://experienceleague.adobe.com/de/docs/substance-3d/general-knowledge/home)
 [Ökosystem und Integrationen](https://experienceleague.adobe.com/de/docs/substance-3d/ecosystem/home)
 

@@ -24,6 +24,6 @@ Veröffentlicht am 26. Juni 2020
 
 Änderungsliste:
 
-* Die Verwendung von Bilddateien mit weniger als vier Kanälen als Bildeingaben stürzt nicht mehr ab
+* Bilddateien mit weniger als vier Kanälen als Bildeingaben werden nicht mehr als Abstürze verwendet
 
 Diese Version wird für Maya 2017, 2018, 2019 und 2020 unter Linux, MacOS und Windows und Maya LT 2018, 2019 und 2020 unter MacOS und Windows veröffentlicht.

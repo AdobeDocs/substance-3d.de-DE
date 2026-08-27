@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Zum Rendern mit [Maxwell](https://maxwellrender.com/) können Sie aus Substance Painter exportierte Maps oder das Substance-Plug-in in [Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) verwenden.
 
-Substance Painter 2020.1 (6.1.0) enthält Maxwell [Ausgabevorlagen](https://docs.substance3d.com/display/SPDOC/Export) für Metallic/Raueit und Specular/Glanz zur Verwendung mit **Maxwell 5.1.0**.
+Substance Painter 2020.1 (6.1.0) wird mit Maxwell [Ausgabevorlagen](https://docs.substance3d.com/display/SPDOC/Export) für metallic/Rauheit und Specular/Glanz zur Verwendung mit **Maxwell 5.1.0** ausgeliefert.
 
 ## Inhaltsverzeichnis
 
