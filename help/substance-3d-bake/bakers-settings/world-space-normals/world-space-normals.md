@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: Speichere Gitternormalen, Tangenten und Binormale in Texturen unter Verwendung von Weltraum-Koordinaten für erweiterte Workflows.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
 description: Konfigurieren Sie die Farbraumeinstellungen von Unity, um ein ordnungsgemäßes Rendering von Substance-Materialien mit physikalisch basierten Shadern sicherzustellen.
 helpx_creative_field: ""

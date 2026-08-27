@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
 breadcrumb-title: ''
-description: Verwenden Sie die Physische Größe-Einstellungen, um Substance-Materialien basierend auf den realen Abmessungen in der Unreal Engine 5 zu skalieren.
+description: Verwenden Sie die Physische Größe-Einstellungen, um Substance-Materialien auf Basis der realen Abmessungen in Unreal Engine 5 zu skalieren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Physical Size - UE5
 helpx_experience_level: ""
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Physische Größe - UE5
 
-Physische Größe in Substance-Materialien ermöglicht die Skalierung von Materialien auf Basis ihrer Größe in der Welt. Dieser Wert wird in Substance Designer festgelegt und über das Materialvorlagensystem in Unreal eingelesen.\
+Physische Größe in Substance-Materialien ermöglicht die Skalierung von Materialien auf Basis ihrer Größe in der Welt. Dieser Wert wird in Substance Designer festgelegt und über das Material-Vorlagensystem in Unreal eingelesen.\
 Das Material [Substance\_Triplanar\_Template](../../../../game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md) im übergeordneten Element enthält ein Beispiel dafür, wie Physische Größe zum Skalieren von unrealen Materialien verwendet werden kann.
 
 
 
-Unabhängig von den Upscaling-Werten auf dem Gitter werden die Materialien basierend auf der Größe, die sie in der Welt einnehmen, in Zentimetern kacheln. Bei dem Gesteinsmaterial (Bild 1) beträgt diese 1,8m (180cm) für jede Messung.
+Unabhängig von den Upscaling-Werten auf dem Mesh werden die Materialien entsprechend der Größe in Zentimetern kacheln, die sie in der Welt einnehmen. Bei dem Felsen-Material (Bild 1) beträgt diese 1,8m (180cm) für jede Messung.
 
 ![](../../../../assets/rock-material-parameters.png)
 
-Bei Substance-Materialien, die Physische Größen enthalten, werden die Werte in jeden vorhandenen Materialvektorparameterknoten mit dem Namen &quot;physicalsize&quot; kopiert.
+Bei Substance-Materialien, die Physische Größe-Daten enthalten, werden die Werte in einen beliebigen Material-Vektor-Parameterknoten mit dem Namen &quot;physicalsize&quot; kopiert.
 
 
 
-Da in UE5 kein Materialwert vorhanden ist, kopiert die Kartenvorlage den Versatz als X, Y, X für die triplanare Physische Größe.
+Da in UE5 kein Wert für den Versatz in Materialien vorhanden ist, kopiert die Kartenvorlage den Wert als X, Y, X für die triplanare Physische Größe.

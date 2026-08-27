@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-1.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für die Blender-Add-On-Version 0.9.1, um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -47,8 +47,8 @@ ht-degree: 0%
 
 **Abschnitt des Substance 3D-Bedienfelds: Hinzugefügt/aktualisiert:**
 
-* Möglichkeit zum Anpassen und Sperren des Werts für den Tilgungs- und Auflösungsparameter
-* Aktualisierte voreingestellte Benutzeroberfläche - Die Dropdown-Liste &quot;Shader-Typ&quot;, um den Diagrammtyp zu ändern, den Benutzer haben möchten
-* Der Bildeingabeparameter wurde in den Standard-Bildeingabeparameter geändert, der in Blender verwendet wird. Sie können jetzt Blender-Bilder und nicht nur Dateien verwenden
+* Möglichkeit zum Anpassen und Sperren des Kachelungen- und Auflösungsparameterwerts
+* Aktualisierte voreingestellte Benutzeroberfläche - Die Dropdown-Liste &quot;Shader-Typ&quot;, um den Typ des Grafen zu ändern, den die Benutzer haben möchten
+* Der Eingabeparameter des Bilds wurde in den Standard-Bildeingang geändert, der in Blender verwendet wird. Sie können jetzt Blender-Bilder und nicht nur Dateien verwenden
 * Möglichkeit, jederzeit in mehreren Blender-Instanzen zu arbeiten
-* Unterstützung für die automatische Hervorhebung der Materialien im Substance 3D-Bedienfeld, wenn das Material im Viewport ausgewählt ist
+* Unterstützung für die automatische Hervorhebung der Material im Substance 3D-Bedienfeld, wenn das Material im Viewport ausgewählt ist

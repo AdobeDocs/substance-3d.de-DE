@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: Generieren Sie präzise Krümmungstexturen aus hochpolaren Meshes mithilfe von Raytracing für eine präzise Kantenerkennung.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Krümmung aus Gitter
 
-Die Krümmung des Gitterbäckers erzeugt eine Krümmungstextur aus hochpolaren Gittern. Er ist langsamer als der Basiskrümmungs-[&#128279;](../../bakers-settings/curvature/curvature.md)-Bäcker von , liefert jedoch genauere Ergebnisse.
+Die Krümmung des Gitterbäckers erzeugt eine Krümmungstextur aus hochpolaren Gittern. Er ist langsamer als der Basiskrümmungs-](../../bakers-settings/curvature/curvature.md)-Bäcker von [, liefert jedoch genauere Ergebnisse.
 
 **Verfügbar in:**
 

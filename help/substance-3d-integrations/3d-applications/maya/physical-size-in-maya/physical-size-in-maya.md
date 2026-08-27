@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
 breadcrumb-title: ''
 description: Verwende die Physische Größe-Einstellungen in Maya, um Substance-Materialien im realen Maßstab anzuwenden und eine präzise Visualisierung zu ermöglichen.
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
-description: Verwenden Sie Substance-Raueit und metallische Ausgaben in Toolbag 2 für Materialvorschau und Rendering in Echtzeit.
+description: Verwenden Sie Substance-Rauheit und metallic Ausgaben in Toolbag 2 für Echtzeit-Material-Vorschau und -Rendering.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Toolbag
 helpx_experience_level: ""
@@ -20,31 +20,31 @@ ht-degree: 5%
 
 # Werkzeugtasche
 
-Diese Seite zeigt, wie die Raueit/Metallic-Ausgaben für Toolbag 2 verwendet werden.
+Diese Seite zeigt, wie die Rauheit / metallic Ausgaben für Toolbag 2 zu verwenden.
 
-Toolbag unterstützt sowohl die Workflows Specular/Glanz als auch Metallisch/Raueit.
+Toolbag unterstützt sowohl den Specular/Glanz als auch die metallic/Rauheit Workflows.
 
-Substance 3D Painter verwendet den metallischen PBR-Shader als Standard, Sie können ihn jedoch auch mit dem Specular-/Glanzshader verwenden. Dieser Arbeitsablauf zeigt, wie die metallischen Ausgaben für Toolbag 2 verwendet werden. Toolbag unterstützt den metallischen Arbeitsablauf.
+Substance 3D Painter verwendet den metallic PBR-Shader als Standard, Sie können ihn jedoch auch mit dem Specular/Glanz-Shader verwenden. Dieser Arbeitsablauf zeigt, wie die metallic Ausgaben für Toolbag 2 verwendet werden. Toolbag unterstützt den metallic Arbeitsablauf.
 
-[Beispielszene herunterladen](https://www.dropbox.com/s/qyed3un2zhtuibj/toolbag.zip?dl=0)
+[Download-Beispiel-Szene](https://www.dropbox.com/s/qyed3un2zhtuibj/toolbag.zip?dl=0)
 
 ## Aus Painter exportieren
 
-1. Wenn Sie den standardmäßigen metallischen PBR-Shader verwenden, können Sie den Export mit den standardmäßigen Dokumentkanälen + Normal + AO-Exportvoreinstellungen durchführen.  ***\*Dokumentkanäle exportieren die Normalzuordnung basierend auf der Projektkonfiguration. Toolbag erfordert OGL Normal-Karte. Sie können das normale Format in der Projektkonfiguration ändern.***
-1. Alternativ können Sie eine benutzerdefinierte Exportkonfiguration erstellen, die das Glossar verwendet.
+1. Wenn Sie den standardmäßigen metallic PBR-Shader verwenden, können Sie den Export mit den standardmäßigen Dokumentkanälen + Normal + AO-Exportvoreinstellungen durchführen.  ***\*Die Dokumentkanäle exportieren Normalen-Map basierend auf der Projektkonfiguration. Toolbag erfordert OGL-Normalen-Map. Sie können das normale Format in der Projektkonfiguration ändern.***
+1. Alternativ können Sie eine benutzerdefinierte Exportkonfiguration erstellen, die Glanz verwendet.
 
    ![](../../assets/settings-export.png){width="600px"}
 1. Sie können das Normalformat vor dem Export in OpenGL ändern.  **Bearbeiten>Projektkonfiguration**
 
    ![](../../assets/settings-normal-format.png)
 
-## Materialeinrichtung
+## Material einrichten
 
 1. Reflexionsgrad auf &quot;Metallität&quot; setzen
 1. Spiegelung auf GGX festlegen
-1. Fügen Sie die Texturen zu den entsprechenden Kanälen hinzu, wie in der folgenden Abbildung gezeigt:
+1. Fügen Sie die Texturen den entsprechenden Kanälen hinzu, wie in der folgenden Abbildung dargestellt:
 
-   | Substance 3D Painter Texture | Farbraum | Werkzeugtaschenmaterial |
+   | Substance 3D Painter Textur | Farbraum | Toolbag-Material |
    | --- | --- | --- |
    | Grundfarbe | sRGB | Albedo |
    | Rauheit | sRGB Aus | Mikrooberfläche - Glanz - Klicken Sie auf Umkehren |

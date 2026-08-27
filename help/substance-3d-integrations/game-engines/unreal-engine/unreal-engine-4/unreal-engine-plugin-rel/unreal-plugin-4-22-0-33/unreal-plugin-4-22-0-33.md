@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-22-0-33.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-22-0-33.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für die Unreal Engine 4-Plug-in-Version 4.22.0.33, um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Unechtes Plug-in 4.22.0.33
 
-Diese Version dient der Kompatibilität mit unseren v7-Engines.
+Diese Version dient der Kompatibilität mit unseren v7-Enginen
 
 Download-Link:\
 <https://drive.google.com/open?id=11CDsNMfSJfjb86KGdEjFH4k5L2ElrJ4Q>

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
 breadcrumb-title: ''
 description: Verwenden Sie die Substance 3D API in Unity, um Skripte zu schreiben, die Substance-Parameter zur Laufzeit aktualisieren und ändern.
 helpx_creative_field: ""
@@ -36,19 +36,19 @@ Enthält freigegebene Komponenten für die Interaktion mit dem Substance SDK und
 
 #### Adobe.Substance.Editor
 
-Enthält editorspezifische Klassen zum Behandeln der Anzeige von Informationen über die Unity-Substance-Objekte sowie zum Behandeln der Importpipeline, wenn dem Projekt SBSAR-Dateien hinzugefügt werden. Die SubstanceEditorEngine-Klasse ist ein Singleton, der die Lebensdauer des Substance-Moduls und aller seiner verwalteten Instanzen behandelt.
+Enthält editorspezifische Klassen zum Behandeln der Anzeige von Informationen über die Unity-Substance-Objekte sowie zum Behandeln der Importpipeline, wenn dem Projekt SBSAR-Dateien hinzugefügt werden. Die SubstanceEditorEngine-Klasse ist ein Singleton, der die Lebensdauer des Substance-Engine und aller seiner verwalteten Instanzen behandelt.
 
 #### Adobe.Substance.Runtime
 
-Diese Klasse verfügt über Komponenten, die die Erstellung und Verwaltung von Substance-Objekten während der Laufzeit verarbeiten. Die SubstanceRuntime entspricht der SubstanceEditorEngine-Klasse für die Laufzeit. Es wird die Initialisierung der Substance-Engine sowie die Instanziierung jeder Substance-Instanz verarbeiten, mit der Benutzerskripte interagieren.
+Diese Klasse verfügt über Komponenten, die die Erstellung und Verwaltung von Substance-Objekten während der Laufzeit verarbeiten. Die SubstanceRuntime entspricht der SubstanceEditorEngine-Klasse für die Laufzeit. Es behandelt die Initialisierung des Substance-Engine sowie die Instanziierung jeder Substance-Instanz, mit der Benutzerskripte interagieren.
 
 ## Laufzeitnutzung
 
-Damit die Substance-Instanzeingaben zur Laufzeit geändert werden können, müssen Sie Ihrer Szene ein SubstanceRuntime←-Material hinzufügen (idealerweise zu demselben GameObject wie das Substance-Material). Diese Klasse unterstützt Sie beim Einrichten des Materials mit dem Singleton Adobe.Substance.Runtime.SubstanceRuntime, der die Instanziierung von Substance SDK-Objekten zur Laufzeit verwaltet.
+Damit die Substance-Instanzeingaben zur Laufzeit geändert werden können, ist es erforderlich, Ihrer Szene ein SubstanceRuntime←-Material hinzuzufügen (idealerweise zu demselben GameObject wie Ihr Substance-Material). Diese Klasse fungiert als Helfer zum Einrichten des Materials mit dem Adobe.Substance.Runtime.SubstanceRuntime-Singleton, der die Instanziierung von Substance SDK-Objekten zur Laufzeit verwaltet.
 
 ## Codebeispiele
 
-Das folgende Beispiel zeigt, wie Eingabeparameter zur Laufzeit mithilfe von SubstanceRuntimeGraph geändert werden.
+Im folgenden Beispiel wird veranschaulicht, wie Eingabeparameter zur Laufzeit mithilfe von SubstanceRuntimeGraph geändert werden.
 
 ### Parameter ändern
 

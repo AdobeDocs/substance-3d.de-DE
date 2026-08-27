@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
 breadcrumb-title: ''
 description: Exportieren Sie Substance Painter-Texturen für Blender's Cycles und Eveve Renderer mit den richtigen Ausgabeeinstellungen.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Sie können eine benutzerdefinierte Vorlage erstellen, um Texturen nach Blender zu exportieren.
 
-1. Klicke bei ausgewählter PBR-Vorlage für die Raueit des Metalls auf die Schaltfläche &quot;Duplizieren&quot;, um eine Kopie zu erstellen.
+1. Wähle die Vorlage &quot;PBR Metal Rauheit&quot; aus. Klicke auf &quot;Duplizieren&quot;, um eine Kopie zu erstellen.
 1. Ändern Sie den Normal -Typ beim Kopieren von DirectX in OpenGL, indem Sie die Option aus Maps in das RBG-Quadrat &quot;Normal&quot; ziehen und &quot;Von RBG&quot; auswählen.
 1. Benennen Sie die Vorgabe bei Bedarf um
 

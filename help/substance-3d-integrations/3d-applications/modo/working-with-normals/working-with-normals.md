@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
-description: Konfigurieren Sie die normalen Ausrichtungseinstellungen für Karten in MODO, um sicherzustellen, dass das normale Rendering von Karten mit Substance-Materialien korrekt ist.
+description: Konfigurieren Sie die Normalen-Map-Ausrichtungseinstellungen in MODO, um sicherzustellen, dass das Normalen-Map-Rendering mit Substance-Materialien korrekt ist.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Working with Normals
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Arbeiten mit normalen Daten - Festlegen der richtigen Ausrichtung
 
-Stock-Substance verwenden die normale Ausrichtung von DX. MODO verwendet jedoch OGL. Sie können die Normale spiegeln, indem Sie den Parameter Normales Format auf 1,0 festlegen. Das Substance-Plugin interpretiert nur die auf der Substance festgelegten Parameter. Möglicherweise tritt eine Substance auf, die nicht über den Parameter &quot;normal\_format&quot; verfügt, da es Sache des Autors der Substance ist, dieses Steuerelement benutzerdefinierten Substance hinzuzufügen. Wenn Sie auf einen Substance stoßen, der diesen Parameter nicht hat, können Sie den grünen Kanal auf der Texturebene der Normalmap spiegeln, um die Ausrichtung zu korrigieren.
+Stock-Substance verwenden die normale Ausrichtung von DX. MODO verwendet jedoch OGL. Sie können die Normale spiegeln, indem Sie den Parameter Normales Format auf 1,0 festlegen. Das Substance-Plugin interpretiert nur die auf der Substance festgelegten Parameter. Möglicherweise tritt eine Substance auf, die nicht über den Parameter &quot;normal\_format&quot; verfügt, da es Sache des Autors der Substance ist, dieses Steuerelement benutzerdefinierten Substance hinzuzufügen. Wenn Sie auf einen Substance stoßen, der diesen Parameter nicht hat, können Sie den grünen Kanal auf der Textur-Ebene der Normalen-Map drehen, um die Ausrichtung zu korrigieren.
 
 >[!NOTE]
 >

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
-description: Korrigieren Sie seltsame farbige Verläufe in normalen Maps, indem Sie Mesh-Normalen, Glättungsgruppen und UV-Mapping überprüfen.
+description: Experimentiere mit farbigen Verläufen in Normalen-Map. Überprüfe Mesh-Normalwerte, Glättungsgruppen und UV-Mapping.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Normal map has strange colorful gradients
 helpx_experience_level: ""
@@ -20,31 +20,31 @@ ht-degree: 0%
 
 # Normale Karte hat seltsame farbige Verläufe
 
-Das Ergebnis des Bäckers ist eine Reihe sehr starker bunter Farbverläufe.
+Das Ergebnis des Bakers ist eine Reihe sehr starker farbiger Farbverläufe.
 
 ![](../../assets/color-gradient.png)
 
 
 ## Erläuterung
 
-Farbverläufe treten in der Regel auf, wenn während des Backvorgangs eine Diskrepanz zwischen dem High-Poly- und dem Low-Poly-Gitter besteht. Diese Diskrepanz kann durch den folgenden Grund erklärt werden:
+Farbverläufe treten in der Regel auf, wenn beim Baking führ eine Diskrepanz zwischen dem Mesh mit hohem und niedrigem Poly besteht. Diese Diskrepanz kann durch den folgenden Grund erklärt werden:
 
-* Das Gitter mit hohem und niedrigem Poly <b>überlappen sich nicht </b> ordnungsgemäß (siehe Abbildung unten).
+* Der Mesh mit hohem und niedrigem Poly <b>überlappen sich nicht </b> richtig (siehe Abbildung unten).
 * Das High-Poly ist <b>fehlende Geometrie</b>, die das Low-Poly abzudecken versucht.
-* Das High-Poly- oder Low-Poly-Gitter hat invertierte Scheitelpunktnormalen.
+* Der Mesh mit hohem oder niedrigem Poly hat invertierte Scheitelpunkt-Normalen.
 
-Wenn das passiert, versuchen Sie den Backvorgang, Geometrie, die nicht vorhanden ist, entsprechen, was zu etwas leeren. Der Bäcker füllt diesen leeren Bereich mit einer Farbe, die aus den benachbarten Pixeln in den Texturen extrahiert wird, wodurch der farbige Verlauf erstellt wird (es sei denn, <b>Diffusion</b> ist deaktiviert).
+Wenn dies geschieht, versucht der Baking führend Prozess, die Geometrie anzupassen, die nicht existiert, was zu etwas Leerem führt. Der Baker füllt diesen leeren Bereich mit einer Farbe, die aus den Nachbarpixeln in den Texturen extrahiert wurde, wodurch der farbige Farbverlauf erstellt wird (es sei denn, <b>Diffusion</b> ist deaktiviert).
 
 ## Lösung
 
-Angesichts der wenigen möglichen Gründe, die zu keiner Überschneidung zwischen den Maschen führen, müssen einige Lösungen in Betracht gezogen werden:
+Angesichts der wenigen möglichen Gründe, die zu keiner Überschneidung zwischen den Meshs führen, müssen einige Lösungen in Betracht gezogen werden:
 
-* Stellen Sie sicher, dass Sie die Gittertransformation einfrieren/zurücksetzen (x-Form zurücksetzen usw.), um sicherzustellen, dass alle Gitter konsistent sind.
-* Importieren Sie sowohl das Polygonnetz mit niedriger als auch das Polygonnetz in Ihre 3D-Modellierungssoftware, um sicherzustellen, dass sie sich korrekt überlappen.
-* Stellen Sie sicher, dass Ihre Namenskonvention gültig ist, wenn Sie die Funktion [Abgleich nach Name](../../features/matching-by-name/matching-by-name.md) verwenden (Sie können sie überprüfen, indem Sie die Protokolldatei sichern und dann in die Protokolldatei schauen, in der die Netznamen gedruckt werden sollen).
+* Stellen Sie sicher, dass Sie die Mesh-Transformation einfrieren/zurücksetzen (x-Form zurücksetzen usw.), um sicherzustellen, dass alle Meshs konsistent sind.
+* Importieren Sie sowohl den Low- als auch den High-Poly-Mesh in Ihre 3D-Modellierungssoftware, um sicherzustellen, dass sie sich korrekt überlappen
+* Stellen Sie sicher, dass Ihre Namenskonvention gültig ist, wenn Sie die Funktion [Abgleich nach Name](../../features/matching-by-name/matching-by-name.md) verwenden (Sie können sie überprüfen, indem Sie die Protokolldatei, in der die Namen der Mesh gedruckt werden sollen, Baking geführt und dann überprüft haben).
 
 ### Beispiel
 
-Unten sehen Sie ein Beispiel mit einer Kugel mit hohem und niedrigem Poly. Auf der linken Seite überlappen sich die Gitter nicht, da das Poly weggeschoben wurde:
+Unten sehen Sie ein Beispiel mit einer Kugel mit hohem und niedrigem Poly. Auf der linken Seite überlappen sich die Mesh nicht, da das Poly weggeschoben wurde:
 
 ![](../../assets/baking-gradients.jpg)

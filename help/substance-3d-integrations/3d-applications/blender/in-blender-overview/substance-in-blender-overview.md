@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
-description: Erfahren Sie mehr über das Substance 3D-Add-on für Blender und wie Sie Substance-Materialien in Ihre Projekte importieren und damit arbeiten.
+description: Erfahren Sie mehr über das Substance 3D-Add-on für Blender und wie Sie Substance-Materials in Ihre Projekte importieren und damit arbeiten.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Blender > Substance in Blender Overview
 helpx_experience_level: ""
@@ -22,23 +22,23 @@ ht-degree: 0%
 
 ## Übersicht über Plug-ins
 
-Mit dem Substance 3D-Add-on können Sie Substance-Materialien in Blender importieren. Im Substance 3D-Bedienfeld können Sie die Substance-Materialien in Ihrem Projekt von einem zentralen Ort aus verwalten und anpassen. Das Add-on generiert Texturmaps aus .sbsar-Dateien und verwendet sie zum Erstellen eines Mischermaterials. Diese Texturen werden automatisch aktualisiert, wenn die Substance-Parameter angepasst werden.
+Mit dem Substance 3D-Add-on können Sie Substance-Materials in Blender importieren. Im Substance 3D-Bedienfeld können Sie die Substance-Materialien in Ihrem Projekt von einem zentralen Ort aus verwalten und anpassen. Das Add-on generiert Textur Maps aus .sbsar-Dateien und verwendet sie zum Erstellen eines Blender-Materials. Diese Texturen werden automatisch aktualisiert, wenn die Substance-Parameter angepasst werden.
 
 ## Importieren von Substance-Material
 
 1. Klicken Sie im Substance 3D-Bedienfeld auf die Schaltfläche **Laden**.
-1. Navigieren Sie im daraufhin geöffneten Fenster zum Speicherort der .sbsar-Dateien und wählen Sie eine oder mehrere Dateien aus. Klicken Sie dann auf die Schaltfläche **Substance laden**.
-1. Klicke im Bedienfeld &quot;Material&quot; auf das Kugelsymbol, um das Dropdown-Menü zu öffnen und das Substance-Material auszuwählen. Dadurch wird das Material dem aktuellen Schlitz zugewiesen. Alternativ können Sie im Bedienfeld &quot;Substance 3D&quot; auf die Schaltfläche &quot;Anwenden&quot; klicken, um das Material in einem neuen Materialschlitz zuzuweisen, der die aktuelle Zuordnung nicht überschreibt.
+1. Navigieren Sie im daraufhin geöffneten Fenster zum Speicherort der .sbsar-Dateien und wählen Sie eine oder mehrere Dateien aus. Klicken Sie dann auf die Schaltfläche **Substance-Material laden**.
+1. Klicken Sie auf das Kugelsymbol im Bedienfeld Material , um das Dropdown-Menü zu öffnen und Ihr Substance-Material auszuwählen. Dadurch wird das Material dem aktuellen Steckplatz zugewiesen. Alternativ können Sie über die Schaltfläche &quot;Anwenden&quot; im Substance 3D-Bedienfeld das Material einem neuen Material-Steckplatz zuweisen, der die aktuelle Zuweisung nicht überschreibt.
 
 >[!NOTE]
 >
-> Wenn das Objekt über kein Material verfügt, fügt die Schaltfläche **Anwenden** das Substance-Material automatisch an.
+> Wenn das Objekt keine Material enthält, wird das Substance-Material automatisch über die Schaltfläche **Anwenden** angehängt.
 
 ![](../../../assets/blender-overview-steps.png)
 
 ## Das Bedienfeld &quot;Substance 3D&quot;
 
-Mit dem Bedienfeld &quot;Substance 3D&quot; können Sie die Substance-Materialien in einem Projekt verwalten und ihre individuellen Parameter anpassen. Der Abschnitt &quot;Diagrammparameter&quot; enthält Steuerelemente für Strukturauflösung, Kachelung, Randomisierung und Vorgaben. Der Abschnitt &quot;Ausgaben&quot; enthält Steuerelemente für die Bildformate generierter Texturen. Im Abschnitt &quot;Substance-Parameter&quot; können die Substance-Parameter angepasst werden.
+Mit dem Bedienfeld &quot;Substance 3D&quot; können Sie die Substance-Material in einem Projekt verwalten und ihre individuellen Parameter anpassen. Der Abschnitt &quot;Graf-Parameter&quot; enthält Steuerelemente für die Auflösung der Textur, die Kachelung, die Randomisierung und die Vorgaben. Der Abschnitt &quot;Ausgaben&quot; enthält Steuerelemente für die Bildformate generierter Texturen. Im Abschnitt &quot;Substance-Parameter&quot; können die Substance-Parameter angepasst werden.
 
 Weitere Informationen finden Sie auf der Seite [Substance 3D Panel](../../../3d-applications/blender/the-3d-panel/the-substance-3d-panel.md).
 
@@ -72,8 +72,8 @@ Weitere Informationen finden Sie auf der Seite [Voreinstellungen](../../../3d-ap
 
 ## Weitere Substance-Materialien
 
-Tausende von professionell erstellten Materialien und anderen Assets stehen auf der [Substance 3D Assets-Seite](https://helpx.adobe.com/de/substance-3d/unlisted/assets.html) zum Download zur Verfügung. Viele weitere Elemente, die von der Community kostenlos freigegeben wurden, finden Sie auf der Seite [Substance 3D Community Assets](https://helpx.adobe.com/de/substance-3d/unlisted/community-assets.html).
+Tausende von professionell erstellten Materialien und anderen Assets stehen auf der [Substance 3D Assets-Seite](https://helpx.adobe.com/substance-3d/unlisted/assets.html) zum Download zur Verfügung. Viele weitere Elemente, die von der Community kostenlos freigegeben wurden, finden Sie auf der Seite [Substance 3D Community Assets](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html).
 
 ## Community
 
-Für allgemeine Hilfe, Rückmeldungen oder Fehlermeldungen können Sie sich dem #substance-blender-beta auf dem [Substance Discord-Server &#x200B;](https://discord.com/invite/substance3d) oder [Adobe-Communities](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender) anschließen.
+Für allgemeine Hilfe, Rückmeldungen oder Fehlermeldungen können Sie sich dem #substance-blender-beta auf dem [Substance Discord-Server ](https://discord.com/invite/substance3d) oder [Adobe-Communities](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender) anschließen.

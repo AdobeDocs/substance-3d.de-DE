@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-2.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Unity-Plug-in Version 2.3.2 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 **Substance Painter Live Link**
 
-* Beim Erstellen eines Projekts nach dem Malen mit Substance Live Link wird das gemalte Gitter wieder auf ein Standardmaterial zurückgesetzt
+* Wenn Sie nach dem Malen mit Substance Live Link ein Projekt erstellen, wird der gemalte Mesh wieder auf ein Standard-Material zurückgesetzt
 * AO-Kanal wird nicht mit Painter-Live-Link gesendet
-* Gitter mit mehreren Materialien funktionieren in Unity Live Link nicht
+* Mesh mit mehreren Materialien funktionieren nicht in Unity Live Link
 * Die Art und Weise, wie Unity LiveLink SimpleJson verwendet, kollidiert mit anderen Instanzen von SimpleJson in einem Projekt

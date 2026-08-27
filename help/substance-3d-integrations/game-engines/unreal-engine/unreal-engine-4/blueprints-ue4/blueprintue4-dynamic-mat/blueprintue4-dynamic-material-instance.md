@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-material-instance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-material-instance.html"
 breadcrumb-title: ''
 description: Erstellen Sie mithilfe von Blueprints dynamische Materialinstanzen aus Substance-Materialien zur Laufzeit in der Unreal Engine 4.
 helpx_creative_field: ""

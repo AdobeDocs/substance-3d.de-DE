@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
 breadcrumb-title: ''
 description: Mit Raytracing-Techniken lassen sich realitätsgetreue Strukturen in der Verdeckung aus hochpolaren Meshes erzeugen.
 helpx_creative_field: ""

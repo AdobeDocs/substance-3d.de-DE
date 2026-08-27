@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
 breadcrumb-title: ''
-description: Verwenden Sie die Skript-API Substance Unreal Engine 5, um Substance-Materialien in Ihren Projekten programmgesteuert zu verwalten.
+description: Verwenden Sie die Skript-API Substance Unreal Engine 5, um Substance-Material in Ihren Projekten programmgesteuert zu verwalten.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Scripting
 helpx_experience_level: ""
@@ -20,18 +20,18 @@ ht-degree: 0%
 
 # Unreal Engine 5 - Skripterstellung
 
-Die Substance im Unreal Engine-Plugin kann mit Skripten versehen werden. Die Methoden werden in der Datei SubstanceGraphInstance.h des Plug-ins aufgeführt und mit Anmerkungen versehen, die sich normalerweise im folgenden Verzeichnis befindet, wenn das Plug-in vom Marketplace installiert wird:
+Das Substance in Unreal Engine Plugin kann mit Skripten versehen werden. Die Methoden werden in der Datei SubstanceGraphInstance.h des Plug-ins aufgeführt und mit Anmerkungen versehen, die sich normalerweise im folgenden Verzeichnis befindet, wenn das Plug-in vom Marketplace installiert wird:
 
-* **Modulinstallation**: [UE\_5.X.X-Speicherort]\Engine\Plugins\Marketplace\Substance\Source\SubstanceCore\Classes\SubstanceGraphInstance.h
+* **Installation des Engine**: [UE\_5.X.X-Speicherort]\Engine\Plugins\Marketplace\Substance\Source\SubstanceCore\Classes\SubstanceGraphInstance.h
 * **Projektinstallation**: [Speicherort des Projektordners]\Plugins\Runtime\Substance\Source\SubstanceCore\Classes\SubstanceGraphInstance.h
 
   ![](../../../../assets/substancegraphinstance.png)
 
 `BlueprintCallable` gibt an, dass die Methode auch im Blueprint-Editor verwendet werden kann.
 
-## Scripting im Python-Editor der Unreal Engine
+## Scripting im Python-Editor von Unreal Engine
 
-Wenn Sie die Methoden verwenden, die in der Datei SubstanceGraphInstance.h im Python-Editor der Unreal Engine aufgeführt sind, müssen sie von Pascal Case in Snake Case konvertiert werden (mit Kleinbuchstaben und einem Unterstrich zwischen jedem Wort). Beispiel: `SetInputColor` wird zu `set_input_color`.
+Wenn Sie die Methoden verwenden, die in der Datei SubstanceGraphInstance.h im Python-Editor von Unreal Engine aufgeführt sind, müssen sie von Pascal Case in Snake Case konvertiert werden (mit Kleinbuchstaben und einem Unterstrich zwischen den einzelnen Wörtern). Beispiel: `SetInputColor` wird zu `set_input_color`.
 
 Sie können über &quot;Fenster&quot; > &quot;Ausgabeprotokoll&quot; auf den Python-Editor in Unreal Engine zugreifen und als Dropdown-Liste unten links Python festlegen.
 
@@ -39,7 +39,7 @@ Sie können über &quot;Fenster&quot; > &quot;Ausgabeprotokoll&quot; auf den Pyt
 
 Im Folgenden finden Sie eine Reihe von Beispielskripten, die im Python-Editor verwendet werden können.
 
-## Erstellen eines Substance
+## Erstellen eines Substance-Materials
 
 ```
 ## Python example on creating a Substance material.
@@ -96,7 +96,7 @@ for graph_desc in graph_descs:
 ```
 
 
-## Eine Grafik aus einem Substance-Material erstellen.
+## Erstellen eines einzelnen Grafen eines Substance-Materials
 
 ```
 ## Python example on creating a Substance material.

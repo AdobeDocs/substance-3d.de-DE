@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-4.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Maya-Plugin Version 2.1.4 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -24,6 +24,6 @@ Veröffentlicht am 26. Juni 2020
 
 Änderungsliste:
 
-* Die Verwendung von Bilddateien mit weniger als vier Kanälen als Bildeingaben stürzt nicht mehr ab
+* Bilddateien mit weniger als vier Kanälen als Bildeingaben werden nicht mehr als Abstürze verwendet
 
 Diese Version wird für Maya 2017, 2018, 2019 und 2020 unter Linux, MacOS und Windows und Maya LT 2018, 2019 und 2020 unter MacOS und Windows veröffentlicht.

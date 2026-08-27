@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
-description: Wandeln Sie Gitter-UVs in Vektorgrafikdateien um, die zur Erstellung präziser Masken und Überlagerungen verwendet werden können.
+description: Transformieren Mesh-UVs in Maskendateien, mit denen sich präzise Vektorgrafiken und Überlagerungen erstellen lassen.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Convert UV to SVG
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # UV zu SVG konvertieren
 
-Der Bäcker &quot;UV in SVG konvertieren&quot; wandelt die UVs mit niedrigem Poly-Gitter in eine Vektorgrafikdatei um. Diese Vektorgrafikdatei kann verwendet werden, um Masken zu erstellen.
+Der Baker &quot;UV in SVG konvertieren&quot; transformieren die UVs mit wenig Mesh in eine Vektorgrafik-Datei. Diese Maskendatei kann zum Erstellen von Vektorgrafiken verwendet werden.
 
 **Verfügbar in:**
 
@@ -32,4 +32,4 @@ Der Bäcker &quot;UV in SVG konvertieren&quot; wandelt die UVs mit niedrigem Pol
 | *Parameter* | *Beschreibung* |
 | --- | --- |
 | **Auffüllen** | Bestimmt, wie viel geometrische Auffüllung den SVG-Formen hinzugefügt werden soll. |
-| **Farbmodus** | Legt fest, wie die SVG-Formen gefärbt werden sollen.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Zufällig:</strong> Jede UV-Hülle ist mit einer zufälligen Farbe gefärbt.</li><li data-preserve-html="true"><strong>Farbtonverschiebung:</strong> Jede UV-Hülle ist mit einem eindeutigen Farbtonwert eingefärbt.</li><li data-preserve-html="true"><strong>Graustufen:</strong> Jede UV-Hülle ist mit einem eindeutigen Graustufenwert eingefärbt.</li><li data-preserve-html="true"><strong>Einheitliche Farbe:</strong> Alle UV-Schalen sind mit einem Grauwert von 50 % gefärbt.</li><li data-preserve-html="true"><strong>Material ID Color</strong>: UV-Schalen werden durch die in der Szenenansicht definierte Materialfarbe eingefärbt.</li></ul> |
+| **Farbmodus** | Legt fest, wie die SVG-Formen gefärbt werden sollen.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Zufällig:</strong> Jede UV-Shell ist mit einer zufälligen Farbe gefärbt.</li><li data-preserve-html="true"><strong>HUE Shift:</strong> Jede UV-Shell wird durch einen eindeutigen Farbtonwert eingefärbt.</li><li data-preserve-html="true"><strong>Graustufen:</strong> Jede UV-Shell wird durch einen eindeutigen Graustufenwert eingefärbt.</li><li data-preserve-html="true"><strong>Einheitliche Farbe:</strong> Alle UV-Schalen sind mit einem Grauwert von 50 % eingefärbt.</li><li data-preserve-html="true"><strong>Materialien-ID Color</strong>: UV-Schalen werden anhand der in der Szene-Ansicht definierten Material-Farbe eingefärbt.</li></ul> |

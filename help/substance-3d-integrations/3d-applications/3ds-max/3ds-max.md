@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max.html"
 breadcrumb-title: ''
 description: Installieren und verwenden Sie das Substance-Plugin für 3ds Max, um Substance-Materialien zu importieren und Ihren Rendering-Workflow zu verbessern.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Substance Asset Manager in Cinema 4D, um Substance-Materialien in Ihrer Szene hinzuzufügen, zu entfernen und zu organisieren.
 helpx_creative_field: ""
@@ -58,19 +58,19 @@ Wählt alle Substance aus, auf die von den derzeit *ausgewählten* Materialien v
 
 Wählt alle Substance aus, auf die von den derzeit *markierten* Materialien verwiesen wird. In Cinema 4D wird ein Material markiert, wenn ein Objekt oder Tag ausgewählt wird, das dieses Material verwendet.
 
-## Material auswählen
+## Material(e) auswählen
 
 Wählt alle Materialien aus, die auf die aktuell ausgewählten Substance verweisen.
 
 ## Aktionsmenü
 
-## Material(e) erstellen
+## Material(s) erstellen
 
-Erstellt neue Cinema 4D-Materialien aus den aktuell ausgewählten Substance. Die Materialkanäle werden automatisch mit Substance-Shadern initialisiert, die sich auf die jeweiligen Ausgabekanäle der Substance beziehen.
+Erstellen Sie neue Cinema 4D-Material aus den aktuell ausgewählten Substance. Die Material-Kanäle werden automatisch mit Substance-Shadern initialisiert, die sich auf die jeweiligen Ausgabekanäle der Substance beziehen.
 
 ## Substance duplizieren
 
-Duplizieren Sie die aktuell ausgewählten Substance. Dies kann nützlich sein, um dieselbe Substance mit verschiedenen Parametersätzen für mehrere Materialien zu verwenden.
+Duplizieren Sie die aktuell ausgewählten Substance. Dies kann nützlich sein, um dieselbe Substance mit verschiedenen Parametersätzen auf mehreren Materialien zu verwenden.
 
 ## Substance erneut importieren
 
@@ -94,18 +94,18 @@ Der Inhalt dieses Menüs hängt vom Betriebssystem ab, auf dem Cinema 4D ausgef�
 Wenn Sie mit der rechten Maustaste auf eine ausgewählte Substance klicken, wird das Kontextmenü angezeigt. Ihre Funktionalität ist identisch mit den gleichnamigen Funktionen in den oben genannten Menüs:
 
 * Entfernen
-* Material(e) erstellen
+* Material(s) erstellen
 * Substance duplizieren
 * Substance erneut importieren
 * Alle Substance auswählen
 * Auswahl aller Substance aufheben
-* Material auswählen
+* Material(e) auswählen
 
 ## Drag &amp; Drop
 
 Sie können mit dem Substance Asset Manager per Drag &amp; Drop interagieren. Es stehen mehrere Optionen zur Verfügung:
 
-* Laden Sie Substance(s) per Drag-and-Drop aus Explorer oder Finder in die Szene, indem Sie sie einfach auf dem Substance Asset Manager ablegen.
+* Laden Sie Substance(s) per Drag &amp; Drop vom Explorer oder Finder in die Szene, indem Sie sie einfach auf den Substance Asset Manager ablegen.
 * Substance können in das Verknüpfungsfeld von Substance-Shadern gezogen werden, um einen Shader und ein Substance-Asset zu verbinden.
 * Im Modus &quot;Unsortiert&quot; (siehe unten) können Sie Substance im Elementmanager neu anordnen, indem Sie sie an eine neue Position ziehen.
 

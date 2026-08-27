@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
 breadcrumb-title: ''
 description: Kacheln Sie Substance-Texturen in Unreal Engine 4, indem Sie Texturkoordinatenknoten und Skalarparameter zu Materialien hinzufügen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: Referenz für die veraltete Krümmung vom Mesh-Bäcker. Verwenden Sie stattdessen die aktualisierte Krümmung des Gitterbäckers.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Krümmung aus Gitter (veraltet)
 
-Die Krümmung des Gitterbäckers erzeugt eine Krümmungstextur aus hochpolaren Gittern. Er ist langsamer als der Basiskrümmungs-[&#128279;](../../bakers-settings/curvature/curvature.md)-Bäcker von , liefert jedoch genauere Ergebnisse.
+Die Krümmung des Gitterbäckers erzeugt eine Krümmungstextur aus hochpolaren Gittern. Er ist langsamer als der Basiskrümmungs-](../../bakers-settings/curvature/curvature.md)-Bäcker von [, liefert jedoch genauere Ergebnisse.
 
 **Verfügbar in:**
 

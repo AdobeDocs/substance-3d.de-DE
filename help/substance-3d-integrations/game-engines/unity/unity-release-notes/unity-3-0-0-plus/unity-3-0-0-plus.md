@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Unity-Plug-ins ab Version 3.0.0, um mehr über neue Funktionen und Verbesserungen zu erfahren.
 helpx_creative_field: ""
@@ -25,19 +25,19 @@ ht-degree: 0%
 <b>hinzugefügt/aktualisiert:</b>
 
 * Unterstützung für den Substance 3D Connector in Unity, der die SendTo-Funktion zum Senden von Elementen zwischen Substance 3D Sampler und Unity aktiviert.
-* Unterstützung für das Umbenennen und erneute Veröffentlichen von .sbsar-Graphen aus Designer in Unity, um sicherzustellen, dass in Designer vorgenommene Änderungen beibehalten werden, wenn das aktualisierte Diagramm erneut in das Unity-Plug-in importiert wird.
+* Unterstützung für das Umbenennen und erneute Veröffentlichen von .sbsar-Grafen aus Designer in Unity, um sicherzustellen, dass in Designer vorgenommene Änderungen beibehalten werden, wenn der aktualisierte Graf erneut in das Unity-Plug-in importiert wird.
 * Dokumentation zum Freigeben von .sbsar-Dateien zwischen Unity-Projekten.
 * Community-Beitragseite zur Unity-Plug-in-Dokumentation: https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/community-contributions.html
 
 <b>Fest:</b>
 
-* Ein Problem, bei dem die Materialminiatur im Unity-Projektassets-Ordner nach der erneuten Veröffentlichung einer .sbsar-Datei nicht aktualisiert wird und das vorherige Material anstelle des aktuellen angezeigt wird.
+* Ein Problem, bei dem die Miniaturansicht des Materials im Unity-Projektelementordner nach der erneuten Veröffentlichung einer sbsar-Datei nicht aktualisiert wird und das vorherige Material anstelle des aktuellen angezeigt wird.
 
 ## Unity 3.11.0
 
 <b>hinzugefügt/aktualisiert:</b>
 
-* Verbesserte Leistung für Projekte mit mehr als 1.000 Substance-Graphen, wodurch die Reaktionszeiten der Benutzeroberfläche beim Überprüfen von SBSAR-Dateien im Ordner &quot;Assets&quot; erheblich reduziert wurden.
+* Verbesserte Leistung für Projekte mit mehr als 1.000 Substance-Grafen, wodurch die Reaktionszeiten der Benutzeroberfläche beim Überprüfen von SBSAR-Dateien im Ordner &quot;Assets&quot; erheblich reduziert wurden.
 * Es wurde eine Schaltfläche zum Zurücksetzen hinzugefügt, um SBSAR-Dateien auf ihren ursprünglichen Zustand zurückzusetzen, wodurch die Effizienz des Arbeitsablaufs verbessert wurde.
 * Aktualisierte Dokumentation mit einer Problemumgehung für das Problem &quot;Bildeingaben gesperrt auf 8-Bit&quot;, verfügbar unter: [Substance 3D-Integrationen in Unity - Aktualisieren von Projekten und bekannten Problemen](../../../../game-engines/unity/upgrading-projects-known/upgrading-projects-known-issues.md).
 * Die Dokumentation wurde aktualisiert, um den Fehler &quot;Assertion bei Ausdruck fehlgeschlagen&quot; zu beheben, der beim Navigieren zu Bedienfeldordnern in Unity aufgetreten ist: [Substance 3D-Integrationen in Unity - Aktualisieren von Projekten und bekannten Problemen](../../../../game-engines/unity/upgrading-projects-known/upgrading-projects-known-issues.md).
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * Es wurde ein Speicherleck im C++-Code des Plug-ins behoben, wodurch eine vollständige Speicherwiederherstellung beim Löschen von Objekten sichergestellt wurde.
 * Es wurde ein Problem unter Linux behoben, bei dem der Import des Unity-Plug-in-Pakets zu einer &quot;SubstanceException: Dem API-Fehler wurde ein ungültiges Argument zugewiesen, das jetzt den erfolgreichen Import von SBSAR-Dateien ermöglicht.
-* Es wurde ein Problem behoben, bei dem SubstanceGraphSO.CurrentStatePreset zum Laden von Vorgaben mit einem benutzerdefinierten Editorfensterskript in Unity nicht ordnungsgemäß funktionierte. ein Korrekturskript ist jetzt auf unserer Substance-Dokumentationsseite (HelpX) verfügbar: https://experienceleague.adobe.com/de/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* Es wurde ein Problem behoben, bei dem SubstanceGraphSO.CurrentStatePreset zum Laden von Vorgaben mit einem benutzerdefinierten Editorfensterskript in Unity nicht ordnungsgemäß funktionierte. ein Korrekturskript ist jetzt auf unserer Substance-Dokumentationsseite (HelpX) verfügbar: https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * Es wurde ein Fehler behoben, durch den Diagrammeigenschaften bei der Neuauswahl im Unity-Editor nicht mehr angezeigt wurden.
 * Es wurde das Problem &quot;Unknown managed type referenced&quot; im Zusammenhang mit SubstanceGraphSO im Unity-Plug-in behoben, durch das die Kompatibilität und Funktionalität auf Android-Plattformen verbessert wurden, insbesondere für Unity 2022.1 und möglicherweise für alle Unity-Versionen.
 * Es wurde ein Problem behoben, durch das die Auswahl &quot;NORMAL FORMAT&quot; im Abschnitt &quot;TECHNISCHE PARAMETER&quot; fälschlicherweise als Zahleneingabefeld angezeigt wurde, anstatt als erwartete Dropdown-Liste mit DirectX- und OpenGL-Optionen.
@@ -98,9 +98,9 @@ ht-degree: 0%
 
 <b>Fest:</b>
 
-* Es wurde ein Problem behoben, das normale Karten in Android-Projekten betraf.
-* Es wurde ein Fehler behoben, durch den das Ziehen eines SBSAR-Objekts in die Szenenansicht versehentlich dazu führte, dass die Materialien aller Objekte, bei denen der Mauszeiger bewegt wurde, durch das SBSAR-Objekt-Material überschrieben wurden.
-* Es wurde ein Fehler behoben, der beim Überprüfen eines Materials, das im Laufzeitmodus als &quot;Nur Laufzeitumgebung&quot; markiert war, und beim Öffnen der Ausgabetexturzuordnung einen Fehler verursachte.
+* Es wurde ein Problem behoben, das Normalen-Map in Android-Projekten betraf.
+* Es wurde ein Fehler behoben, durch den das Ziehen eines SBSAR-Objekts in die Szene-Ansicht versehentlich dazu führte, dass die Materials aller Mouseover-Objekte durch das SBSAR-Objekt-Material überschrieben wurden.
+* Es wurde ein Fehler behoben, der beim Überprüfen eines Materials, das im Laufzeitmodus als &quot;Nur Laufzeitumgebung&quot; markiert war, und beim Öffnen der Zuordnung der Ausgabe-Textur auftrat.
 
 ## Unity 3.7.0
 
@@ -111,9 +111,9 @@ ht-degree: 0%
 
 <b>Fest:</b>
 
-* Fehler beim Erstellen eines neuen Diagramms für eine SBSAR-Datei mithilfe der Schaltfläche &quot;Diagramm kopieren&quot;: &quot;Unerwartete rekursive Übertragung der skriptbasierten Klasse&quot;
-* Erstellung zusätzlicher Materialordner in Mac nach dem erneuten Öffnen eines Projekts
-* SubstanceFileSO-Array wird beim Erstellen/Löschen von Diagramminstanzen nicht aktualisiert
+* Fehler beim Erstellen eines neuen Grafen für eine sbsar-Datei mithilfe der Schaltfläche &quot;Graf kopieren&quot;: &quot;Unerwartete rekursive Übertragung der skriptbasierten Klasse&quot;
+* Erstellung zusätzlicher Material-Ordner auf Mac nach dem erneuten Öffnen eines Projekts
+* SubstanceFileSO-Array wird beim Erstellen/Löschen von Grapheninstanzen nicht aktualisiert
 * Beim Duplizieren eines Substance werden falsche Eingabeoptionen angezeigt
 * Leere Beschriftungsfelder beim Export von .sbsprs-Dateien
 * Fehler beim Export/Import von Vorgaben im Editor: EndLayoutGroup: BeginLayoutGroup muss zuerst aufgerufen werden.
@@ -131,25 +131,25 @@ ht-degree: 0%
 <b>Fest:</b>
 
 * Problem, bei dem Materialien beim erneuten Öffnen eines Projekts auf einen früheren Status zurückgesetzt wurden
-* Beim Versuch, das Materialdiagramm zu ändern, wurde die Meldung &quot;Keine Diagramme gefunden&quot; angezeigt.
+* Beim Versuch, den Material-Graf zu ändern, wurde die Meldung &quot;Keine Graf gefunden&quot; angezeigt
 * Problem, bei dem sich die Eingabewerte für den Parameter &quot;Versatz bei Drehung&quot; in der Funktion &quot;Physische Größe&quot; nicht geändert haben
-* Ein Problem, bei dem duplizierte Diagramminstanzen falsche GraphID-Werte für Eingaben hatten
-* Problem, bei dem der Substance-Generator im Editor nicht ordnungsgemäß initialisiert wurde, während ein Diagramm mit Editorskripten (benutzerdefiniertes Editorfenster) geändert wurde
-* Ein Problem, bei dem beim Exportieren einer SubstanceGraphSO.CurrentStatePreset aus einem Skript eines benutzerdefinierten Editorfensters eine zwischengespeicherte Version des Diagramms exportiert wurde
+* Problem, bei dem duplizierte Grapheninstanzen falsche GraphID-Werte für Eingaben hatten
+* Problem, bei dem der Substance-Generator im Editor nicht ordnungsgemäß initialisiert wurde, während ein Graf mit Editorskripten (benutzerdefiniertes Editorfenster) geändert wurde
+* Ein Problem, bei dem beim Exportieren einer SubstanceGraphSO.CurrentStatePreset aus einem benutzerdefinierten Editorfensterskript eine zwischengespeicherte Version des Grafen exportiert wurde
 * Problem, bei dem Parameteränderungen nicht gespeichert wurden, als das Inspektorfenster gesperrt war
-* Problem, bei dem die manuelle Tastatureingabe im Abschnitt &quot;Positionierungsversatz&quot; der Materialoptionen im Editormodus keine Auswirkungen auf das Physische Größe hatte
+* Ein Problem, bei dem die manuelle Tastatureingabe im Abschnitt &quot;Positionsversatz&quot; der Optionen für die Physische Größe keine Auswirkungen auf das Material im Editor hatte
 * Fehler bei der manuellen Eingabe von Parameterwerten im SBSAR-Objekt
 
 ## Unity 3.5.0
 
 <b>hinzugefügt/aktualisiert:</b>
 
-* Unterstützung für Benutzer, die ändern können, wie Ausgabetexturen dem Unity-Material zugewiesen werden
+* Unterstützung für Benutzer, die ändern können, wie Ausgabe-Texturen dem Unity-Material zugewiesen werden
 * Plug-in-Kompatibilität mit der neuesten Unity 2022.2-Version
 
 <b>Fest:</b>
 
-* Null-Referenzfehler, wenn Materialien eine Int4-Eingabe haben
+* Null-Referenzfehler, wenn Material einen Int4-Eingang haben
 * Fehler bei Int4-Eingängen, der W-Wert wird Data2 anstelle von Data3 zugewiesen
 * Typo im Funktionsnamen &quot;\_OcclusionStrength&quot;
 
@@ -157,7 +157,7 @@ ht-degree: 0%
 
 <b>hinzugefügt/aktualisiert:</b>
 
-* Steuerelemente für den Versatz positionieren, um die Textur über die Fläche im Bedienfeld &quot;Physische Größe&quot; zu verschieben
+* Mit den Steuerungen unter &quot;Position&quot; wird die Textur über die Fläche im Bedienfeld &quot;Physische Größe&quot; Kamera bewogen.
 * Links zum Herunterladen von Adobe Substance 3D Assets- und Substance Community-Assets in den Projekteinstellungen
 
 ## Unity 3.3.0
@@ -194,11 +194,11 @@ ht-degree: 0%
 <b>hinzugefügt/aktualisiert:</b>
 
 * 1,38-fache Leistungsverbesserung für Mac
-* Die GPU-Engine auf dem Mac verwendet Metal anstelle von OpenGL
+* Das GPU-Engine auf dem Mac verwendet Metal anstelle von OpenGL
 
 <b>Fest:</b>
 
-* Mac-Problem, bei dem die R- und B-Kanäle der Ausgabetexturen gespiegelt werden
+* Mac-Problem, bei dem die R- und B-Kanäle der ausgegebenen Texturen gespiegelt werden
 
 ## Unity 3.0.0
 

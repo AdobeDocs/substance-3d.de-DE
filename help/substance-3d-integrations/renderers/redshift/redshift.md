@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/redshift.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien mit dem Redshift-Renderer in Maya und 3ds Max, einschließlich Unterstützung für metallische Arbeitsabläufe.
 helpx_creative_field: ""

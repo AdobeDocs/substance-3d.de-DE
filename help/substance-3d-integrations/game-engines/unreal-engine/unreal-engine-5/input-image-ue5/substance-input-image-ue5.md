@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
 breadcrumb-title: ''
-description: Verwenden Sie Bildtexturen als Eingabeparameter für das Substance von Materialien in Unreal Engine 5, um modulare Materialien zu erstellen.
+description: Verwenden Sie in Unreal Engine 5 Texturen als Eingabeparameter für das Substance von Materialien, um modulare Material zu erstellen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Substance Input Image - UE5
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance-Eingabebild - UE5
 
-Substance können mit Eingaben erstellt werden, mit denen Sie ein Bild für die Verarbeitung des Materials bereitstellen können. Auf diese Weise können Sie modulare Materialien erstellen, für die Daten oder Muster aus Gitter als Eingabe verwendet werden können, um das Material für das Element zu ändern oder zu bestätigen.
+Substance können mit Eingaben erstellt werden, mit denen Sie ein Bild zur Verarbeitung im Material bereitstellen können. Auf diese Weise können Sie modulare Material erstellen, die Baking geführt Mesh-Daten oder -Muster als Eingabe verwenden können, um das Material zum Element zu ändern oder zu bestätigen.
 
 * Sie können UTexture2D mit einem Substance-Eingang verwenden.
 

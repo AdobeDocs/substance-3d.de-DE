@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-4-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-4-1.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Maya-Plugin-Version 2.4.1, um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -27,6 +27,6 @@ ht-degree: 0%
 <b>Fest:</b>
 
 * Der Link im Menü &quot;Über Substance&quot; des Maya-Plug-ins wurde korrigiert, sodass nun die richtigen Versionshinweise angezeigt werden und der Link jetzt korrekt auf https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes.html verweist.
-* Es wurde ein Problem im Maya-Plug-in behoben, bei dem der angezeigte Auflösungswert in der Benutzeroberfläche nach dem Zurücksetzen eines Materials nicht aktualisiert wurde, wodurch sichergestellt wurde, dass alle Werte, einschließlich der Auflösung, jetzt korrekt auf ihre Standardzustände zurückgesetzt wurden.
+* Es wurde ein Problem im Maya-Plug-in behoben, bei dem der angezeigte Auflösungswert in der Benutzeroberfläche nach dem Zurücksetzen eines Materials nicht aktualisiert wurde, wodurch sichergestellt wurde, dass alle Werte einschließlich der Auflösung jetzt korrekt auf ihre Standardzustände zurückgesetzt wurden.
 
 Maya 2.4.1 wird für Maya 2020, 2022 und 2023 unter Linux, macOS und Windows veröffentlicht

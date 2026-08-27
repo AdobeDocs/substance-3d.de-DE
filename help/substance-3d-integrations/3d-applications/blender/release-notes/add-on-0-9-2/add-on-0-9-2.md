@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-2.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für die Blender-Add-On-Version 0.9.2, um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ***Versionshinweise für Add-on-Version 0.9.2***
 
-* *Das Kopieren von Blender-Dateien in den Texturordner wurde behoben.*
+* *Das Kopieren von Blender-Dateien in den Ordner &quot;Textur&quot; wurde behoben.*

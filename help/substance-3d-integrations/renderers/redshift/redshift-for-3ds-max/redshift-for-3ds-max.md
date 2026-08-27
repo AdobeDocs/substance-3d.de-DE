@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien mit dem Redshift-Renderer in 3ds Max über exportierte Maps oder das Substance-Plug-in.
 helpx_creative_field: ""

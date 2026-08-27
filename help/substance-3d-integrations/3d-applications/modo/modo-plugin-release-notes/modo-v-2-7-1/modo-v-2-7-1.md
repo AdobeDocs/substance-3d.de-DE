@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-1.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für MODO Plugin Version 2.7.1, um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -20,4 +20,4 @@ ht-degree: 6%
 
 # Modo v. 2.7.1
 
-* Alle Engines in D3D11 und OGL3 geändert
+* Alle Engine in D3D11 und OGL3 geändert

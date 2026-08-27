@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: Erfahre, was Backen ist, und speichere Informationen zu 3D-Meshes in Texturdateien, um deine Substance-Materialien auszugestalten.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
+>> 
 
 (Credits: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0))
 
@@ -50,18 +50,18 @@ Dieser Backprozess beruht auf den Mascheneigenschaften, weshalb das Gitter saube
 
 ## Welche Art von Informationen können Sie backen?
 
-Viele Arten von Informationen können gesichert werden. Im Allgemeinen ist jedoch nur ein bestimmter Satz erforderlich, da er extrapoliert werden kann, um später ein fortschrittlicheres Ergebnis zu erzielen. Aus diesem Grund gibt es eine gängige Art von Backverfahren, die in mehreren Software gefunden werden können.
+Viele Arten von Informationen können gesichert werden. Im Allgemeinen ist jedoch nur ein bestimmter Satz erforderlich, da er extrapoliert werden kann, um später ein fortschrittlicheres Ergebnis zu erzielen. Aus diesem Grund gibt es gängige Baking führ-Verfahren, die in mehreren Software gefunden werden können.
 
 Als Beispiel kann die Substance-Software folgende Informationen ausgeben:
 
-* **Umgebungsschatten** (Verdeckung)
+* **Ambient occlusion** (Umgebungsschatten)
 * **Normale** Informationen (Varianten der Oberflächendetails werden als Vektorrichtungen gespeichert)
 * **Richtung** (wobei oben oder unten, links oder rechts usw.)
 * **Krümmung** (Kanten und Hohlräume der Geometrie)
 * **Position** (relative Position der Geometrie innerhalb eines normalisierten Würfels)
 
-Weitere Informationen finden Sie in der [Dokumentation jedes Bäckers](../../bakers-settings/bakers-settings.md).
+Weitere Informationen finden Sie in der [Dokumentation jedes Bakers](../../bakers-settings/bakers-settings.md).
 
-## Unterschied zwischen &quot;normalen&quot; und &quot;aus Netz&quot; Bäcker
+## Unterschied zwischen &quot;normal&quot; und &quot;von Meshs Bakern&quot;
 
-Je nach Prozess verwenden die Bäcker verschiedene Implementierungen. Generell verlassen sich die **-Baker aus Mesh** auf Raytracing-Techniken, um Daten von einem Modell in ein anderes zu extrahieren und zu projizieren.
+Je nach Prozess verwenden die Baker verschiedene Implementierungen. Im Allgemeinen verlassen sich die **-Baker von Mesh** auf Modelltechniken, um Daten von einem Raytracing in ein anderes zu extrahieren und zu projizieren.

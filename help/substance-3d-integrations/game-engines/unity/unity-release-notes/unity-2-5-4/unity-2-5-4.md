@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-4.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Unity-Plug-in Version 2.5.4 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ Veröffentlicht am 9. Dezember 2020
 
 Fest:
 
-* Bitcodekompatible iOS-Apps können nicht erstellt werden, wenn Substance-Materialien in einem Unity-Projekt enthalten sind
+* Bitcodekompatible iOS-Apps können nicht generiert werden, wenn Substance-Material in einem Unity-Projekt enthalten sind
 
 Bekannte Probleme:
 
