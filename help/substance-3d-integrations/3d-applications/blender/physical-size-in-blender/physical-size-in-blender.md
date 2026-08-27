@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
 breadcrumb-title: ''
 description: Verwenden Sie die Physische Größe-Einstellungen, um Substance-Materialien in Blender basierend auf den realen Abmessungen zu skalieren.
 helpx_creative_field: ""

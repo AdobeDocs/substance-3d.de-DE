@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Rauheit und metallic Ausgaben in Toolbag 2 für Echtzeit-Material-Vorschau und -Rendering.
 helpx_creative_field: ""

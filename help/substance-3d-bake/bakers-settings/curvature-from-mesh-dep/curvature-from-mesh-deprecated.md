@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: Referenz für die veraltete Krümmung vom Mesh-Bäcker. Verwenden Sie stattdessen die aktualisierte Krümmung des Gitterbäckers.
 helpx_creative_field: ""

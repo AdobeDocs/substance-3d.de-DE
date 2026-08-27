@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: Erstellen Sie mithilfe der Option "Normalmap" vom Gitterbaker aus Tangentenräume oder Weltraumnormalkarten aus hochgepolten Meshes.
 helpx_creative_field: ""
@@ -31,4 +31,4 @@ Mit der Option &quot;Normale Karte aus Gittermaske&quot; können Sie aus einem P
 | *Parameter* | *Beschreibung* |
 | --- | --- |
 | **Zuordnungstyp** | Steuert, welche Art von normaler Textur der Bäcker ausgeben soll.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Weltraum</strong></li><li data-preserve-html="true"><strong>Tangentialraum</strong> (Standard)</li></ul>*Im Substance Painter kann dieser Parameter nicht gesteuert werden und ist auf &quot;Tangent-Leerzeichen&quot; festgelegt.* |
-| **Normale Ausrichtung** | Definiert das Format der normalen Textur, wenn der Parameter **map type** auf Tangent Space festgelegt ist. Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (Standard)</li></ul>*Im Substance Painter wird dieser Parameter von den [Projekteinstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration) gesteuert.* |
+| **Normale Ausrichtung** | Definiert das Format der normalen Textur, wenn der Parameter **map type** auf Tangent Space festgelegt ist. Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (Standard)</li></ul>*Im Substance Painter wird dieser Parameter von den [Projekteinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/interface/project-configuration) gesteuert.* |

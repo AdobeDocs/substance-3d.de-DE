@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
 breadcrumb-title: ''
 description: Substance-Materialien aus der Substance Source Library lassen sich direkt in 3ds Max-Projekten aufrufen und verwenden.
 helpx_creative_field: ""

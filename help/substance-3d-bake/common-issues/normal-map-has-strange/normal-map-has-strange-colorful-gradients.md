@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
 description: Experimentiere mit farbigen Verläufen in Normalen-Map. Überprüfe Mesh-Normalwerte, Glättungsgruppen und UV-Mapping.
 helpx_creative_field: ""

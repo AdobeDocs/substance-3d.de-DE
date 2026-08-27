@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/corona.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien mit dem Corona-Renderer in 3ds Max mit dem Specular/Glossiness-Workflow und den erforderlichen Maps.
 helpx_creative_field: ""

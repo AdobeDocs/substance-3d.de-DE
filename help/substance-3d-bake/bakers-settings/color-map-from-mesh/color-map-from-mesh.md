@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: Projizieren Sie Farbeigenschaften aus Gittern mit hohem Poly-Anteil in Texturen, um Polypaint- oder Material-IDs für Auswahlmasken zu backen.
 helpx_creative_field: ""

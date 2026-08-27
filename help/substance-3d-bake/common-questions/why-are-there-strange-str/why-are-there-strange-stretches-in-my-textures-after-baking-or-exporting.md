@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
 description: Identifizieren und beheben Sie seltsame Dehnungen in Ihren Texturen, die durch UV-Mapping- oder Gitterprobleme verursacht werden.
 helpx_creative_field: ""
@@ -30,4 +30,4 @@ ht-degree: 0%
 >
 > **Lösung**
 > 
-> Die Substance Baker verwenden sowohl Diffusion als auch Dilatation außerhalb der UV-Inseln, um die Lücke zu füllen und sicherzustellen, dass die Textur in Game-Engines gut funktioniert, wenn Mipmaps generiert werden. Weitere Informationen hierzu finden Sie unter: [Auffüllen](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html).
+> Die Substance Baker verwenden sowohl Diffusion als auch Dilatation außerhalb der UV-Inseln, um die Lücke zu füllen und sicherzustellen, dass die Textur in Game-Engines gut funktioniert, wenn Mipmaps generiert werden. Weitere Informationen hierzu finden Sie unter: [Auffüllen](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/spdoc/padding-134643719.html).

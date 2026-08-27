@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über das Substance 3D-Add-on für Blender und wie Sie Substance-Materials in Ihre Projekte importieren und damit arbeiten.
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ Weitere Informationen finden Sie auf der Seite [Voreinstellungen](../../../3d-ap
 
 ## Weitere Substance-Materialien
 
-Tausende von professionell erstellten Materialien und anderen Assets stehen auf der [Substance 3D Assets-Seite](https://helpx.adobe.com/substance-3d/unlisted/assets.html) zum Download zur Verfügung. Viele weitere Elemente, die von der Community kostenlos freigegeben wurden, finden Sie auf der Seite [Substance 3D Community Assets](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html).
+Tausende von professionell erstellten Materialien und anderen Assets stehen auf der [Substance 3D Assets-Seite](https://helpx.adobe.com/de/substance-3d/unlisted/assets.html) zum Download zur Verfügung. Viele weitere Elemente, die von der Community kostenlos freigegeben wurden, finden Sie auf der Seite [Substance 3D Community Assets](https://helpx.adobe.com/de/substance-3d/unlisted/community-assets.html).
 
 ## Community
 

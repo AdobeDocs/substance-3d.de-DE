@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie das Substance-Plugin Gamma-Einstellungen für Texturen in 3ds Max verarbeitet, um ein ordnungsgemäßes Farbmanagement sicherzustellen.
 helpx_creative_field: ""

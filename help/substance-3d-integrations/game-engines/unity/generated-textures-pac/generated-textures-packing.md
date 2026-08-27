@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Substance Texturen in Unity generiert, und konfigurieren Sie das Textur-Packing für optimale Shader-Eingänge.
 helpx_creative_field: ""

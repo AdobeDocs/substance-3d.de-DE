@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
 breadcrumb-title: ''
 description: Steuern Sie die prozedurale Struktur der Sampling-Größe in Maya, um die Qualität und Performance für Substance-Materialien zu optimieren.
 helpx_creative_field: ""

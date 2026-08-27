@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien im Keyshot-Renderer für die Produktvisualisierung mit exportierten Textur Maps.
 helpx_creative_field: ""

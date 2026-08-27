@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: Korrigieren Sie Aliasing-Artefakte, die während des Baking führend UV auftreten, indem Sie die Anti-Aliasing- und Abstandseinstellungen anpassen.
 helpx_creative_field: ""

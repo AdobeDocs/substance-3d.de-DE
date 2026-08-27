@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance Painter-Ausgabevorlagen für den Arnold-Renderer mit aiStandard-Material für das physikalisch basierte Rendering.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Arnold - Substance Painter
 
-Substance Painter 2020.1 (6.1.0) wird mit [Ausgabevorlagen](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets) für Arnold geliefert, wobei das [aiStandard-Material](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface) verwendet wird.
+Substance Painter 2020.1 (6.1.0) wird mit [Ausgabevorlagen](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets) für Arnold geliefert, wobei das [aiStandard-Material](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface) verwendet wird.
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

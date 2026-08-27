@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
 description: Verhindern Sie, dass Teile von Mesh beim Baking führ ineinander übergehen, indem Sie die Funktion "Abgleich nach Name" verwenden oder die Abstände anpassen.
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ ht-degree: 0%
 > Es gibt einige Lösungen, um dieses Problem zu vermeiden:
 > 
 > * Verwenden Sie die Funktion [Zuordnung nach Name](../../features/matching-by-name/matching-by-name.md), um die Mesh zu isolieren.
-> * Verwenden Sie einen [Käfig](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html), um den Strahlenabstand zu begrenzen.
+> * Verwenden Sie einen [Käfig](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html), um den Strahlenabstand zu begrenzen.
 > * Legen Sie in den allgemeinen Baker-Einstellungen einen niedrigeren Standardwert für den Strahlenabstand fest.
