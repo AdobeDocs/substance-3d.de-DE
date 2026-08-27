@@ -36,6 +36,6 @@ Mit dem neuen Aggregatsubstanzknoten können Sie zwei Substanzinstanzfactorys ve
 
    ![](../../../../../assets/a2-3.png){width="800px"}
 1. Legen Sie die Kanäle für das Material fest, wie in den Dokumenten zu dynamischen Material-Instanzen gezeigt (Schritte 11-19)\
-   [Blueprint(UE4): Dynamische Materialinstanz ](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+   [Blueprint(UE4): Dynamische Materialinstanz &#x200B;](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
 
    ![](../../../../../assets/a4-3.png){width="800px"}

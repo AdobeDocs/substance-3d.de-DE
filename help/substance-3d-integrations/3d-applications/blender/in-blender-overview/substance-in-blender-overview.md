@@ -76,4 +76,4 @@ Tausende von professionell erstellten Materialien und anderen Assets stehen auf 
 
 ## Community
 
-Für allgemeine Hilfe, Rückmeldungen oder Fehlermeldungen können Sie sich dem #substance-blender-beta auf dem [Substance Discord-Server ](https://discord.com/invite/substance3d) oder [Adobe-Communities](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender) anschließen.
+Für allgemeine Hilfe, Rückmeldungen oder Fehlermeldungen können Sie sich dem #substance-blender-beta auf dem [Substance Discord-Server &#x200B;](https://discord.com/invite/substance3d) oder [Adobe-Communities](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender) anschließen.

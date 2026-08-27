@@ -125,7 +125,7 @@ Der Bestellungsverlauf kann nur über das LWS-Portal aufgerufen werden. Zugriff 
 +++
 
 +++An wen kann ich mich wenden, wenn ich weitere Hilfe benötige?
-Wenn Sie weitere Unterstützung benötigen, können Sie sich an unser Enterprise-Support-Team wenden. Ihr Administrator muss sich [ bei der Adobe Admin Console anmelden und einen Support-Fall öffnen](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+Wenn Sie weitere Unterstützung benötigen, können Sie sich an unser Enterprise-Support-Team wenden. Ihr Administrator muss sich [&#x200B; bei der Adobe Admin Console anmelden und einen Support-Fall öffnen](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 Wenn Sie weitere Hilfe benötigen, können Sie sich an Ihren Adobe CSM wenden.
 

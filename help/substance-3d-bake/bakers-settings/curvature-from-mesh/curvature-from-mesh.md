@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Krümmung aus Gitter
 
-Die Krümmung des Gitterbäckers erzeugt eine Krümmungstextur aus hochpolaren Gittern. Er ist langsamer als der Basiskrümmungs-](../../bakers-settings/curvature/curvature.md)-Bäcker von [, liefert jedoch genauere Ergebnisse.
+Die Krümmung des Gitterbäckers erzeugt eine Krümmungstextur aus hochpolaren Gittern. Er ist langsamer als der Basiskrümmungs-[&#128279;](../../bakers-settings/curvature/curvature.md)-Bäcker von , liefert jedoch genauere Ergebnisse.
 
 **Verfügbar in:**
 
