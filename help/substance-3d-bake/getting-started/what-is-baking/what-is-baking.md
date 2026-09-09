@@ -1,16 +1,16 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html'
 breadcrumb-title: ''
 description: Erfahre, was Backen ist, und speichere Informationen zu 3D-Meshes in Texturdateien, um deine Substance-Materialien auszugestalten.
-helpx_creative_field: ""
-helpx_description: "bakers > Getting Started > What is Baking "
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
+helpx_creative_field: ''
+helpx_description: 'bakers > Getting Started > What is Baking '
+helpx_experience_level: ''
+helpx_learn_topic: ''
+helpx_tags: ''
 title: 'Was ist Backen? '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
+source-git-commit: 0a948aa65b787c0f84e0af681dbe74021e878687
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -18,11 +18,9 @@ ht-degree: 0%
 ---
 
 
-# Was ist Backen?
+# Was wird Baking geführt?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
-
-&#x200B;>> 
 
 (Credits: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0))
 
@@ -30,7 +28,7 @@ Backen ist der Name des Prozesses zum **Speichern von Informationen**, die sich 
 
 Manche Anwendungen unterstützen zwar das Backen von Informationen in die Gittereigenschaften (z. B. Scheitelpunktfarben), aber Substance Baker ermöglicht das Backen von Informationen nur bis zu einer Textur. Sie können jedoch die Gittereigenschaften auslesen und sie auf Texturen (wie Scheitelpunktfarben) reduzieren.
 
-## Ist Backen notwendig?
+## Ist Baking notwendig?
 
 Substance-Software generieren Texturen und diese Texturen können durch Informationen über die Gittergeometrie verbessert werden.\
 Viele Filter und Materialien passen sich an die spezifische Geometrie eines 3D-Gitters an, indem sie sich die gebackenen Texturen ansehen. Das Backen kann Informationen darüber liefern, wo Umgebungsschatten sein können, wo die Kanten der Geometrie sind und vieles mehr.
@@ -39,7 +37,7 @@ Beispiel : Bei einem alten Wagen kann der Rost unten aufgetragen werden, weil er
 
 ![](../../assets/examples.jpg){width="500px"}
 
-## Wie funktioniert Backen?
+## Wie funktioniert Baking?
 
 Jeder Bäcker führt bestimmte Aktionen durch, um sein eigenes Ergebnis zu erzeugen, aber im Allgemeinen beinhaltet der Backvorgang zwei mögliche Methoden:
 
@@ -48,7 +46,7 @@ Jeder Bäcker führt bestimmte Aktionen durch, um sein eigenes Ergebnis zu erzeu
 
 Dieser Backprozess beruht auf den Mascheneigenschaften, weshalb das Gitter sauber und frei von eventuellen Fehlern in seiner Geometrie sein muss.
 
-## Welche Art von Informationen können Sie backen?
+## Welche Informationen können Baking geführt werden?
 
 Viele Arten von Informationen können gesichert werden. Im Allgemeinen ist jedoch nur ein bestimmter Satz erforderlich, da er extrapoliert werden kann, um später ein fortschrittlicheres Ergebnis zu erzielen. Aus diesem Grund gibt es gängige Baking führ-Verfahren, die in mehreren Software gefunden werden können.
 
