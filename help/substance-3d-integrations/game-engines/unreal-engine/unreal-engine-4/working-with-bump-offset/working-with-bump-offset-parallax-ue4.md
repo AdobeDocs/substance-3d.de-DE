@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
 breadcrumb-title: ''
 description: Verwenden Sie die Bump Offset-Zuordnung mit Substance-Materialien in Unreal Engine 4, um Tiefen-Illusionen und Oberflächendetails zu erzeugen.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/home.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/home.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Substance Materials mithilfe von Plug-ins und nativer Unterstützung mit Game-Enginen, DCC-Anwendungen und Renderern integriert werden.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Ökosystem und Zusatzmodule
 
-Das [Substance-Material-Basisformat &#x200B;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file) wird von allen gängigen Game- und DCC-Tools (Digital Content Creation) unterstützt. Das Format wird in Substance 3D-Anwendungen als sbsar-Datei veröffentlicht. SBSAR-Dateien können über ein Substance-Plugin oder eine native Integration in DCC-Anwendungen und Game-Engine geladen werden, die Substance-Material unterstützen.
+Das [Substance-Material-Basisformat &#x200B;](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file) wird von allen gängigen Game- und DCC-Tools (Digital Content Creation) unterstützt. Das Format wird in Substance 3D-Anwendungen als sbsar-Datei veröffentlicht. SBSAR-Dateien können über ein Substance-Plugin oder eine native Integration in DCC-Anwendungen und Game-Engine geladen werden, die Substance-Material unterstützen.
 
 Weitere Informationen zur Verwendung dieser Material finden Sie unter:
 
@@ -35,9 +35,9 @@ Weitere Informationen zur Verwendung dieser Material finden Sie unter:
 
 Wenn Sie mit SBSAR-Dateien experimentieren möchten, gibt es viele Möglichkeiten, eigene SBSAR-Materialien zu erhalten:
 
-* Kostenlose Substance-Materials finden Sie auf der Website der [3D-Community-Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html).
-* Herunterladbare Substance-Material sind über die [Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html)-Website als Teil des Substance-Abonnements verfügbar.
-* Mit [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) und [Substance 3D Sampler](https://helpx.adobe.com/substance-3d-sampler.html) können Substance-Materialien mit verfügbaren Parametern erstellt werden. (Lesen Sie unbedingt unsere [Optimierungsrichtlinien](../game-engines/unity/optimization-guidelines/optimization-guidelines.md). )
+* Kostenlose Substance-Materials finden Sie auf der Website der [3D-Community-Assets](https://helpx.adobe.com/de/substance-3d/unlisted/assets.html).
+* Herunterladbare Substance-Material sind über die [Substance 3D Assets](https://helpx.adobe.com/de/substance-3d/unlisted/assets.html)-Website als Teil des Substance-Abonnements verfügbar.
+* Mit [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) und [Substance 3D Sampler](https://helpx.adobe.com/de/substance-3d-sampler.html) können Substance-Materialien mit verfügbaren Parametern erstellt werden. (Lesen Sie unbedingt unsere [Optimierungsrichtlinien](../game-engines/unity/optimization-guidelines/optimization-guidelines.md). )
 * Mit dem Substance 3D Connector können Substance-Materialien nahtlos zwischen First-Party- und Third-Party-Anwendungen ausgetauscht werden. Weitere Informationen finden Sie in unserem [offiziellen Blogpost](https://blog.adobe.com/en/publish/2024/04/04/substance-3d-connector-bridging-tools-3dworkflows).
 
 >[!NOTE]

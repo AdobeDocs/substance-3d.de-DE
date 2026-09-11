@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: Korrigieren Sie Aliasing-Artefakte, die während des Bakings auf UV auftreten, indem Sie die Einstellungen für Glättung und Auffüllung anpassen.
 helpx_creative_field: ""

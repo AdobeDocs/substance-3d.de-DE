@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Ändern Sie die Parameter des Substance-Materials zur Laufzeit in Unreal Engine 5 mithilfe von Blueprint-Knoten für die dynamische Steuerung des Materials.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Parameter &quot;float&quot; ändern:
 
-Sie verwenden den Knoten [Set Input Fließkommazahl](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html), um die Parameter &quot;float&quot;, &quot;color(float4)&quot; und &quot;Boolesche Wert&quot; zu ändern.
+Sie verwenden den Knoten [Set Input Fließkommazahl](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html), um die Parameter &quot;float&quot;, &quot;color(float4)&quot; und &quot;Boolesche Wert&quot; zu ändern.
 
 1. Erstellen Sie eine Variable mit dem Typ &quot;Substance-Grafen Instance&quot; als Referenz.\
    \**Fügen Sie hierzu auf der Registerkarte &quot;Mein Blueprint&quot; eine Variable hinzu und geben Sie ihr einen Namen. Suchen Sie in der Dropdown-Liste nach Substance-Grafen-Instanz > Objektreferenz. Ziehen Sie die Variable in den Graf und wählen Sie Get (Variablenname). Legen Sie die Detailinstanz im Abschnitt &quot;Standardwert&quot; der Registerkarte &quot;Substance-Grafen&quot; fest.*

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
 description: Verwenden Sie den Substance Asset Manager in Cinema 4D, um Substance-Material in Ihrer Szene hinzuzufügen, zu entfernen und zu organisieren.
 helpx_creative_field: ""

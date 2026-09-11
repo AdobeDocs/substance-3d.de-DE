@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
 description: Beheben Sie Fehler beim Farb-Map aus Mesh-Baking, indem Sie die Farbeigenschaften des Meshs und die UV-Zuordnung überprüfen.
 helpx_creative_field: ""

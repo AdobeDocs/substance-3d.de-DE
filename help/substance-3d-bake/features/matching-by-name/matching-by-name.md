@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/de/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: Verwenden Sie die Funktion "Namensgleich", um Mesh mit niedriger und hoher Poly-Zahl zu isolieren und Geometrieausblutungen während des Baking führend Vorgangs zu verhindern.
 helpx_creative_field: ''
@@ -91,7 +91,7 @@ Die Zuordnung nach Name kann in den [allgemeinen Parametern](../../bakers-settin
 Die Standardsuffixe lauten \_low und \_high und können wie folgt geändert werden:
 
 * **Substance Painter**: Im [Baking-Fenster](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), innerhalb der allgemeinen Parameter.
-* **Substance Designer**: In den [Projekteinstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings) unter den Baking-Einstellungen.
+* **Substance Designer**: In den [Projekteinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/preferences/project-settings) unter den Baking-Einstellungen.
 
 ## High-Poly-Meshs von zBrush
 

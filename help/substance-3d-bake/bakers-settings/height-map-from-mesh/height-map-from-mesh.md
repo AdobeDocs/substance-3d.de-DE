@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
 breadcrumb-title: ''
 description: Erstellen Sie Height-Maps aus hochpolaren Netzen, um Oberflächendetails und Geometrieinformationen für die Texturierung zu erfassen.
 helpx_creative_field: ""

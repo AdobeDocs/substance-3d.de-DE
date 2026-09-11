@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Ihre Hardwarekonfiguration und die Vorbereitung Ihres Meshs optimieren, um eine schnellere Baking führ-Performance zu erzielen.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Absturz können durch mehrere Faktoren verursacht werden, von denen einer der TD
 * beim Baking führ von dichten Meshs mit dem Ambient occlusion-Baker
 * bei Verwendung der DXR beschleunigten Baker mit sehr dichten, hohen Poly-Meshs (mehr als 60 Millionen Dreiecke)
 
-Weitere Informationen zum TDR und eine Anleitung zum Ändern der zugehörigen Einstellungen finden Sie hier: [Absturz mit langen Berechnungen für GPU-Treiber (TDR-Absturz)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+Weitere Informationen zum TDR und eine Anleitung zum Ändern der zugehörigen Einstellungen finden Sie hier: [Absturz mit langen Berechnungen für GPU-Treiber (TDR-Absturz)](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

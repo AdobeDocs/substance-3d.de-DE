@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
 description: Korrigieren Sie das facettierte Erscheinungsbild bei normalen Texturen, indem Sie Mesh-Normalen glätten und die Einstellungen der Glättungsgruppe anpassen.
 helpx_creative_field: ""

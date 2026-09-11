@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: Arbeiten Sie mit Substance-Materialien in Roblox Studio mit PBR-Metallische Rauheit-Workflows, um immersive 3D-Erlebnisse zu ermöglichen.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Substance 3D Designer-Vorlage
 
-Um Texturen für Roblox zu erstellen, können Sie die Substance 3D-Datei unten als [Substance-Compositing-Graf](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)-Vorlage in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) verwenden.
+Um Texturen für Roblox zu erstellen, können Sie die Substance 3D-Datei unten als [Substance-Compositing-Graf](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)-Vorlage in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) verwenden.
 
 [![Bild des SBS-Dateiformatsymbols, das mit der RoboBlox-Vorlage verknüpft ist.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
@@ -78,12 +78,12 @@ Zunächst *installieren* Sie die Roblox-Vorlage.
 Lassen Sie dann Designer *den Vorlagenordner überwachen*, um nach Graf-Vorlagen zu suchen.
 
 * Wechseln Sie in Designer zu **Bearbeiten > Voreinstellungen...1**
-* Wechseln Sie im Fenster [Voreinstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window) zu **Projekte > Benutzerprojekt > Allgemein**
+* Wechseln Sie im Fenster [Voreinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/preferences/preferences-window) zu **Projekte > Benutzerprojekt > Allgemein**
 * Klicken Sie in der Liste **Vorlagenverzeichnisse** auf die Schaltfläche **+**.
 * Wechseln Sie zum Verzeichnis `templates` und klicken Sie auf **Ordner auswählen**.
 * Klicken Sie auf die Schaltfläche **OK**.
 * Wechseln Sie zu **Datei > Neu > Substance-Graf...1**
-* Überprüfen Sie, ob die Vorlage &quot;`Roblox`&quot; im Fenster &quot;[Neuer Substance-Graf](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)&quot; unten in der Vorlagenliste aufgeführt ist.
+* Überprüfen Sie, ob die Vorlage &quot;`Roblox`&quot; im Fenster &quot;[Neuer Substance-Graf](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)&quot; unten in der Vorlagenliste aufgeführt ist.
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,11 +102,11 @@ Lassen Sie dann Designer *den Vorlagenordner überwachen*, um nach Graf-Vorlagen
 
 Erstellen Sie mithilfe der Roblox-Vorlage einen Graf und exportieren Sie Bitmaps aus diesem Graf, sobald Sie die Arbeit an einem Material abgeschlossen haben.
 
-* Wählen Sie im Fenster [Neuer Substance-Graf](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) die Vorlage `Roblox` aus.
+* Wählen Sie im Fenster [Neuer Substance-Graf](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) die Vorlage `Roblox` aus.
 * Legen Sie eine beliebige Identifizierung und andere Parameter für den Graf fest und klicken Sie auf **OK**.
-* Arbeiten Sie an Ihrem Material in der [Graphansicht](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Lesen Sie [hier](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview), um mit dem Arbeitsablauf zu beginnen.
+* Arbeiten Sie an Ihrem Material in der [Graphansicht](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Lesen Sie [hier](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/getting-started/workflow-overview), um mit dem Arbeitsablauf zu beginnen.
 * Wenn Sie fertig sind, gehen Sie zu **Tools > Bitmaps exportieren...** in der Graphansicht *Symbolleiste*
-* Legen Sie im Fenster [Bitmaps exportieren](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps) einen gültigen Pfad **Ziel** fest. Stellen Sie sicher, dass *alle* die Ausgaben *aktiviert* sind, und klicken Sie auf **Exportieren**.
+* Legen Sie im Fenster [Bitmaps exportieren](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps) einen gültigen Pfad **Ziel** fest. Stellen Sie sicher, dass *alle* die Ausgaben *aktiviert* sind, und klicken Sie auf **Exportieren**.
 * Überprüfen Sie, ob die Texturen ordnungsgemäß in den Pfad **Ziel** exportiert wurden.
 
 </td>

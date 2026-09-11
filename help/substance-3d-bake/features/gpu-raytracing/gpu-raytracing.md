@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
 description: Aktivieren Sie hardwarebeschleunigtes GPU-Raytracing, um Baking führend Berechnungen für schnellere Workflows um das 25-Fache zu beschleunigen.
 helpx_creative_field: ""

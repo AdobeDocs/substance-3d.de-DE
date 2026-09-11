@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ''
 description: Verwenden Sie Render-Workflows in 3ds Max, um automatisch Shader-Netzwerke für verschiedene Renderer von Substance-Materialien zu erstellen.
 helpx_creative_field: ""

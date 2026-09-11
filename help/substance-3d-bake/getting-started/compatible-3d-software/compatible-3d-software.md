@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/compatible-3d-software.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/compatible-3d-software.html"
 breadcrumb-title: ''
 description: Finde heraus, welche 3D-Software mit Substance Bakers kompatibel ist, und bereite die Mesh auf ein optimales Baking vor.
 helpx_creative_field: ""

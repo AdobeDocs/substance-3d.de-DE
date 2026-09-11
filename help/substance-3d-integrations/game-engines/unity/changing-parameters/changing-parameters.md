@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/changing-parameters.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/changing-parameters.html"
 breadcrumb-title: ''
 description: Ändern Sie die Parameter des Substance-Materials in Unity, um das Erscheinungsbild und die Eigenschaften des Materials zur Laufzeit anzupassen.
 helpx_creative_field: ""

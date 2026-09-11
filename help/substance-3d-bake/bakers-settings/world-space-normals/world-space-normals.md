@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: Speichern Sie Normale, Tangenten und Binormale von Meshs in Texturen mithilfe von Welt-Raumkoordinaten für erweiterte Workflows.
 helpx_creative_field: ""

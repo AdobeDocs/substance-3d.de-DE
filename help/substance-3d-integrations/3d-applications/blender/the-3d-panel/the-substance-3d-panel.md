@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Bedienfeld "Substance 3D" in Blender verwenden, um Materialien, Parameter und Ausgaben zu verwalten.
 helpx_creative_field: ""
@@ -66,7 +66,7 @@ Parameter, die in Substance Designer gelegt wurden, können mit den Substance Pa
 
 Das Dateiformat der Ausgabe-Texturen kann über die Dropdown-Menüs geändert werden.
 
-Weitere Informationen finden Sie auf der Designer-Dokumentationsseite unter [, das einen Parameter Legt](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter).
+Weitere Informationen finden Sie auf der Designer-Dokumentationsseite unter [, das einen Parameter Legt](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter).
 
 ## Technische Parameter
 

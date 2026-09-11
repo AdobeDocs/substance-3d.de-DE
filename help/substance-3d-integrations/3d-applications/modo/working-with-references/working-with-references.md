@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-references.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/working-with-references.html"
 breadcrumb-title: ''
 description: Verwalten Sie Substance-Materialreferenzen in MODO, um Materialien über mehrere Objekte und Szenen hinweg auszutauschen.
 helpx_creative_field: ""

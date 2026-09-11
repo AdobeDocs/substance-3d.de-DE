@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: Konfigurieren Sie die Voreinstellungen für das Substance 3D-Add-on in Blender, um das Verhalten und die Einstellungen des Plug-ins anzupassen.
 helpx_creative_field: ""

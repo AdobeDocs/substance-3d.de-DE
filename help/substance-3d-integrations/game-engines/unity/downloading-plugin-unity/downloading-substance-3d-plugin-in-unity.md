@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
 breadcrumb-title: ''
 description: Laden Sie das Substance 3D Plug-in für Unity aus dem Unity Asset Store oder dem Paketmanager herunter und installieren Sie es.
 helpx_creative_field: ""

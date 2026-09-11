@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien in Unreal Engine 5 mit dem Substance-Plug-in für die Bearbeitung und das Rendering von Material in Echtzeit.
 helpx_creative_field: ""

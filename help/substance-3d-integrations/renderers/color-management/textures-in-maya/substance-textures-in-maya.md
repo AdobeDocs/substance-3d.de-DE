@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
 breadcrumb-title: ''
 description: Konfigurieren Sie die Farbraumeinstellungen für das Substance von Texturen in Maya, um ein präzises Farbmanagement und Rendering zu gewährleisten.
 helpx_creative_field: ""

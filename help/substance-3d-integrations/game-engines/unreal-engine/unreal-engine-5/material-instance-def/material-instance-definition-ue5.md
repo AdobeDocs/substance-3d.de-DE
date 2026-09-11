@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
 breadcrumb-title: ''
 description: Erstellen Sie Material-Instanzdefinitionen mit Substance-Materialien in Unreal Engine 5, um die GPU-Renderleistung zu optimieren.
 helpx_creative_field: ""
@@ -35,4 +35,4 @@ Sie können UE5 Material Instances mit Substance verwenden. Dadurch wird ein gro
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-13-18-pm.png)
 
-Sie haben jetzt eine UE5-Material-Instanz, die eine bestimmte Gruppe von Substance-Texturen verwendet. Dies ist eine optimierte Art, mit mehreren Substanzen in einem UE5-Projekt zu arbeiten. Um zu erfahren, wie Sie eine MID mithilfe von Blueprint erstellen, lesen Sie bitte diese Seite. [Blueprint(UE5): Dynamische Materialinstanz &#x200B;](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+Sie haben jetzt eine UE5-Material-Instanz, die eine bestimmte Gruppe von Substance-Texturen verwendet. Dies ist eine optimierte Art, mit mehreren Substanzen in einem UE5-Projekt zu arbeiten. Um zu erfahren, wie Sie eine MID mithilfe von Blueprint erstellen, lesen Sie bitte diese Seite. [Blueprint(UE5): Dynamische Materialinstanz &#x200B;](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

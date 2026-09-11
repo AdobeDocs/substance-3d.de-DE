@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.html"
 breadcrumb-title: ''
 description: Erstellen Sie mithilfe von Blueprints dynamische Material-Instanzen aus Substance-Materialien zur Laufzeit in Unreal Engine 5.
 helpx_creative_field: ""

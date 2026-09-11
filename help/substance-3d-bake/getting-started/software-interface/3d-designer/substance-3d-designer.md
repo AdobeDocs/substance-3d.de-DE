@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Hier erfahren Sie, wie Sie in Substance 3D Designer das Fenster "Baking führ" öffnen und verwenden, um Modellinformationen in Texturen Baking führen.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-Auf das Baking führend Fenster kann über die Meshdatei im Fenster [Explorer](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) zugegriffen werden. Klicken Sie mit der rechten Maustaste auf den Namen des Meshs, und wählen Sie &quot;**Modellinformationen Baking geführt**&quot; aus, um das Baking führend Fenster zu öffnen.
+Auf das Baking führend Fenster kann über die Meshdatei im Fenster [Explorer](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) zugegriffen werden. Klicken Sie mit der rechten Maustaste auf den Namen des Meshs, und wählen Sie &quot;**Modellinformationen Baking geführt**&quot; aus, um das Baking führend Fenster zu öffnen.
 
 ## Überblick
 

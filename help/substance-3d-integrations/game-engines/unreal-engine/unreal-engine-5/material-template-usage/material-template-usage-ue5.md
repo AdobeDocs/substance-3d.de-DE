@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5.html"
 breadcrumb-title: ''
 description: Erstellen und verwenden Sie Material-Vorlagen in Unreal Engine 5, um zu definieren, wie Substance-Ausgabeknoten mit Material-Eingängen verbunden werden.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
 breadcrumb-title: ''
 description: Laden Sie Substance Source Materials für Ihr Substance-Abo direkt in Unreal Engine 4 herunter.
 helpx_creative_field: ""

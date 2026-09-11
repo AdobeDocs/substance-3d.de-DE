@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: Transformieren Mesh-UVs in Maskendateien, mit denen sich präzise Vektorgrafiken und Überlagerungen erstellen lassen.
 helpx_creative_field: ""

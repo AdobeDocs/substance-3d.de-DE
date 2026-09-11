@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
 description: Verwende Bump- und Versatz-Maps von Substance-Materialien in MODO, um deinen Modellen Oberflächendetails und Tiefe hinzuzufügen.
 helpx_creative_field: ""

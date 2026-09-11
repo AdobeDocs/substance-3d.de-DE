@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Hier erfahren Sie, wie Sie das Fenster "Baking" in Substance 3D Painter verwenden, um Mesh-Map für Ihre Texturen zu generieren.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-Auf das Baking-Fenster kann über die [Textursatz-Einstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings) zugegriffen werden. Klicken Sie auf die Schaltfläche mit dem Namen &quot;**Baking Mesh-Map**&quot;, um das Baking-Fenster des aktuellen Projekts zu öffnen.
+Auf das Baking-Fenster kann über die [Textursatz-Einstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings) zugegriffen werden. Klicken Sie auf die Schaltfläche mit dem Namen &quot;**Baking Mesh-Map**&quot;, um das Baking-Fenster des aktuellen Projekts zu öffnen.
 
 ## Überblick
 

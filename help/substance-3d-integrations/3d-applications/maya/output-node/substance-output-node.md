@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Substance-Ausgabeknoten in Maya funktionieren, um berechnete Texturen mit Shader-Netzwerken zu verbinden.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Unity-Plug-ins ab Version 3.0.0, um mehr über neue Funktionen und Verbesserungen zu erfahren.
 helpx_creative_field: ""
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * Es wurde ein Speicherleck im C++-Code des Plug-ins behoben, wodurch eine vollständige Speicherwiederherstellung beim Löschen von Objekten sichergestellt wurde.
 * Es wurde ein Problem unter Linux behoben, bei dem der Import des Unity-Plug-in-Pakets zu einer &quot;SubstanceException: Dem API-Fehler wurde ein ungültiges Argument zugewiesen, das jetzt den erfolgreichen Import von SBSAR-Dateien ermöglicht.
-* Es wurde ein Problem behoben, bei dem SubstanceGraphSO.CurrentStatePreset zum Laden von Vorgaben mit einem benutzerdefinierten Editorfensterskript in Unity nicht ordnungsgemäß funktionierte. ein Korrekturskript ist jetzt auf unserer Substance-Dokumentationsseite (HelpX) verfügbar: https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* Es wurde ein Problem behoben, bei dem SubstanceGraphSO.CurrentStatePreset zum Laden von Vorgaben mit einem benutzerdefinierten Editorfensterskript in Unity nicht ordnungsgemäß funktionierte. ein Korrekturskript ist jetzt auf unserer Substance-Dokumentationsseite (HelpX) verfügbar: https://experienceleague.adobe.com/de/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * Es wurde ein Fehler behoben, durch den Diagrammeigenschaften bei der Neuauswahl im Unity-Editor nicht mehr angezeigt wurden.
 * Es wurde das Problem &quot;Unknown managed type referenced&quot; im Zusammenhang mit SubstanceGraphSO im Unity-Plug-in behoben, durch das die Kompatibilität und Funktionalität auf Android-Plattformen verbessert wurden, insbesondere für Unity 2022.1 und möglicherweise für alle Unity-Versionen.
 * Es wurde ein Problem behoben, durch das die Auswahl &quot;NORMAL FORMAT&quot; im Abschnitt &quot;TECHNISCHE PARAMETER&quot; fälschlicherweise als Zahleneingabefeld angezeigt wurde, anstatt als erwartete Dropdown-Liste mit DirectX- und OpenGL-Optionen.

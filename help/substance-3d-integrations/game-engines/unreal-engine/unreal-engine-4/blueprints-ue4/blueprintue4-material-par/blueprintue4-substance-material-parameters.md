@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Ändern Sie die Parameter des Substance-Materials zur Laufzeit in Unreal Engine 4 mithilfe von Blueprint-Knoten für die dynamische Steuerung des Materials.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Parameter &quot;float&quot; ändern:
 
-Sie verwenden den Knoten [Set Input Fließkommazahl](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html), um die Parameter &quot;float&quot;, &quot;color(float4)&quot; und &quot;Boolesche Wert&quot; zu ändern.
+Sie verwenden den Knoten [Set Input Fließkommazahl](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html), um die Parameter &quot;float&quot;, &quot;color(float4)&quot; und &quot;Boolesche Wert&quot; zu ändern.
 
 1. Erstellen Sie eine Variable mit dem Typ &quot;Substance-Grafen Instance&quot; als Referenz.
 1. Erstellen Sie einen Knoten &quot;Fließkommazahl für Eingabe festlegen&quot; und legen Sie das Ziel als Variable für die Substance-Grafen-Instanz fest.

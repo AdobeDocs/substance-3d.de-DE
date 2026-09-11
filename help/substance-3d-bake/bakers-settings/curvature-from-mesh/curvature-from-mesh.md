@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: Generieren Sie präzise Krümmung-Texturen von Meshs mit hoher Poly-Dichte mithilfe von Raytracing für eine präzise Kantenerkennung.
 helpx_creative_field: ""

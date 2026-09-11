@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für das Blender-Add-on Version 0.9.3 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""

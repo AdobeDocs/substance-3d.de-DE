@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: Berechnen und speichern Sie die Geometrieposition des Meshs in Texturen, um Volumeneffekte und Verlaufsmasken zu erstellen.
 helpx_creative_field: ""

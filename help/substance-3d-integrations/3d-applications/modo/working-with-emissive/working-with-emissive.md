@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
 breadcrumb-title: ''
 description: Konfigurieren Sie emissive Eigenschaften für das Substance von Materialien in MODO, um den Lichtbetrag und die Farbeinstellungen zu steuern.
 helpx_creative_field: ""

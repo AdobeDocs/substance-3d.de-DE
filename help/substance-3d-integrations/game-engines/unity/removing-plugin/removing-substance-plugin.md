@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Substance 3D Plug-in ordnungsgemäß aus Unity-Projekten entfernen und die zugehörigen Dateien bereinigen können.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-are-assbin-files.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/what-are-assbin-files.html"
 breadcrumb-title: ''
 description: Erfahren Sie, was Assbin-Dateien sind und wie sie als Geometrie-Cache-Dateien verwendet werden, um das Baking zu beschleunigen.
 helpx_creative_field: ""
@@ -32,4 +32,4 @@ ht-degree: 0%
 > 
 > Vorverarbeitete Assbin-Dateien der beim Baking verwendeten Mesh mit hohem Poly-Anteil. Sie sind schneller zu lesen als die ursprünglichen Meshdateien, was ein schnelleres Baking bei der Iteration der Baker-Einstellungen ermöglicht. Sie können sicher entfernt werden. Substance Painter wird sie bei Bedarf regenerieren. Dies kann sich jedoch auf die Leistung des Bakings auswirken.
 > 
-> Es ist möglich, diese Dateien nie zu generieren, indem Sie in den Substance Painter [Hauptvoreinstellungen](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html) wechseln und die Option &quot;Vorverarbeitete Szene speichern&quot; deaktivieren.
+> Es ist möglich, diese Dateien nie zu generieren, indem Sie in den Substance Painter [Hauptvoreinstellungen](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/spdoc/general-71008262.html) wechseln und die Option &quot;Vorverarbeitete Szene speichern&quot; deaktivieren.

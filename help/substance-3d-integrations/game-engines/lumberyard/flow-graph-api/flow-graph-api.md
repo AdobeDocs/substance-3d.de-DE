@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
 description: Verwenden Sie Flow Graf-Knoten in Lumberyard, um die Einstellungen für prozedurale Material programmgesteuert zu konfigurieren.
 helpx_creative_field: ""

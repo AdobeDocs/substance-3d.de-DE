@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie sich die Gittertriangulation auf die Backergebnisse auswirkt, und lernen Sie Best Practices für die Vorbereitung Ihrer Geometrie kennen.
 helpx_creative_field: ""

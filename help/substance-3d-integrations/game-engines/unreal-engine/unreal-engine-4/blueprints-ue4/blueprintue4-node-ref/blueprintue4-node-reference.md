@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-reference.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-reference.html"
 breadcrumb-title: ''
 description: Referenzhandbuch für alle in Unreal Engine 4 verfügbaren Substance Blueprint-Knoten für Material-Vorgänge.
 helpx_creative_field: ""

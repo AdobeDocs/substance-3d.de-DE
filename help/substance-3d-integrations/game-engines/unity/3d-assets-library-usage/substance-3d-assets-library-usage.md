@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-assets-library-usage.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/substance-3d-assets-library-usage.html"
 breadcrumb-title: ''
 description: Sie können auf hochwertige Substance-Materialien aus der Asset-Bibliothek und auf Community-Elemente in Unity-Projekten zugreifen und diese verwenden.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Nutzung der Substance 3D Assets-Bibliothek
 
-Greifen Sie auf mehr als 1000 hochwertige, anpassbare und exportfähige 4K-Materialien mit Vorgaben in der [Substance 3D-Elementbibliothek](https://helpx.adobe.com/substance-3d/unlisted/assets.html) zu. Sie können Assets mit Community-Beiträgen in der [Community-Asset-Bibliothek](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html) durchsuchen.
+Greifen Sie auf mehr als 1000 hochwertige, anpassbare und exportfähige 4K-Materialien mit Vorgaben in der [Substance 3D-Elementbibliothek](https://helpx.adobe.com/de/substance-3d/unlisted/assets.html) zu. Sie können Assets mit Community-Beiträgen in der [Community-Asset-Bibliothek](https://helpx.adobe.com/de/substance-3d/unlisted/community-assets.html) durchsuchen.
 
 Sie können Materialien aus der Elementbibliothek herunterladen und in Unity verwenden.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
 breadcrumb-title: ''
 description: Korrigieren Sie Artefakte in der schwarzen Schattierung, die auf Gitteroberflächen sichtbar sind, indem Sie den Tangentenraum und die Normalberechnungen korrigieren.
 helpx_creative_field: ""

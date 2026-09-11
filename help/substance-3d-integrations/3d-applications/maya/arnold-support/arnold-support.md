@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/arnold-support.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/arnold-support.html"
 breadcrumb-title: ''
 description: Verbinden Sie Substance-Ausgaben direkt mit Arnold-Shadern in Maya für nahtlose Rendering-Workflows.
 helpx_creative_field: ""

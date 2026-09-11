@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
 description: Berechnen Sie bent normals-Texturen, die die Durchschnittsrichtung der Umgebungsbeleuchtung bei Meshs mit hohem Poly-Anteil beschreiben.
 helpx_creative_field: ""

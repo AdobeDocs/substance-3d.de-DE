@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
 breadcrumb-title: ''
 description: Aktivieren Sie die animierte Vorschau in Cinema 4D, um visuelle Rückmeldungen von animierten Substance-Materialien im Viewport zu sehen.
 helpx_creative_field: ""

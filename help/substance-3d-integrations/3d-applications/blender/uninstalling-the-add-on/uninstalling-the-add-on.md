@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie das Substance 3D-Add-on über das Einstellungsmenü von Blender ordnungsgemäß deinstallieren.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/vray.html"
 breadcrumb-title: ''
 description: Rendern Sie Substance-Materials mit V-Ray in Maya und 3ds Max mithilfe exportierter Maps oder dem Substance-Plug-in.
 helpx_creative_field: ""
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 Zum Rendern mit Vray können Sie aus Substance Painter exportierte Maps oder das Substance-Plug-in in [Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) oder [3ds Max](https://www.substance3d.com/ecosystem-plug-ins/substance-in-3ds-max/) verwenden.
 
-Substance Painter 2020.1 (6.1.0) wird mit VrayMtl-Shadern sowohl für metallic als auch für Specular-Workflows ausgeliefert und unterstützt Vray durch Vray Nächste [Ausgabevorlagen](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export).
+Substance Painter 2020.1 (6.1.0) wird mit VrayMtl-Shadern sowohl für metallic als auch für Specular-Workflows ausgeliefert und unterstützt Vray durch Vray Nächste [Ausgabevorlagen](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/getting-started/export/export).
 
 ## Inhaltsverzeichnis
 
-* [Vray Next - Substance in Maya](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
-* [Vray Next - Substance in 3ds Max](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
+* [Vray Next - Substance in Maya](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
+* [Vray Next - Substance in 3ds Max](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
 * [Nächste variieren - Substance Painter](../../renderers/vray/vray-next-painter/vray-next-substance-painter.md)

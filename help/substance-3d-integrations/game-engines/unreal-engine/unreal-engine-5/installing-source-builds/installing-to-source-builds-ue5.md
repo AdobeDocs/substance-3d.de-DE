@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/installing-to-source-builds-ue5.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/installing-to-source-builds-ue5.html"
 breadcrumb-title: ''
 description: Installiere das Substance 3D-Plug-in in den Quell-Builds von Unreal Engine 5, um deine Engine zu modifizieren.
 helpx_creative_field: ""

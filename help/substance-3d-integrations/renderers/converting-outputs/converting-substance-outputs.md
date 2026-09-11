@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/converting-substance-outputs.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/converting-substance-outputs.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Substance Material-Ausgaben konvertieren, um verschiedene Rendereranforderungen und Arbeitsabläufe zu erfüllen.
 helpx_creative_field: ""

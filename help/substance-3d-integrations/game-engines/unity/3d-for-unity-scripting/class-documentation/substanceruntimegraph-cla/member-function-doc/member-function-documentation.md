@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: Detaillierte Dokumentation für alle Memberfunktionen der SubstanceRuntimeGraph-Klasse in Unity-Skripterstellung.
 helpx_creative_field: ""
