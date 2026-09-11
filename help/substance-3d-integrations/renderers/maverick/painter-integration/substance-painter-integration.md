@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
 breadcrumb-title: ''
 description: Integriere Substance Painter mit dem Maverick Renderer für nahtlose Material-Workflows und Produkt-Visualisierung.
 helpx_creative_field: ""
@@ -30,20 +30,20 @@ ht-degree: 0%
 
 Sie können Ihr Substance Painter-Projekt ganz einfach in Maverick importieren, indem Sie folgende Schritte ausführen:
 
-**Auf Substance** **Painter**&#x200B;**:**
+**Auf Substance** **Painter****:**
 
 1. Exportiere deinen Mesh.
 1. Exportiere deine Texturen in denselben Ordner, in dem sich auch der Mesh befindet, und verwende eine der Maverick-Vorgaben (siehe Bild):
 
    ![](../../../assets/maverickrender-exportpresets-substancepainter.jpg)
 
-   *Wählen Sie* *&quot;**Maverick**&#x200B;Vorgabe**&quot; im* *Allgemeinen* *Fall.*
+   *Wählen Sie* *&quot;**Maverick**Vorgabe**&quot; im* *Allgemeinen* *Fall.*
 
-   *Wählen Sie* *&quot;**Maverick* *Erweitert* *Vorgabe**&quot;, wenn* *Sie* *a* *spezifisch **Karte**&#x200B;*** *als* *Anisotropie* *oder* * Beschichtung**.*
+   *Wählen Sie* *&quot;**Maverick* *Erweitert* *Vorgabe**&quot;, wenn* *Sie* *a* *spezifisch **Karte***** *als* *Anisotropie* *oder* * Beschichtung**.*
 
-   *Wählen Sie* *&quot;**Maverick**&#x200B;mit **Versatz**&#x200B;Vorgabe&#x200B;**&quot;, wenn* *Ihr* *Modell über einen entsprechenden * *Versatz &#x200B;** Karte&#x200B;**verfügt.* *Vorgabe**&#x200B;Wille* *Exportieren Sie das* *Height **Map**&#x200B;in&#x200B;**32-bit für* *Maverick* *um alle hohen &#x200B;** Geometriequalitäten **&#x200B; Geometrieeigenschaften &#x200B;** Details** zu erfassen.*
+   *Wählen Sie* *&quot;**Maverick**mit **Versatz**Vorgabe**&quot;, wenn* *Ihr* *Modell über einen entsprechenden * *Versatz **Karte**verfügt.* *Vorgabe**Wille* *Exportieren Sie das* *Height **Map**in**32-bit für* *Maverick* *um alle hohen **Geometriequalitäten** Geometrieeigenschaften **Details** zu erfassen.*
 
-   **In** **Maverick**&#x200B;**:**
+   **In** **Maverick****:**
 1. Klicken Sie auf das Substance Painter-Symbol:
 
    ![](../../../assets/maverickrender-substancepainter-icon.jpg)
@@ -57,7 +57,7 @@ Sie können Ihr Substance Painter-Projekt ganz einfach in Maverick importieren, 
    ![](../../../assets/maverickrender-substancepainter-import.jpg)
 1. Fahren Sie fort, damit Sie Ihr Modell nach Textursatz und mit seinen Materialien richtig organisiert und automatisch erstellt und angewendet bekommen. Bereit für die Lichtphase.
 
-   **Wenn** **Sie &#x200B;**&#x200B;**Ihre**&#x200B;**Texturen in Substance**&#x200B;**Painter**&#x200B;**ändern**&#x200B;Sie&#x200B;**&#x200B;** noch einmal **&#x200B;**,**&#x200B;**&#x200B;Überschreiben **&#x200B;**&#x200B;der **&#x200B;**&#x200B;vorherige&#x200B;**&#x200B;** Einsen **&#x200B;**.**&#x200B;**&#x200B;**&#x200B;**&#x200B;Verwenden Sie dann&#x200B;**&#x200B;**&#x200B;in **&#x200B; **&#x200B;Maverick **&#x200B;**&#x200B;das Update&#x200B;**&#x200B;**&#x200B;Maps&#x200B;**&#x200B;** Symbol&#x200B;**&#x200B;**:**
+   **Wenn** **Sie ****Ihre****Texturen in Substance****Painter****ändern**Sie**** noch einmal ****,****Überschreiben ****der ****vorherige**** Einsen ****.********Verwenden Sie dann****in** **Maverick ****das Update****Maps**** Symbol****:**
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/maverickrender-updatemaps-icon?$pjpeg$&jpegSize=200&wid=1065){width="800px"}
 

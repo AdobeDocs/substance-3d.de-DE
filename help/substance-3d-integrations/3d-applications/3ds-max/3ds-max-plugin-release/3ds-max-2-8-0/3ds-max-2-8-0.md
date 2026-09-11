@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-8-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-8-0.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für das 3ds Max-Plugin der Version 2.8.0, um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -30,10 +30,10 @@ ht-degree: 0%
 <b>Fest:</b>
 
 * Das Substance-Plugin wurde verbessert, um die Tastatureingabewerte innerhalb des praktischen Bereichs für jeden Parameter zu beschränken und Probleme mit der Schiebereglersteuerung und manuellen Wertanpassungen zu vermeiden.
-* Es wurde ein Problem behoben, bei dem das Kopieren von Substance2-Texturkonvertierungen (.sbsar) im Slate Material Editor zu einer unbeabsichtigten Instanziierung des kopierten Knotens führte und möglicherweise zu Abstürzen im Zusammenhang mit d3d11.dll führte.
-* Es wurde ein Absturzproblem in 3ds Max behoben, das beim Rendern benutzerdefinierter/bearbeiteter kopierter Materialsubstanzen (.sbsar) mit Corona Interactive auftrat
-* Es wurde ein Problem im Substance2-Knoten von 3ds Max behoben, bei dem die Schieberegler für Ganzzahl 3 und 4 nicht reagierten und nur die Werte durch manuelle numerische Eingabe aktualisiert wurden. Darüber hinaus wurden diese Werte im Gleitkommaformat falsch angezeigt. Die Schieberegler sind jetzt funktionsfähig und geben die gewünschten Werttypen genau wieder.
-* Es wurde ein Problem in 3ds Max 2021 mit Corona Render behoben, bei dem Substance-Materialien im Viewport korrekt angezeigt, aber bei der Dateiübertragung auf einen anderen PC grau dargestellt wurden. Benutzer müssen keine Materialien mehr von Grund auf neu einrichten oder Vorgaben laden, um ein ordnungsgemäßes Rendering zu ermöglichen.
+* Es wurde ein Problem behoben, bei dem das Kopieren von Substance2-Textur-Konvertierungen (.sbsar) im Slate Material Editor zu einer unbeabsichtigten Instanziierung des kopierten Knotens führte und möglicherweise Absturz in Zusammenhang mit d3d11.dll verursachte.
+* Es wurde ein Problem mit dem Absturz in 3ds Max behoben, wenn angepasste/bearbeitete kopierte Material-Substanzen (.sbsar) mit Corona Interactive gerendert wurden.
+* Es wurde ein Problem im Substance2-Knoten von 3ds Max behoben, durch das die Schieberegler für die Werte von Ganzzahl 3 und 4 nicht reagierten und nur durch manuelle numerische Eingabe die Werte aktualisiert wurden. Darüber hinaus wurden diese Werte im Gleitkommaformat falsch angezeigt. Die Schieberegler sind jetzt funktionsfähig und geben die gewünschten Werttypen genau wieder.
+* Es wurde ein Problem in 3ds Max 2021 mit Corona Render behoben, bei dem Substance-Materials im Viewport korrekt angezeigt, aber bei der Dateiübertragung auf einen anderen PC grau dargestellt wurden. Anwender müssen keine Materialien mehr von Grund auf neu einrichten oder Vorgaben laden, um das richtige Rendering zu ermöglichen.
 * Es wurde ein Absturzproblem im 3ds Max-Plug-in behoben, das beim Versuch auftrat, Substance-Knoten im Slate Material Editor zu duplizieren.
 * Es wurde ein Problem behoben, bei dem die Einstellung für das CPU-Kernlimit im Substance-Plug-in nach dem Neustart von 3ds Max nicht gespeichert wurde, um sicherzustellen, dass benutzerkonfigurierte Werte jetzt sitzungsübergreifend beibehalten werden.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/lumberyard.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien in Amazon Lumberyard Game Engine mit nativer Plug-in-Unterstützung für Material-Workflows.
 helpx_creative_field: ""

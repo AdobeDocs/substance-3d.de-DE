@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
 breadcrumb-title: ''
 description: Laden Sie das Substance 3D-Add-on für Blender von der offiziellen Website oder vom Blender-Add-on-Manager herunter und installieren Sie es.
 helpx_creative_field: ""
@@ -47,7 +47,7 @@ Es gibt zwei separate ZIP-Dateien zum Herunterladen und Installieren:
 1. Blender öffnen (v. 3.0 oder höher).
 1. Wählen Sie in der oberen Navigationsleiste Bearbeiten und dann Voreinstellungen aus. Wählen Sie dann die Registerkarte Add-ons aus.
 1. Klicken Sie auf die Schaltfläche **Installieren**.
-1. Suchen Sie im Datei-Explorer nach dem Ordner, in den die ZIP-Dateien heruntergeladen wurden
+1. Suchen Sie im Dateiordner den Explorer, in den die ZIP-Dateien heruntergeladen wurden
 1. Wählen Sie die Datei Substance3DInBlender.zip aus und klicken Sie auf die Schaltfläche **Add-on installieren**.
 1. Klicken Sie im Abschnitt Add-ons auf das Kontrollkästchen, um das Add-on zu aktivieren, und klicken Sie auf den Dropdown-Pfeil, um den Abschnitt zu erweitern.
 1. Sie werden aufgefordert, die Integrationstools zu installieren. Klicken Sie auf **Von Datenträger installieren**, um die Datei Substance3DIntegrationTools.zip auszuwählen, und klicken Sie auf die Schaltfläche **Tools installieren**.\
@@ -64,7 +64,7 @@ Es gibt zwei separate ZIP-Dateien zum Herunterladen und Installieren:
 1. Blender schließen und neu starten
 1. Wählen Sie in der oberen Navigationsleiste Bearbeiten und dann Voreinstellungen aus. Wählen Sie dann die Registerkarte Add-ons aus.
 1. Klicken Sie auf die Schaltfläche **Installieren**.
-1. Suchen Sie im Datei-Explorer nach dem Ordner, in den die ZIP-Dateien heruntergeladen wurden
+1. Suchen Sie im Dateiordner den Explorer, in den die ZIP-Dateien heruntergeladen wurden
 1. Wählen Sie die Datei Substance3DInBlender.zip aus und klicken Sie auf die Schaltfläche **Install** Add-on.
 1. Klicken Sie im Abschnitt Add-ons auf das Kontrollkästchen, um das Add-on zu aktivieren, und klicken Sie auf den Dropdown-Pfeil, um den Abschnitt zu erweitern.
 1. Sie werden aufgefordert, die Integrationstools zu installieren. Klicken Sie auf **Von Datenträger installieren**, um die Datei Substance3DIntegrationTools.zip auszuwählen, und klicken Sie auf die Schaltfläche **Tools installieren**.\

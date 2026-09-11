@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien mit Renderman in Maya mit pxrSurface- oder pxrDisney-Materialien für PBR-Rendering.
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
 breadcrumb-title: ''
-description: Verwenden Sie Substance-Materialien mit dem Arnold-Renderer in 3ds Max mit dem Substance-Plugin und Standard Surface-Material.
+description: Verwenden Sie Substance-Materialien mit dem Arnold-Renderer in 3ds Max mit dem Substance-Plugin und dem Standard Surface Material.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Arnold > Arnold - Substance in 3ds Max
 helpx_experience_level: ""
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Sie müssen die Legacy 3ds Max Map-Unterstützung für das Substance von Texturen aktivieren, um mit Arnold arbeiten zu können
+> Sie müssen die Unterstützung für Legacy 3ds Max Map für Substance-Texturen aktivieren, um mit Arnold arbeiten zu können
 
 ## Substance in 3ds Max Plugin
 
-Mit dem [3ds Max-Plugin](../../../3d-applications/3ds-max/3ds-max.md) können Sie im Substance-Menü &quot;Arnold&quot; auswählen, um das Arnold-Material automatisch mit Substance-Textureingaben einzurichten.
+Mit dem [3ds Max-Plugin](../../../3d-applications/3ds-max/3ds-max.md) können Sie im Substance-Menü &quot;Arnold&quot; auswählen, um das Arnold-Material automatisch mit Substance-Textur-Eingängen einzurichten.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/arnold?$png$&jpegSize=200&wid=1047)
 
@@ -36,6 +36,6 @@ Legacy-Kartenunterstützung muss für Produktions- und ActiveShade-Renderings ak
 
 >[!WARNING]
 >
-> Der GPU-Renderer wird von Substance Textures nicht unterstützt, wenn ActiveShade verwendet wird.
+> Der GPU-Renderer wird von Substance-Texturen nicht unterstützt, wenn ActiveShade verwendet wird.
 
 ![](../../../assets/legacy-1.png)

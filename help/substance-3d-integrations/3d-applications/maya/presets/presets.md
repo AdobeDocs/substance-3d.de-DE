@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/presets.html"
 breadcrumb-title: ''
 description: Verwalten Sie eingebettete Vorgaben in Substance-Dateien oder erstellen Sie neue Vorgaben in Maya, um Parameterkonfigurationen zu speichern.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Voreinstellungen
 
-Im Bereich Presets können Sie eingebettete Presets aus der Substance-SBSAR-Datei vollständig verwalten oder neue Presets erstellen.
+Im Bereich Presets können Sie eingebettete Presets aus der Substance-sbsar-Datei vollständig verwalten oder neue Presets erstellen.
 
 ![](../../../assets/presets-15.png)
 

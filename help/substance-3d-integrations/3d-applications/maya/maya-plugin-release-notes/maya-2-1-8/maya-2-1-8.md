@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-8.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-8.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Maya-Plugin-Version 2.1.8 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -22,5 +22,5 @@ ht-degree: 0%
 
 1. 1.8 - Veröffentlichung für Maya PR121
 
-* Renderberechnung ändern, um bei Verwendung von asynchronem Rendering eine sofortigere Aktualisierung zu erzielen
+* Ändern der Render-Berechnung, um bei Verwendung von asynchronem Rendering sofort zu aktualisieren
 * Beheben Sie einen Fehler, bei dem die voreingestellte Benutzeroberfläche nicht aktualisiert wird, da der Befehl zum Hinzufügen von voreingestellten Skripten nicht erfolgreich abgeschlossen wurde

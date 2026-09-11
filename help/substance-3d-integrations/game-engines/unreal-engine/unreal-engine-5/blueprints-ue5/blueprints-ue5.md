@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5.html"
 breadcrumb-title: ''
-description: Verwenden Sie Blueprint-Knoten in Unreal Engine 5, um Substance-Materialien zur Laufzeit für dynamische Material-Workflows zu steuern.
+description: Verwenden Sie Blueprint-Knoten in Unreal Engine 5, um Substance-Material zur Laufzeit für Dynamic Material-Workflows zu steuern.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Blueprints - UE5
 helpx_experience_level: ""

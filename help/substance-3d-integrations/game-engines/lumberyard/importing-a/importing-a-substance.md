@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
 breadcrumb-title: ''
 description: Importieren Sie Substance-Materialdateien in Lumberyard-Projekte mithilfe des prozeduralen Materialeditors.
 helpx_creative_field: ""

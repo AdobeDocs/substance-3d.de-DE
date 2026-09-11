@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-2.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Unity-Plug-in Version 2.5.2 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -29,12 +29,12 @@ Hinzugefügt:
 Fest:
 
 * Beim Einstellen der Zieleinstellungen 2048 Clamp und 4096 wird kein Fehler mehr angezeigt
-* Materialeigenschaften werden beim Upgrade auf HDRP und/oder URP von Standard übernommen.
-* Skripte, die das Substance-Material ändern, funktionieren bei der Bereitstellung auf Mobilgeräten wie erwartet
+* Material-Eigenschaften werden beim Upgrade auf HDRP und/oder URP von Standard übernommen.
+* Skripte, die Substance-Material ändern, funktionieren bei der Bereitstellung auf Mobilgeräten wie erwartet
 * Der rote Kanal wird nicht mehr in das Alpha kopiert und das standardmäßige Alpha wird in Weiß geändert.
-* Absturz beim Ändern der Zieleinstellungen auf Mac
-* NullReferenceException-Fehler beim Erstellen von Unity-Material entfernt
-* Fehler beim Beenden des Wiedergabemodus nach dem Bearbeiten der Kacheleigenschaften wurde entfernt
+* Absturz beim Ändern der Zieleinstellungen in Mac
+* NullReferenceException-Fehler beim Erstellen eines Unity-Materials entfernt
+* Fehler beim Beenden des Wiedergabemodus nach dem Bearbeiten der Eigenschaften der Kachelung entfernt
 * Aktivierung der GPU-Instanz möglich
-* Materialien, die Transparenz verwenden, verschwinden nicht oder werden falsch schwarz, wenn der vorhandene Wiedergabemodus vorhanden ist
-* Substance-Materialien werden beim Aktualisieren des Plug-ins nicht im HDRP-Projekt zerstört
+* Materials, die &quot;Transparenz&quot; verwenden, verschwinden nicht oder werden falsch schwarz, wenn der vorhandene Wiedergabemodus vorhanden ist
+* Substance-Material werden beim Aktualisieren des Plug-ins nicht im HDRP-Projekt zerstört

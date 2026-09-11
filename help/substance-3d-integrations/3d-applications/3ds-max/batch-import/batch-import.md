@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
 breadcrumb-title: ''
 description: Mit der Batch-Import-Funktion können Sie mehrere Substance SBSAR-Dateien gleichzeitig in 3ds Max importieren.
 helpx_creative_field: ""

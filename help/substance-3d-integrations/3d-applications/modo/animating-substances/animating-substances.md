@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/animating-substances.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/animating-substances.html"
 breadcrumb-title: ''
 description: Animiere in MODO die Parameter von Substance-Materialien, um dynamische Material-Effekte und -Variationen zu erzeugen.
 helpx_creative_field: ""

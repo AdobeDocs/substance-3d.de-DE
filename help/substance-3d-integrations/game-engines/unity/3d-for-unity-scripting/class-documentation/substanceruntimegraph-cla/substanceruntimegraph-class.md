@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
 breadcrumb-title: ''
-description: Referenzdokumentation für die SubstanceRuntimeGraph-Klasse, die für Laufzeitdiagrammvorgänge in Unity verwendet wird.
+description: Referenzdokumentation für die SubstanceRuntimeGraph-Klasse, die für Graf-Vorgänge zur Laufzeit in Unity verwendet wird.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Substance 3D for Unity Scripting > Class Documentation > SubstanceRuntimeGraph Class
 helpx_experience_level: ""
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 ## Adobe.Substance.Runtime.SubstanceRuntimeGraph-Klassenreferenz
 
-Klasse, die Laufzeitfunktionen zum Ändern von Eingaben bei Substanzdiagrammen und zum Rendern von Substanzdiagrammen bereitstellt, sodass Substance←GraphSO seine Assets zur Laufzeit generieren kann.
+Klasse, die Laufzeitfunktionen bereitstellt, um Eingaben bei Substance-Grafen zu ändern und zu rendern, sodass Substance←GraphSO seine Assets zur Laufzeit generieren kann.
 
-Vererbungsdiagramm für Adobe.Substance.Runtime.SubstanceRuntimeGraph:
+Vererbung für Adobe.Substance.Runtime.SubstanceRuntimeGraph:
 
 ![](../../../../../assets/image2022-10-14-17-53-23-1.png)
 
@@ -35,21 +35,21 @@ Vererbungsdiagramm für Adobe.Substance.Runtime.SubstanceRuntimeGraph:
 ```
 
 
-Fügt diesem Laufzeithandler ein neues Diagrammobjekt hinzu.
+Fügt diesem Laufzeithandler ein neues Graf-Objekt hinzu.
 
 ```
 • void SetInputFloat (string inputName, float value)
 ```
 
 
-Aktualisieren des Substance-Float-Eingangs
+Substance-Fließkommazahl-Eingabe aktualisieren
 
 ```
 • float GetInputFloat (string inputName)
 ```
 
 
-Substance Float-Eingang abrufen
+Substance-Fließkommazahl-Eingabe abrufen
 
 ```
 • void SetInputVector2 (string inputName, Vector2 value)
@@ -112,14 +112,14 @@ Substance Color herunterladen
 ```
 
 
-Aktualisieren der booleschen Substance-Eingabe
+Substance Boolesche Wert-Eingabe aktualisieren
 
 ```
 • bool GetInputBool (string inputName)
 ```
 
 
-Abrufen der booleschen Substance-Eingabe.
+Substance Boolesche Wert-Eingang abrufen.
 
 ```
 • void SetInputInt (string inputName, int value)
@@ -203,21 +203,21 @@ Gibt die vollständige Eingabebeschreibung für den Zieleingabenamen zurück.
 ```
 
 
-Substance Texture2D-Eingabe aktualisieren.
+Substance Textur2D-Eingabe aktualisieren.
 
 ```
 • Vector2Int GetTexturesResolution ()
 ```
 
 
-Gibt die Auflösung der Instanztexturausgabe zurück.
+Gibt die Ausgabeauflösung für die Instanzauflösung der Textur zurück.
 
 ```
 • void SetTexturesResolution (Vector2Int size)
 ```
 
 
-Legt die Auflösung der Ausgabeinstanz-Textur fest.
+Legt die Ausgabeauflösung für die Instanzauflösung der Textur fest.
 
 ```
 • bool HasInput (string inputName)
@@ -231,14 +231,14 @@ Gibt &quot;true&quot; zurück, wenn diese Substance-Instanz eine Eingabe mit ein
 ```
 
 
-Gibt eine Liste mit allen Ausgabetexturen für die Substance-Instanz zurück.
+Gibt eine Liste mit allen Texturen für die Substance-Instanz zurück.
 
 ```
 •  Texture2D GetOutputTexture (string outputName)
 ```
 
 
-Gibt die Ausgabetextur für einen bestimmten Ausgabenamen zurück.
+Gibt die Textur der Ausgabe für einen bestimmten Ausgabenamen zurück.
 
 ```
 • void Render ()
@@ -259,14 +259,14 @@ Die Substance-Instanz wird asynchron gerendert.
 ```
 
 
-Verwendet eine voreingestellte XML-Datei, um Parameter für die Diagrammeingabe festzulegen.
+Verwendet eine voreingestellte XML-Datei, um Graf-Eingabeparameter festzulegen.
 
 ```
 • string CreatePresetFromCurrentState ()
 ```
 
 
-Speichert den aktuellen Diagrammstatus in einer voreingestellten XML-Datei.
+Speichert den aktuellen Graf in einer voreingestellten XML-Datei.
 
 ## Öffentliche Attribute
 
@@ -309,4 +309,4 @@ Stellt den Substance SDK-Handler bereit.
 ```
 
 
-Hauptmaterial, das von der Substance-Instanz generiert wird.
+Von der Substance-Instanz generiertes Main-Material.

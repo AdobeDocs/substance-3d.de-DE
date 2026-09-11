@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über das Aktualisieren von Unity-Projekten mit Substance-Materialien und bekannte Probleme, die während der Migration vermieden werden können.
 helpx_creative_field: ""

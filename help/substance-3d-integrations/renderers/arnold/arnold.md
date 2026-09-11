@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/arnold.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien mit dem Arnold-Renderer in Maya und 3ds Max, einschließlich Unterstützung für metallische Workflow-Ausgaben.
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ Das Standard-Oberflächenmaterial in Arnold 5 unterstützt jetzt den metallische
 
 ## Inhaltsverzeichnis
 
-* [Arnold - Substance in 3ds Max](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
-* [Arnold - Substance in Maya](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
+* [Arnold - Substance in 3ds Max](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
+* [Arnold - Substance in Maya](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
 * [Arnold - Substance Painter](../../renderers/arnold/arnold-painter/arnold-substance-painter.md)

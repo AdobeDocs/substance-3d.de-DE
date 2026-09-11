@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
 description: Entfernen Sie sichtbare Nähte in Baking geführt normalen Texturen, indem Sie die Auffüllung, das Anti-Aliasing und das UV-Layout anpassen.
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * Oft sind UVs nicht an Pixeln ausgerichtet, was zu Aliasing führt und Nähte erzeugt. Weitere Informationen finden Sie unter [dieser Seite](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md).
 >   * Eine Erhöhung der Textur-Auflösung kann diesen Effekt reduzieren.
 >   * Eine weitere Möglichkeit besteht darin, die UV-Ränder an Pixeln auszurichten.
-> * Erhöhen Sie die Einstellung Shader **Qualität**. Die Shader-Qualität kann die Art und Weise beeinflussen, wie Specular-Reflexionen berechnet werden. Wenn einige UV-Inseln gedreht werden und dieser Parameter zu niedrig ist, kann dies zu sichtbaren Nähte führen. Weitere Informationen finden Sie unter [dieser Seite](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html).
+> * Erhöhen Sie die Einstellung Shader **Qualität**. Die Shader-Qualität kann die Art und Weise beeinflussen, wie Specular-Reflexionen berechnet werden. Wenn einige UV-Inseln gedreht werden und dieser Parameter zu niedrig ist, kann dies zu sichtbaren Nähte führen. Weitere Informationen finden Sie unter [dieser Seite](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html).

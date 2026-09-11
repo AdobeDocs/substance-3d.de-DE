@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
 breadcrumb-title: ''
-description: Konfigurieren Sie die Substance-Plugin-Einstellungen in 3ds Max einschließlich des Engine-Modus und der Standardauflösungsoptionen.
+description: Konfigurieren Sie die Substance-Plugin-Einstellungen in 3ds Max einschließlich Engine-Modus und Standardauflösungsoptionen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > Substance Settings
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Substance-Einstellungen
 
-Unter dem Substance-Menü oben auf der 3ds max UI können Sie verschiedene Einstellungen wie den Engine-Modus und die Standardauflösung ändern.
+Unter dem Substance-Menü oben auf der 3ds Max-Benutzeroberfläche können Sie verschiedene Einstellungen wie den Engine-Modus und die Standardauflösung ändern.
 
-1. **Ausgewähltes Modul**: Dadurch wird zwischen GPU- und CPU-Engines gewechselt. Mit der GPU-Engine können Sie Texturen mit einer Auflösung von bis zu 8K berechnen. Die CPU-Engine ist derzeit auf 2K begrenzt.
+1. **Ausgewähltes Engine**: Dies wechselt zwischen GPU- und CPU-Enginen. Mit dem GPU-Engine können Sie Texturen mit einer Auflösung von bis zu 8K berechnen. Das CPU-Engine ist derzeit auf 2K begrenzt.
 1. **Standardeingabeauflösung X**: Legt die standardmäßige X-Auflösung fest, wenn Substance erstellt werden. Wechselbar pro Substance
 1. **Standardeingabeauflösung Y**: Legt die standardmäßige Y-Auflösung fest, wenn Substance erstellt werden. Wechselbar pro Substance.
 1. **Standardauflösungsverhältnis für Sperren**: Legt den Standardstatus für das Sperren der X- und Y-Auflösung auf einem Substance fest. Wechselbar pro Substance.

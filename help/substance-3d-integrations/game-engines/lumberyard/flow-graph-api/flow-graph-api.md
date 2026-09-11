@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
-description: Verwenden Sie Flow Graph-Knoten in Lumberyard, um prozedurale Materialeinstellungen programmgesteuert zu konfigurieren.
+description: Verwenden Sie Flow Graf-Knoten in Lumberyard, um die Einstellungen für prozedurale Material programmgesteuert zu konfigurieren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Lumberyard > Flow Graph API
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Flow Graph API
+title: Flow Graf API
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,9 +18,9 @@ ht-degree: 0%
 ---
 
 
-# Flow Graph API
+# Flow Graf API
 
-Sie können die folgenden Flussdiagrammknoten verwenden, um prozedurale Materialeinstellungen zu konfigurieren.
+Zum Konfigurieren der Einstellungen für prozedurale Material können Sie die folgenden Textflussknoten verwenden:
 
 * [GetGraphInstanceID-Knoten](https://docs.aws.amazon.com/lumberyard/latest/userguide/fg-node-ref-procedural-material.html#fg-node-ref-proceduralmaterial-getgraphinstanceid)
 * [GetInputFloat-Knoten](https://docs.aws.amazon.com/lumberyard/latest/userguide/fg-node-ref-procedural-material.html#fg-node-ref-proceduralmaterial-getinputfloat)

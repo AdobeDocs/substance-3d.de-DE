@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
 description: Passen Sie die Kachelung der Substance-Textur in MODO an, indem Sie die Einstellungen für horizontalen und vertikalen Zeilenumbruch festlegen.
 helpx_creative_field: ""

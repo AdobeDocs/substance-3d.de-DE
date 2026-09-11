@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/what-is-the-bit-depth-of-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-is-the-bit-depth-of-baked-textures.html"
 breadcrumb-title: ''
-description: Erfahre mehr über die Bittiefe von vorgefertigten Texturen und wie sie sich auf die Texturqualität und Dateigröße auswirkt.
+description: Lernen Sie die Bittiefe Baking geführt Texturen kennen und erfahren Sie, wie sie sich auf die Qualität und Dateigröße der Textur auswirkt.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > What is the bit depth of baked textures "
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 'Was ist die Bittiefe von gebackenen Texturen? '
+title: 'Was ist die Bittiefe Baking geführt Texturen? '
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 0%
 ---
 
 
-# Was ist die Bittiefe von gebackenen Texturen?
+# Was ist die Bittiefe der Baking geführt Texturen?
 
 >[!WARNING]
 >
 > **Frage**
 > 
-> Was ist die Bittiefe von gebackenen Texturen?
+> Was ist die Bittiefe der Baking geführt Texturen?
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 >
 > **Lösung : Substance Painter**
 > 
-> Die Baker-Ausgänge werden als 16-Bit RGBA-Texturen erzeugt. Die endgültige Bittiefe hängt dann vom Zieldateiformat ab, das zum Speichern der Texturen verwendet wird. Das 32-Bit-Dateiformat konvertiert die 16-Bit-Eingabeinformationen, gewinnt jedoch nicht an Präzision.
+> Die Baker-Ausgänge werden als 16bit RGBA-Texturen erzeugt. Die endgültige Bittiefe hängt dann vom Zieldateiformat ab, das zum Speichern der Texturen verwendet wird. Das 32-Bit-Dateiformat konvertiert die 16-Bit-Eingabeinformationen, gewinnt jedoch nicht an Präzision.
 
 >[!NOTE]
 >

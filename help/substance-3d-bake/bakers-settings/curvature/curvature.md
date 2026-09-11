@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: Extrahieren Sie Krümmungsinformationen aus Ihrem Gitter, um Texturen zu erstellen, die Hohlräume und Kanten Ihrer Geometrie hervorheben.
 helpx_creative_field: ""

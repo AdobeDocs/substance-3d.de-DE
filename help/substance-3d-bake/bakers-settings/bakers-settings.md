@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
 description: Entdecken Sie alle verfügbaren Baker-Einstellungen und erfahren Sie, wie Sie jeden Baker-Typ konfigurieren, um optimale Ergebnisse bei der Generierung von Texturen zu erzielen.
 helpx_creative_field: ""

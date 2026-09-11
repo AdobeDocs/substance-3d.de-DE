@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ''
 description: Verwenden Sie diese Referenz, um zu überprüfen, welche Substance-Engine-Version mit Ihrer Software kompatibel ist, und um die Materialkompatibilität sicherzustellen.
 helpx_creative_field: ""
@@ -153,7 +153,7 @@ Stager\
 </tr>
 </table>
 
-| Softwareversion | Substance-Engine |
+| Softwareversion | Substance Engine Version |
 | --- | --- |
 | <b>3.2.1 Yakitori</b> 6. März 2022 | 8.3.0 |
 | <b>3.2.0 Yakitori</b> 25. Januar 2022 | 8.3.0 |
@@ -181,7 +181,7 @@ Stager\
 </tr>
 </table>
 
-| Softwareversion | Substance-Engine | Strukturversion |
+| Softwareversion | Substance Engine Version | Strukturversion |
 | --- | --- | --- |
 | <b>1.1.1</b> 14. Dezember 2021 | 8.1.0 | 1.4.0 |
 | <b>1.1.0</b> 24. November 2021 | 8.1.0 | N.A. |
@@ -191,7 +191,7 @@ Stager\
 
 ## Substance-Plug-ins
 
-| Plug-in | Substance-Engine | Strukturversion |
+| Plug-in | Substance Engine Version | Strukturversion |
 | --- | --- | --- |
 | <b>Maya</b> 2.2.2 | 8.4.2 | N.A. |
 | <b>3ds Max</b> 2.4.6 | 8.0.3 | N.A. |

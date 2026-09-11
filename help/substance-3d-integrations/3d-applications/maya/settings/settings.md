@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
 description: Konfigurieren Sie die Substance-Plugin-Einstellungen in Maya über das Substance-Regal oder -Menü, um das Verhalten anzupassen.
 helpx_creative_field: ""
@@ -49,19 +49,19 @@ Legt den standardmäßigen Rendering-Arbeitsablauf fest, der auf dem Substance-K
 
 Festlegen von Voreinstellungen für das Substance Engine und global für alle Substance-Knoten. Das Substance-Engine wird verwendet, um die Substance-Texturen zu berechnen.
 
-### Engine-Typ
+### Motortyp
 
-Das Substance Engine ist als CPU- und GPU-Engine verfügbar. Um das Engine zu wechseln, muss Maya neu gestartet werden. Das GPU-Engine ermöglicht eine höhere Auflösung als das CPU-Engine.
+Das Substance Engine ist als CPU- und GPU-Engine verfügbar. Um den Motor zu wechseln, muss Maya neu gestartet werden. Das GPU-Engine ermöglicht eine höhere Auflösung als das CPU-Engine.
 
 >[!WARNING]
 >
-> Es kann Rechenunterschiede zwischen der CPU und dem GPU-Engine geben. Für konsistente Ergebnisse ist es daher am besten, den Typ auf das gleiche Engine festzulegen, das im Substance Designer verwendet wird.
+> Es kann Unterschiede zwischen der CPU und der GPU-Engine geben. Für konsistente Ergebnisse ist es daher am besten, den Typ auf die gleiche Engine festzulegen, die auch im Substance Designer verwendet wird.
 
 Die CPU-Kerne und der Engine-Speicher geben an, wie viele Ressourcen das Substance-Engine verwenden darf.
 
 ### Blockieren von Renderings
 
-Mit dieser Option können Sie festlegen, ob der Substance-Engine-Computer die Maya-Benutzeroberflächenprozesse blockiert. Wenn diese Option aktiviert ist, hat das Substance-Engine Vorrang und blockiert die Maya-Benutzeroberflächenprozesse. Wenn diese Option deaktiviert ist, werden die Maya-UI-Prozesse nicht von Substance-Engine-Berechnungen blockiert.
+Mit dieser Option können Sie festlegen, ob der Substance-Engine-Computer die Maya-Benutzeroberflächenprozesse blockiert. Wenn diese Option aktiviert ist, hat die Substance-Engine Vorrang und blockiert die Maya-UI-Prozesse. Wenn diese Option deaktiviert ist, werden die Maya-UI-Prozesse nicht von Substance-Engine-Berechnungen blockiert.
 
 ## Cache-Ausgaben auf Festplatte
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines.html"
 breadcrumb-title: ''
-description: Erfahre, wie du Substance-Materialien in Unity, Unreal Engine, Lumberyard und anderen Game-Engines importieren und verwenden kannst.
+description: Erfahren Sie, wie Sie Substance-Materialien in Unity, Unreal Engine, Lumberyard und anderen Game-Enginen importieren und verwenden.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Game Engines.
 
-Sie können eine Substance-Datei (.sbsar) in den meisten gängigen Engines über das Substance-Plug-in importieren.
+Sie können eine Substance-Datei (.sbsar) in die meisten gängigen Engine über das Substance-Plugin importieren.
 
 * <b>Unity</b> verfügt über ein nativ integriertes Substance-Plug-in für den Release-Zyklus 2017. Für Unity 2018 und höher ist das Substance-Plug-in im [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/substance-in-unity-110555) verfügbar.
 * Das <b>Unreal Engine</b>-Plug-in befindet sich auf dem [Unreal Marketplace](https://accounts.unrealengine.com/logout?redirectUrl=https%3A%2F%2Fwww.unrealengine.com%2Fmarketplace%2Fsubstance-plugin).

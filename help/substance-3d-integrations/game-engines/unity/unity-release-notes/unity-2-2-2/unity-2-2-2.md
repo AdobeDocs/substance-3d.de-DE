@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-2.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für Unity-Plug-in Version 2.2.2, um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ### Kern-Plug-in:
 
-* Es wurde ein Fehler behoben, durch den die Unity-Standardtextur-GUI überschrieben wurde, als das Substance In Unity-Plugin installiert wurde.
+* Es wurde ein Fehler behoben, durch den die Unity-Standard-Textur-GUI überschrieben wurde, als das Substance In Unity-Plugin installiert wurde.
   * Es wurde ein Fehler behoben, durch den das Festlegen von EditorApplication.delayCall Probleme mit anderen Plug-ins verursachte
   * Es wurde ein Absturz behoben, der bei der Verwendung von nicht-lateinischen Zeichen in einem Projektnamen auftrat

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Hier erfahren Sie, wie Sie in Substance 3D Designer das Fenster "Baking führ" öffnen und verwenden, um Modellinformationen in Texturen Baking führen.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-Auf das Baking führend Fenster kann über die Meshdatei im Fenster [Explorer](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) zugegriffen werden. Klicken Sie mit der rechten Maustaste auf den Namen des Meshs, und wählen Sie &quot;**Modellinformationen Baking geführt**&quot; aus, um das Baking führend Fenster zu öffnen.
+Auf das Baking führend Fenster kann über die Meshdatei im Fenster [Explorer](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) zugegriffen werden. Klicken Sie mit der rechten Maustaste auf den Namen des Meshs, und wählen Sie &quot;**Modellinformationen Baking geführt**&quot; aus, um das Baking führend Fenster zu öffnen.
 
 ## Überblick
 
@@ -73,7 +73,7 @@ Im Baker können Sie auswählen, welche Baking geführt Textur Sie generieren m�
 * **Neuen Bäcker hinzufügen:** Klicken Sie auf die Schaltfläche &quot;Bäcker hinzufügen&quot;.
 * **Einen Bäcker entfernen:** Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Bäcker löschen&quot;.
 * **Einen Bäcker nach oben verschieben:** Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach oben ziehen&quot;.
-* **Einen Baker nach unten bewegen**&#x200B;Wählen Sie den Baker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach unten schieben&quot;.
+* **Einen Baker nach unten bewegen**Wählen Sie den Baker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach unten schieben&quot;.
 
 Jeder Bäcker in der erbt standardmäßig die Standardwerte (siehe oben). Die Größe (Auflösung) kann beispielsweise überschrieben werden, indem man auf die Zelle in der Zeile des Bakers klickt. Dies gilt auch für die anderen Einstellungen in der Zeile.
 

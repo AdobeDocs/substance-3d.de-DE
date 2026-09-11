@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie das Substance-Plugin Gamma-Einstellungen für Texturen in 3ds Max verarbeitet, um ein ordnungsgemäßes Farbmanagement sicherzustellen.
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Ecosystems and Plugins > Renderers > Color Management > Subst
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Substance von Texturen in 3ds Max
+title: Substance Texturen in 3ds Max
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Substance von Texturen in 3ds Max
+# Substance Texturen in 3ds Max
 
 Das Substance in 3ds Max Plugin kümmert sich um die Gamma-Einstellung für Ausgänge.
 

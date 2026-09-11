@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
 breadcrumb-title: ''
 description: Befolgen Sie die Optimierungsrichtlinien, um die Komplexität des Substance-Materials mit der Rendering-Leistung in Unity in Einklang zu bringen.
 helpx_creative_field: ""
@@ -35,6 +35,6 @@ Eine der größten Einschränkungen, auf die Sie achten sollten, sind Knoten mit
 >   
 > Das Substance-CPU-Engine kann mit 4K berechnet werden, aber es ist sehr langsam und kann dazu führen, dass eine Integration hängt oder möglicherweise Absturz auftritt.
 
-Im folgenden Beispiel wird die Ausgabegröße eines [Kachel-Sampler](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler)-Knotens auf [Absolut](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/output-size) 4096 festgelegt. Es führt dazu, dass mehrere Knoten stromabwärts mit 4K berechnet werden, bevor sie für die endgültige Ausgabeauflösung 2048 herunterskaliert werden.
+Im folgenden Beispiel wird die Ausgabegröße eines [Kachel-Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler)-Knotens auf [Absolut](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/output-size) 4096 festgelegt. Es führt dazu, dass mehrere Knoten stromabwärts mit 4K berechnet werden, bevor sie für die endgültige Ausgabeauflösung 2048 herunterskaliert werden.
 
 ![](../../../assets/absolute.png){width="1000px"}

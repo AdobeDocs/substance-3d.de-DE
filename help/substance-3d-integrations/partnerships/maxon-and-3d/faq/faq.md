@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
 breadcrumb-title: ''
 description: Hier finden Sie Antworten auf häufig gestellte Fragen zur Partnerschaft und Integration von Substance 3D und Maxon One.
 helpx_creative_field: ""
@@ -59,7 +59,7 @@ Das Paket umfasst ein einjähriges Abonnement für Maxon One und die Adobe Subst
   * Red Giant
   * Zbrush
   * Falschmünzer
-  * Die vollständige Bibliothek der Capsule-Elemente
+  * Die vollständige Bibliothek an Elementen aus der Kapsel
 
 * Cinema 4D
 
@@ -71,7 +71,7 @@ Das Paket umfasst ein einjähriges Abonnement für Maxon One und die Adobe Subst
 
 * Falschmünzer
 
-* Die vollständige Bibliothek der Capsule-Elemente
+* Die vollständige Bibliothek an Elementen aus der Kapsel
 
 * Die Adobe Substance 3D Collection umfasst:
   * Substance 3D Modeler
@@ -96,7 +96,7 @@ Das Paket umfasst ein einjähriges Abonnement für Maxon One und die Adobe Subst
 +++
 
 +++Wie verlängere ich nach dem ersten Jahr?
-Ihr Maxon One-Abonnement verlängert sich automatisch um ein weiteres Jahr zum Standardpreis (1199 USD pro Jahr oder entsprechend der Region).
+Ihr Maxon One-Abonnement verlängert sich automatisch um ein weiteres Jahr zum regulären Preis (1199 USD. USD pro Jahr oder entsprechend der Region).
 
 Die Adobe Substance 3D Collection wird nur dann automatisch verlängert, wenn Sie beim Einlösen Ihres Gutscheincodes eine gültige Kreditkarte eingeben oder wenn Sie vor dem Ablaufdatum der Abonnementlaufzeit eine Kreditkarte auf Ihrer Kontoverwaltungsseite unter account.adobe.com hinzufügen.
 

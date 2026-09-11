@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Substance-Ausgabeknoten in Maya funktionieren, um berechnete Texturen mit Shader-Netzwerken zu verbinden.
 helpx_creative_field: ""
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Substance-Ausgabeknoten
 
-Der Substance-Ausgabeknoten ist ein Verweis auf die berechnete Textur aus dem Substance Engine. Es ist mit dem Substance-Node verbunden. Wenn eine Ausgabe auf dem Substance-Node erstellt wird, berechnet die Substance-Engine die Textur und diese Daten werden im RAM-Speicher gespeichert. Bei Verwendung der GPU-Engine werden die Daten auf der GPU berechnet und mithilfe der Substance-GPU-Überblendungs-Engine an den Speicher zurückgesendet. Ausgaben auf dem Substance-Node, die nicht aktiviert sind, werden nicht berechnet.
+Der Substance-Ausgabeknoten ist ein Verweis auf die berechnete Textur aus dem Substance Engine. Es ist mit dem Substance-Node verbunden. Wenn eine Ausgabe auf dem Substance-Node erstellt wird, berechnet das Substance-Engine die Textur und diese Daten werden im RAM gespeichert. Wenn Sie das GPU-Engine verwenden, werden die Daten auf der GPU berechnet und mithilfe des Engine &quot;Substance-GPU-Überblendung&quot; zurück an den Speicher gesendet. Ausgaben auf dem Substance-Node, die nicht aktiviert sind, werden nicht berechnet.
 
 ![](../../../assets/outputnode.png)
 
-Auf diesem Knoten können Sie Ausgabeinformationen wie den Bezeichner, die Bezeichnung und den Verwendungssatz sehen, die für die Ausgabe in Substance Designer festgelegt sind. Dieser Knoten ermöglicht es Ihnen auch, die Textur im Abschnitt &quot;Ausgabecache&quot; auf Festplatte zu brennen.
+Auf diesem Knoten können Sie Ausgabeinformationen wie Identifizierung, Bezeichnung und Verwendung sehen, die für die Ausgabe in Substance Designer festgelegt sind. Dieser Knoten ermöglicht es Ihnen auch, die Textur im Abschnitt Ausgabecache auf die Festplatte Baking führen.

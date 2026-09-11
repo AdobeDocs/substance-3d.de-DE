@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/converting-substance-outputs.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/converting-substance-outputs.html"
 breadcrumb-title: ''
-description: Erfahren Sie, wie Sie die Ausgabe von Substance-Material an verschiedene Renderer-Anforderungen und Arbeitsabläufe anpassen können.
+description: Erfahren Sie, wie Sie Substance Material-Ausgaben konvertieren, um verschiedene Rendereranforderungen und Arbeitsabläufe zu erfüllen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Converting Substance outputs
 helpx_experience_level: ""
@@ -28,13 +28,13 @@ Sie können die konvertierten Karten aus dem Substance Painter exportieren. Eine
 
 ## Substance-Plug-in
 
-Das Substance-Plug-in generiert Ausgaben und erstellt automatisch Materialien für bestimmte Workflows. Bei DCC-Anwendungen und Renderern von Drittanbietern müssen Sie die metallischen/groben Ausgaben jedoch möglicherweise manuell konvertieren. Die folgenden Integrationen unterstützen automatische Rendering-Workflows und konvertieren bei Bedarf alle Map-Typen entsprechend:
+Das Substance-Plug-in generiert Ausgaben und erstellt automatisch Material für bestimmte Workflows. Bei DCC-Anwendungen und Renderern von Drittanbietern müssen Sie die metallic/groben Ausgaben jedoch möglicherweise manuell konvertieren. Die folgenden Integrationen unterstützen automatische Rendering-Workflows und konvertieren bei Bedarf alle Map-Typen entsprechend:
 
 * [Substance in Spanien](../../3d-applications/maya/using-workflows/using-workflows.md)
 * [Substance in 3ds Max](../../3d-applications/3ds-max/3ds-max.md)
 
 ## Benutzerdefinierte Substance
 
-Wenn Sie eine benutzerdefinierte Substance erstellen, können Sie die spezifischen Ausgaben erstellen, die Sie für Renderer wie Vray und Corona benötigen. Mit dem Konvertierungsknoten &quot;Metallisch/Raueit&quot; (Bibliothek > PBR-Dienstprogramme) können Sie die Grundfarbe, die Raueit und die Metallic-Maps ganz einfach in den entsprechenden Renderer konvertieren.
+Wenn Sie eine benutzerdefinierte Substance erstellen, können Sie die spezifischen Ausgaben erstellen, die Sie für Renderer wie Vray und Corona benötigen. Mit dem Konvertierungsknoten &quot;metallic/Rauheit&quot; (Library > PBR Utilities) können Sie die Grundfarbe, die Rauheit und die metallic Maps ganz einfach in den jeweiligen Renderer konvertieren.
 
 ![](../../assets/convert-designer.png){width="600px"}

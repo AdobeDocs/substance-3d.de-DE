@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
 breadcrumb-title: ''
-description: Verwenden Sie Substance 3D-Materialien mit Blender's Cycles- und Eveve-Renderern über die Substance-Add-on-Integration.
+description: Verwenden Sie Substance 3D Materials mit Blender's Cycles und Eveve Renderer über die Substance Add-on-Integration.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Cycles and Eevee > Cycles and Eevee - Substance 3D for Blender
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Zyklen und sogar - Substance 3D für den Mixer
 
-Wenn Sie mit dem [Substance 3D for Blender](../../../3d-applications/blender/blender.md)-Plug-in die Schaltfläche **Laden** zum Auswählen einer .sbsar-Datei verwenden, wird ein Mischermaterial erstellt, dessen gruppierte Ausgaben mit einem Principled BSDF-Knoten verbunden sind.\
-Die Materialeinstellung für das erzeugte Versatz wird automatisch auf &quot;Versatz und Bump&quot; gesetzt.
+Wenn Sie mit dem [Substance 3D for Blender](../../../3d-applications/blender/blender.md)-Plug-in die Schaltfläche **Laden** zum Auswählen einer sbsar-Datei verwenden, wird ein Blender-Material mit den gruppierten Ausgaben erstellt, die mit einem Principled BSDF-Knoten verbunden sind.\
+Die Versatz-Einstellung für das erstellte Material wird automatisch auf &quot;Versatz und Bump&quot; gesetzt.
 
 ![](../../../assets/image2022-8-18-17-37-35.png)

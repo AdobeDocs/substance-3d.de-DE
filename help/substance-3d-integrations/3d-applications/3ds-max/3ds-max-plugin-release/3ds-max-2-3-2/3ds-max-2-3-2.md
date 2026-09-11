@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-2.html"
 breadcrumb-title: ''
 description: Lesen Sie die Versionshinweise für das 3ds Max-Plugin Version 2.3.2 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
@@ -31,10 +31,10 @@ Heute haben wir die Version 2.3.2 des Plugins veröffentlicht, die meist ein Bug
 * Debug-Assert-Fehler werden nicht mehr angezeigt
 * Der Substance2-Knoten verfügt jetzt über die Skriptschnittstellen für iMultipleOutputChannelsWithValues.
 * Der Substance-Quelleintrag im Menü öffnet nun den Substance Launcher zur Registerkarte Source (Quelle), falls er installiert ist
-* Substance-Materials sollten jetzt korrekt aktualisiert werden, wenn Sie mit dem Corona-Renderer arbeiten
+* Substance-Materialien sollten jetzt korrekt aktualisiert werden, wenn Sie mit dem Corona-Renderer arbeiten
 * Substance-Ausgaben werden bei Verwendung mit VRay Next nicht mehr vorübergehend durch Bilder ersetzt
 * Das Dialogfeld &quot;Renderkompatibilität&quot; wurde entfernt und wird automatisch angezeigt. Sie ist bei Bedarf noch im Dialogfeld &quot;Einstellungen&quot; verfügbar
-* Mögliche Probleme beim Exportieren einer FBX-Datei behoben, während Substance Material in 3ds Max 2021 angewendet wurde
+* Mögliche Probleme beim Exportieren einer FBX-Datei behoben, während Substance-Material in 3ds Max 2021 angewendet wurde
 
 Bekannte Probleme:
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
 breadcrumb-title: ''
 description: Referenzdokumentation für die veraltete Substance Unity-Scripting-API für die Unterstützung älterer Projekte.
 helpx_creative_field: ""
@@ -51,12 +51,12 @@ ht-degree: 1%
 | **void Substance.Game.SubstanceGraph**.*SetInputTexture*( string inputName, Textur2D value) | Substance Textur2D-Eingabe aktualisieren | **String** *inputName* Name der Eingabe im SBSAR **Textur2D** *value*, der zum Aktualisieren des Parameters verwendet wird |
 | **Textur2D Substance.Game.SubstanceGraph**.*GetInputTexture*( string inputName) | Substance Textur2D-Eingabe abrufen | **Zeichenfolge** *Eingabename* Name der Eingabe in der SBSAR |
 | **VectorInt Substance.Game.SubstanceGraph**.*GetTexturesResolution*() | Auflösung der Zieleinstellungen des Grafen abrufen (Texturen von Vector4Int: x = width, y = Height, Werte können 32, 64, 128, 256, 512, 1024, 2048 und 4096 sein) | Keine |
-| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*( Vector2Int size) | Auflösung der Texturen für die Zieleinstellungen des Grafen festlegen (Vector2Int x = width, y = Height, Werte können 32, 64, 128, 256, 512, 1024, 2048 &amp; 4096 sein) Gibt 0 zurück, wenn der Vorgang erfolgreich war, andernfalls: -1. | **Vector2Int** *size* zum Aktualisieren des Parameters verwendet&#x200B;**.** |
+| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*( Vector2Int size) | Auflösung der Texturen für die Zieleinstellungen des Grafen festlegen (Vector2Int x = width, y = Height, Werte können 32, 64, 128, 256, 512, 1024, 2048 &amp; 4096 sein) Gibt 0 zurück, wenn der Vorgang erfolgreich war, andernfalls: -1. | **Vector2Int** *size* zum Aktualisieren des Parameters verwendet**.** |
 | **Liste Substance.Game.SubstanceGraph**.*GetGeneratedTextures*() | Gibt alle Substance Textur2D-Objekte zurück, die vom Material-Shader des Grafen verwendet werden. | Keine |
-| **int Substance.Game.SubstanceGraph**.*Baking führ*( Textur2D-Textur, Zeichenfolge absolutePath) | Generieren Sie .png-Dateien für alle Substance Textur2D-Objekte, die vom Material-Shader des Grafen verwendet werden. | Keine |
-| **&#x200B;**&#x200B;Substance.Game.**&#x200B; SubstanceGraph**.*Duplicate*() | Duplizieren eines Substance-Grafen | Keine |
+| **int Substance.Game.SubstanceGraph**.*Baking*( Textur2D-Textur, Zeichenfolge absolutePath) | Generieren Sie .png-Dateien für alle Substance Textur2D-Objekte, die vom Material-Shader des Grafen verwendet werden. | Keine |
+| **** Substance.Game.** SubstanceGraph**.*Duplicate*() | Duplizieren eines Substance-Grafen | Keine |
 | **Substance.Game.SubstanceGraph**.*Duplicate*(string newGraphName) | Duplizieren Sie einen Substance-Grafen und geben Sie ihm einen Namen (das zugehörige Material hat ebenfalls denselben Namen). | **String newGraphName** |
-| **&#x200B;**&#x200B;Substance.Game.**&#x200B; SubstanceGraph**.*GetInputProperties*() | Abfrage prozeduraler Eingabeinformationen, gibt ein Array von &quot;InputProperties&quot; zurück, mit :public Struktur InputProperties { public string name; // inputName public string label; // widget’s label in GUI public string group; // widget’s group in GUIpublic string[] componentLabels; // für Schieberegler (bis zu 4 Beschriftungen) public string[] enumOptions; // for optionMenuPublic InputPropertiesType type;public Vector4 maximum; // für Regler public Vector4 minimum; // für Regler public float step; // für Regler }public enum InputPropertiesType { Boolesche Wert = 0,// 0 Fließkommazahl, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Textur, // 7 String, // 8 Invalid = -1// -1 }; | Keine |
+| **** Substance.Game.** SubstanceGraph**.*GetInputProperties*() | Abfrage prozeduraler Eingabeinformationen, gibt ein Array von &quot;InputProperties&quot; zurück, mit :public Struktur InputProperties { public string name; // inputName public string label; // widget’s label in GUI public string group; // widget’s group in GUIpublic string[] componentLabels; // für Schieberegler (bis zu 4 Beschriftungen) public string[] enumOptions; // for optionMenuPublic InputPropertiesType type;public Vector4 maximum; // für Regler public Vector4 minimum; // für Regler public float step; // für Regler }public enum InputPropertiesType { Boolesche Wert = 0,// 0 Fließkommazahl, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Textur, // 7 String, // 8 Invalid = -1// -1 }; | Keine |
 | **bool** **Substance.Game.SubstanceGraph**.*HasInput*(**string** inputName) | Überprüfen Sie, ob eine Eingabe in einem Graf vorhanden ist, gibt true/false zurück: | **Zeichenfolge** *Eingabename* Name der Eingabe in der SBSAR |
 | **bool** **Substance.Game.SubstanceGraph**.*IsInputVisible*(**string** inputName) | Überprüfen, ob eine sichtbare Eingabe sichtbar ist, gibt true/false zurück. | **Zeichenfolge** *Eingabename* Name der Eingabe in der SBSAR |
 
@@ -65,8 +65,8 @@ ht-degree: 1%
 | Public-Methode | Beschreibung | Parameter |
 | --- | --- | --- |
 | public **void** *QueueForRender*() | Substance-Graf zur Warteschlange hinzufügen | Keine |
-| ***mySubstance.**&#x200B;RenderAsync()* | Alle Substance-Graf in der Warteschlange asynchron rendern | Keine |
-| ***mySubstance.**&#x200B;RenderSync()* | Alle Substance-Graf in der Warteschlange synchron rendern | Keine |
+| ***mySubstance.**RenderAsync()* | Alle Substance-Graf in der Warteschlange asynchron rendern | Keine |
+| ***mySubstance.**RenderSync()* | Alle Substance-Graf in der Warteschlange synchron rendern | Keine |
 
 ## Scripting im Editor-Modus:
 

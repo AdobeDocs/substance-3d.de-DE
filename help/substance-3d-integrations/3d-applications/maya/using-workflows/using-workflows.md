@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
 description: Erstellen und verwenden Sie Render-Vorgaben für Substance-Ausgaben in Maya, um automatisch Shader-Netzwerke für verschiedene Renderer zu generieren.
 helpx_creative_field: ""

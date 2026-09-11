@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
 breadcrumb-title: ''
 description: Weisen Sie Substance-Materials Objekten in Lumberyard mithilfe des Material-Editors genau wie bei anderen Materials zu.
 helpx_creative_field: ""

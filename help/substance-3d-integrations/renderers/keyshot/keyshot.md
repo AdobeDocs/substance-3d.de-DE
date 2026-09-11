@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: Verwenden Sie Substance-Materialien im Keyshot-Renderer für die Produktvisualisierung mit exportierten Textur Maps.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 # Keyshot
 
-*Keyshot 6.1.72*[&#x200B; Download-Beispiel-Szene](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
+*Keyshot 6.1.72*[ Download-Beispiel-Szene](https://www.dropbox.com/s/rvjsbbcx7c74aah/keyshot.zip?dl=0)
 
 ## Substance Painter Export
 
@@ -34,7 +34,7 @@ Sie werden zwei erweiterte Material verwenden. Das eine ist für metallic und da
 
 1. Setzen Sie Ihr Material auf Erweitert und ändern Sie den Graf des Materials.
 
-   **Metallic:**\
+   **Metallisch:**\
    a. Legen Sie den Brechungsindex auf 10 fest.\
    b. Legen Sie die Karten wie in der folgenden Tabelle angegeben fest.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
 breadcrumb-title: ''
 description: Verwenden Sie die Skript-API Substance Unreal Engine 4, um Substance-Material in Ihren Projekten programmgesteuert zu verwalten.
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unrea
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Unreal Engine 4-Skripterstellung
+title: Unreal Engine 4 Scripting
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Unreal Engine 4-Skripterstellung
+# Unreal Engine 4 Scripting
 
 Das Substance in Unreal Engine Plugin kann mit Skripten versehen werden. Die Methoden werden in der Datei SubstanceGraphInstance.h des Plug-ins aufgeführt und mit Anmerkungen versehen, die sich normalerweise im folgenden Verzeichnis befindet, wenn das Plug-in vom Marketplace installiert wird:
 

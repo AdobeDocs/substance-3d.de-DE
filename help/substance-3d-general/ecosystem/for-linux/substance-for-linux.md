@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-general/ecosystem/substance-for-linux.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux.html"
 breadcrumb-title: ''
 description: Erfahren Sie, wie Sie Substance 3D-Anwendungen unter Linux über das Adobe Download Access-Portal herunterladen, installieren und aktivieren.
 helpx_creative_field: ""
@@ -75,6 +75,6 @@ Es gibt zwei Optionen für die Softwareaktivierung: entweder lokale Aktivierung 
 1. Legen Sie die entpackten Lizenzschlüsseldateien in einem gemeinsam genutzten bereitgestellten Netzwerk ab.
 1. Richten Sie auf dem Computer des Benutzers eine Umgebungsvariable ein, die auf die Lizenzschlüsseldatei verweist, wie auf diesen Seiten erläutert:
 
-   * Substance 3D Painter - <https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
-   * Substance 3D Designer - <https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
-   * Substance 3D Sampler - <https://experienceleague.adobe.com/de/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>
+   * Substance 3D Painter - <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
+   * Substance 3D Designer - <https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
+   * Substance 3D Sampler - <https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>

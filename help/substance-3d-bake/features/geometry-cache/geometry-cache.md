@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/features/geometry-cache.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
-description: Verwenden Sie Geometrie-Caching, um vorverarbeitete Gitterdaten beizubehalten und nachfolgende Backvorgänge erheblich zu beschleunigen.
+description: Verwenden Sie Geometrie-Caching, um vorverarbeitete Mesh-Daten beizubehalten und nachfolgende Bakings erheblich zu beschleunigen.
 helpx_creative_field: ""
 helpx_description: bakers > Features > Geometry Cache
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Geometrie-Cache
 
-Beim Backen werden die Gitter für die Reinigung vorverarbeitet und in ein Format konvertiert, das mit dem Backen kompatibel ist. Der Geometrie-Cache ist eine Möglichkeit, diese vorverarbeitete Geometrie so beizubehalten, dass sie schnell neu geladen werden kann, um eine spätere Wiederholung dieses Vorgangs zu vermeiden (es sei denn, das Quellgitter ändert sich).
+Beim Baking werden die Mesh vorverarbeitet, um sie zu bereinigen, und in ein Format konvertiert, das mit dem Baking kompatibel ist. Der Geometriecache ist eine Möglichkeit, diese vorverarbeitete Geometrie so beizubehalten, dass sie schnell neu geladen werden kann, um eine spätere Wiederholung dieses Vorgangs zu vermeiden (es sei denn, der Quell-Mesh ändert sich).
 
-* In **Substance Designer** wird der Geometriecache erstellt, nachdem ein erstes Backen ausgeführt wurde. Der Cache wird dann im Speicher gespeichert, bis das Bäckerfenster geschlossen wird.
-* In **Substance Painter** wird der Geometriecache als Datei mit der Erweiterung **assbin** neben der Quelldatei nach dem ersten Backen gespeichert.
+* In **Substance Designer** wird der Geometriecache erstellt, nachdem ein erstes Baking ausgeführt wurde. Der Baker wird dann im Speicher gespeichert, bis das Cachefenster geschlossen wird.
+* In **Substance Painter** wird der Geometriecache als Datei mit der Erweiterung **assbin** neben der Quelldatei nach dem ersten Baking gespeichert.
 
-Durch die Wiederverwendung des Geometrie-Cache wird der Backvorgang erheblich beschleunigt, insbesondere wenn Sie die Backeinstellungen anpassen, um das perfekte Ergebnis zu erzielen.
+Durch die Wiederverwendung des Geometrie-Caches wird das Baking erheblich beschleunigt, insbesondere wenn Sie die Baker-Einstellungen anpassen, um ein perfektes Ergebnis zu erzielen.

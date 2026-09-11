@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: Verwende Substance-Materialien mit führenden Renderern wie Arnold, V-Ray, Redshift und anderen in deinem 3D-Workflow.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ In [Substance Source](https://source.substance3d.com/) bereitgestellte Substance
 
 Bei &quot;Arnold&quot; oder &quot;Variieren als Nächstes&quot; können Sie direkt Metallic-/Raueit-Ausgaben verwenden. Mit pxrSurface von Renderman müssen jedoch die Ausgangsfarben/Metallic-Ausgaben in diffuse und Specular-Gesichtsfarben konvertiert werden. Ein Substance-Integrations-Plug-in verarbeitet diese Konvertierungen automatisch, wenn der Renderer unterstützt wird.
 
-Mit Substance Painter können Sie eine [Ausgabevorlage](https://experienceleague.adobe.com/de/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) auswählen, die die entsprechenden Zuordnungstypen erstellt, die für einen bestimmten Renderer erforderlich sind. Wenn Ihr Renderer nicht standardmäßig unterstützt wird, können Sie auch benutzerdefinierte Ausgabevorlagen erstellen.
+Mit Substance Painter können Sie eine [Ausgabevorlage](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) auswählen, die die entsprechenden Zuordnungstypen erstellt, die für einen bestimmten Renderer erforderlich sind. Wenn Ihr Renderer nicht standardmäßig unterstützt wird, können Sie auch benutzerdefinierte Ausgabevorlagen erstellen.
 
 **Substance Painter Ausgabevorlage**
 

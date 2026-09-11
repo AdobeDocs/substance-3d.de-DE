@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
-description: Verwenden Sie Substance-Materialien in Roblox Studio mit dem PBR-Workflow für metallische Raueit für immersive 3D-Erlebnisse.
+description: Arbeiten Sie mit Substance-Materialien in Roblox Studio mit PBR-Metallische Rauheit-Workflows, um immersive 3D-Erlebnisse zu ermöglichen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Roblox
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Roblox
 
-[Roblox](https://www.roblox.com/) ist eine Plattform für immersive 3D-Multiplayer-Erlebnisse. Roblox Studio, das Roblox-Designtool, unterstützt den Workflow für die metallische Raueit von PBR.
+[Roblox](https://www.roblox.com/) ist eine Plattform für immersive 3D-Multiplayer-Erlebnisse. Roblox Studio, das Roblox-Designtool, unterstützt den PBR-Metallische Rauheit-Workflow.
 
 <table>
 <tr style="border: 0;">
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 ## Substance 3D Designer-Vorlage
 
-Um Texturen für Roblox zu erstellen, können Sie die Substance 3D-Datei unten als [Substance-Kompositionsgrafik](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)-Vorlage in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) verwenden.
+Um Texturen für Roblox zu erstellen, können Sie die Substance 3D-Datei unten als [Substance-Compositing-Graf](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)-Vorlage in [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) verwenden.
 
 [![Bild des SBS-Dateiformatsymbols, das mit der RoboBlox-Vorlage verknüpft ist.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
-Diese Graphvorlage ermöglicht die Vorkonfiguration der endgültigen Texturdateinamen und -typen. Diese Vorlage kann installiert und wiederverwendet werden, um neue Materialien zu erstellen, die immer den Roblox-Materialrichtlinien entsprechen.
+Diese Graf-Vorlage ermöglicht die Vorkonfiguration der Dateinamen und Typen der endgültigen Textur. Diese Vorlage kann installiert und wiederverwendet werden, um neue Material zu erstellen, die immer den Roblox-Material-Richtlinien entsprechen.
 
 </td>
 <td width="41.60%" style="border: 0;" valign="top">
@@ -75,15 +75,15 @@ Zunächst *installieren* Sie die Roblox-Vorlage.
 
 ### Vorlage erkennen
 
-Lassen Sie Designer *den Vorlagenordner überwachen*, um nach Diagrammvorlagen zu suchen.
+Lassen Sie dann Designer *den Vorlagenordner überwachen*, um nach Graf-Vorlagen zu suchen.
 
 * Wechseln Sie in Designer zu **Bearbeiten > Voreinstellungen...1**
-* Wechseln Sie im Fenster [Voreinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/preferences/preferences-window) zu **Projekte > Benutzerprojekt > Allgemein**
+* Wechseln Sie im Fenster [Voreinstellungen](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window) zu **Projekte > Benutzerprojekt > Allgemein**
 * Klicken Sie in der Liste **Vorlagenverzeichnisse** auf die Schaltfläche **+**.
 * Wechseln Sie zum Verzeichnis `templates` und klicken Sie auf **Ordner auswählen**.
 * Klicken Sie auf die Schaltfläche **OK**.
-* Gehen Sie zu **Datei > Neu > Substance-Diagramm...1**
-* Überprüfen Sie, ob die Vorlage &quot;`Roblox`&quot; im Fenster &quot;[Neues Substance-Diagramm](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)&quot; am unteren Rand der Vorlagenliste aufgeführt ist.
+* Wechseln Sie zu **Datei > Neu > Substance-Graf...1**
+* Überprüfen Sie, ob die Vorlage &quot;`Roblox`&quot; im Fenster &quot;[Neuer Substance-Graf](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)&quot; unten in der Vorlagenliste aufgeführt ist.
 
 </td>
 <td style="border: 0;" valign="top">
@@ -100,13 +100,13 @@ Lassen Sie Designer *den Vorlagenordner überwachen*, um nach Diagrammvorlagen z
 
 ### Texturen exportieren
 
-Erstellen Sie ein Diagramm mit der Roblox-Vorlage und exportieren Sie Bitmaps aus diesem Diagramm, sobald Sie die Arbeit an einem Material abgeschlossen haben.
+Erstellen Sie mithilfe der Roblox-Vorlage einen Graf und exportieren Sie Bitmaps aus diesem Graf, sobald Sie die Arbeit an einem Material abgeschlossen haben.
 
-* Wählen Sie im Fenster [Neues Substance-Diagramm](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) die Vorlage `Roblox` aus.
-* Legen Sie einen beliebigen Bezeichner und andere Parameter für das Diagramm fest und klicken Sie auf **OK**.
-* Arbeiten Sie in der [Diagrammansicht](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view) an Ihrem Material. Lesen Sie [hier](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/getting-started/workflow-overview), um mit dem Arbeitsablauf zu beginnen.
-* Wenn Sie fertig sind, gehen Sie zu **Tools > Bitmaps exportieren...** in der Diagrammansicht *Symbolleiste*
-* Legen Sie im Fenster [Bitmaps exportieren](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps) einen gültigen Pfad **Ziel** fest. Stellen Sie sicher, dass *alle* die Ausgaben *aktiviert* sind, und klicken Sie auf **Exportieren**.
+* Wählen Sie im Fenster [Neuer Substance-Graf](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) die Vorlage `Roblox` aus.
+* Legen Sie eine beliebige Identifizierung und andere Parameter für den Graf fest und klicken Sie auf **OK**.
+* Arbeiten Sie an Ihrem Material in der [Graphansicht](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view). Lesen Sie [hier](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview), um mit dem Arbeitsablauf zu beginnen.
+* Wenn Sie fertig sind, gehen Sie zu **Tools > Bitmaps exportieren...** in der Graphansicht *Symbolleiste*
+* Legen Sie im Fenster [Bitmaps exportieren](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps) einen gültigen Pfad **Ziel** fest. Stellen Sie sicher, dass *alle* die Ausgaben *aktiviert* sind, und klicken Sie auf **Exportieren**.
 * Überprüfen Sie, ob die Texturen ordnungsgemäß in den Pfad **Ziel** exportiert wurden.
 
 </td>
@@ -122,14 +122,14 @@ Erstellen Sie ein Diagramm mit der Roblox-Vorlage und exportieren Sie Bitmaps au
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-### Erstellen von Material in Roblox
+### Material in Roblox erstellen
 
-Erstellen Sie in Roblox eine Materialvariante und weisen Sie die aus Designer exportierten Texturen zu.
+Erstellen Sie in Roblox ein Material Variant und weisen Sie die aus Designer exportierten Texturen zu.
 
-* Wählen Sie die Registerkarte **Modell** aus, und klicken Sie auf **Materialmanager**.
-* Wählen Sie eine *Materialvorlage* aus, und klicken Sie auf die Schaltfläche **Variante erstellen**
-* Legen Sie im Fenster **Variante erstellen** einen Namen für das Material fest.
-* Klicken Sie für *jeden Materialkanal* auf die Schaltfläche **Importieren** und wählen Sie die entsprechende Textur aus, die aus Designer exportiert wurde.
+* Wählen Sie die Registerkarte **Material** aus, und klicken Sie auf **Modellmanager**.
+* Wählen Sie eine *Material-Vorlage* aus, und klicken Sie auf die Schaltfläche **Variante erstellen**.
+* Legen Sie im Fenster **Variante** erstellen einen Namen für das Material fest.
+* Klicken Sie für *jeden Material-Kanal* auf die Schaltfläche **Importieren** und wählen Sie die entsprechende aus Designer exportierte Textur aus.
 * Klicken Sie auf **Speichern**.
 
 </td>
@@ -147,14 +147,14 @@ Erstellen Sie in Roblox eine Materialvariante und weisen Sie die aus Designer ex
 
 ### Material anwenden
 
-Verwenden Sie Ihre neue Materialvariante in Ihrer Roblox-Szene
+Verwenden Sie Ihre neue Material-Variante in Ihrer Roblox-Szene
 
-* *Wählen Sie* beliebige Teile oder Gitter in Ihrer Roblox-Szene aus.
-* Wählen Sie im **Materialmanager** Ihre *Materialvariante* aus und klicken Sie auf die Schaltfläche **Auf ausgewählte Teile anwenden**
+* *Wählen Sie* beliebige Teile oder Mesh in Ihrer Roblox-Szene aus
+* Wählen Sie im **Material-Manager** Ihre *Material-Variante* aus, und klicken Sie auf die Schaltfläche **Auf ausgewählte Teile anwenden**
 
 >[!NOTE]
 >
-> Wenn die Texturfarbe in Roblox anders aussieht, überprüfen Sie das **Color**-Attribut in der Kategorie **Aussehen** in den Eigenschaften des Objekts, auf das der Materialvariante angewendet wird, und stellen Sie sicher, dass es auf *Reinweiß* festgelegt ist - d. h. auf RGB (255, 255, 255), das in Roblox mit *Institutionelles Weiß* gekennzeichnet ist.
+> Wenn die Texturen in Roblox anders aussehen, überprüfen Sie das **Color**-Attribut in den Eigenschaften des Objekts, auf das der Material-Variant angewendet wird, unter der **Kategorie Erscheinungsbild** und stellen Sie sicher, dass es auf *Reinweiß* festgelegt ist - d. h. auf RGB (255, 255, 255), das in Roblox mit *Institutionelles Weiß* gekennzeichnet ist.
 
 </td>
 <td style="border: 0;" valign="top">
@@ -169,11 +169,11 @@ Verwenden Sie Ihre neue Materialvariante in Ihrer Roblox-Szene
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-### Anpassen der Unterteilung
+### Kachelung anpassen
 
-Der Wiederholungsgrad des Materials auf einer Oberfläche - d.h. die Kachelung - kann jederzeit eingestellt werden.
+Der Wiederholungsgrad des Materials auf einer Fläche - d.h. die Kachelung - kann jederzeit eingestellt werden.
 
-* Wählen Sie im **Materialmanager** Ihre *Materialvariante* aus und klicken Sie auf die Schaltfläche **Bearbeiten**
+* Wählen Sie im **Material-Manager** Ihre *Material-Variante* aus, und klicken Sie auf die Schaltfläche **Bearbeiten**
 * Passen Sie im Fenster &quot;**Variant bearbeiten**&quot; den Wert der Eigenschaft &quot;**Studs pro Kachel**&quot; unter &quot;**Additional**&quot; an - ein *Lower*-Wert führt zu *more*-Wiederholung
 
 </td>

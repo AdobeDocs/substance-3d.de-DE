@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-general/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
 description: Erfahren Sie mehr über das Adobe Standard Material-Modell und wie Sie es für physikalisch basiertes Rendering über Adobe-Anwendungen hinweg verwenden können.
 helpx_creative_field: ""
@@ -26,4 +26,4 @@ Weitere Informationen finden Sie auf den folgenden Seiten:
 
 * [ASM-Spezifikationen](../adobe-standard-material/asm-specifications/asm-specifications.md)
 * [Technische Dokumentation zu ASM](../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)
-* [Metall-Werkstoffreferenzen](../adobe-standard-material/metal-material-references/metal-material-references.md)
+* [Metall-Material-Referenzen](../adobe-standard-material/metal-material-references/metal-material-references.md)

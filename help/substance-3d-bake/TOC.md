@@ -14,7 +14,7 @@ ht-degree: 19%
 
 + [Startseite](/help/substance-3d-bake/home/home.md)
 + Erste Schritte{#getting-started}
-  + [Was ist Backen?](/help/substance-3d-bake/getting-started/what-is-baking/what-is-baking.md)
+  + [Was wird Baking geführt?](/help/substance-3d-bake/getting-started/what-is-baking/what-is-baking.md)
   + Software-Schnittstelle{#software-interface}
     + [Substance 3D Painter](/help/substance-3d-bake/getting-started/software-interface/3d-painter/substance-3d-painter.md)
     + [Substance 3D Designer](/help/substance-3d-bake/getting-started/software-interface/3d-designer/substance-3d-designer.md)
@@ -22,7 +22,7 @@ ht-degree: 19%
   + [Verfügbarkeit pro Software](/help/substance-3d-bake/getting-started/availability-per-software/availability-per-software.md)
   + [Kompatible 3D-Software](/help/substance-3d-bake/getting-started/compatible-3d-software/compatible-3d-software.md)
   + [Tutorials](/help/substance-3d-bake/getting-started/tutorials/tutorials.md)
-+ Einstellungen für Bäcker{#bakers-settings}
++ Einstellungen für Baker{#bakers-settings}
   + [Einstellungsübersicht](/help/substance-3d-bake/bakers-settings/bakers-settings.md)
   + [Häufig verwendete Parameter](/help/substance-3d-bake/bakers-settings/common-parameters/common-parameters.md)
   + [Umgebungsverdeckung](/help/substance-3d-bake/bakers-settings/ambient-occlusion/ambient-occlusion.md)
@@ -53,14 +53,14 @@ ht-degree: 19%
   + [Tangentialraum](/help/substance-3d-bake/features/tangent-space/tangent-space.md)
 + Häufig gestellte Fragen{#common-questions}
   + [Wie exportiere ich die durch Baking erzeugte Map?](/help/substance-3d-bake/common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md)
-  + [Werden bei gebackenen Texturen Dithering-Effekte angewendet?](/help/substance-3d-bake/common-questions/dithering-applied-baked/is-dithering-applied-to-baked-textures.md)
-  + [Soll ich &quot;Tangentenraum pro Fragment berechnen&quot; aktivieren?](/help/substance-3d-bake/common-questions/should-enable-compute-tan/should-i-enable-compute-tangent-space-per-fragment.md)
+  + [Wird Dithering auf Baking geführt Texturen angewendet?](/help/substance-3d-bake/common-questions/dithering-applied-baked/is-dithering-applied-to-baked-textures.md)
+  + [Sollte ich &quot;Speicherplatz für Tangente pro Fragment berechnen&quot; aktivieren?](/help/substance-3d-bake/common-questions/should-enable-compute-tan/should-i-enable-compute-tangent-space-per-fragment.md)
   + [Was sind Assbin-Dateien?](/help/substance-3d-bake/common-questions/what-are-assbin-files/what-are-assbin-files.md)
-  + [Was ist die Bittiefe von gebackenen Texturen?](/help/substance-3d-bake/common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
+  + [Was ist die Bittiefe Baking geführt Texturen?](/help/substance-3d-bake/common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
   + [Was ist der Unterschied zwischen dem OpenGL- und dem DirectX-Normalformat?](/help/substance-3d-bake/common-questions/what-the-difference-bet/what-is-the-difference-between-the-opengl-and-directx-normal-format.md)
-  + [Warum gibt es seltsame Dehnungen in meinen Texturen nach dem Backen oder Exportieren?](/help/substance-3d-bake/common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
-  + [Warum funktioniert die Namensübereinstimmung nicht mit der Verdeckung/Thickness der Umgebung?](/help/substance-3d-bake/common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
-  + [Warum ist mein Mesh nach dem Backen vollständig schwarz?](/help/substance-3d-bake/common-questions/why-mesh-fully-black-aft/why-is-my-mesh-fully-black-after-baking.md)
+  + [Warum gibt es nach dem Baking oder Exportieren seltsame dehnte in meinen Texturen?](/help/substance-3d-bake/common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
+  + [Warum funktioniert die Zuordnung nach Name nicht mit Ambient occlusion/Thickness?](/help/substance-3d-bake/common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
+  + [Warum ist mein Mesh nach dem Baking vollständig schwarz?](/help/substance-3d-bake/common-questions/why-mesh-fully-black-aft/why-is-my-mesh-fully-black-after-baking.md)
 + Häufige Probleme{#common-issues}
   + [Aliasing bei UV-Nähten](/help/substance-3d-bake/common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
   + [Baker-Ausgabe ist vollständig schwarz oder leer](/help/substance-3d-bake/common-issues/baker-output-fully-black/baker-output-is-fully-black-or-empty.md)

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/de/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
 breadcrumb-title: ''
 description: Laden Sie offizielle Substance 3D-Applikationssymbole in mehreren Formaten herunter, um sie in Ihren veröffentlichten Grafiken und kreativen Projekten zu verwenden.
 helpx_creative_field: ''

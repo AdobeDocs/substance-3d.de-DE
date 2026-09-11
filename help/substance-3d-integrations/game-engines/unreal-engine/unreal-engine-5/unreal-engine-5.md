@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
-description: Verwenden Sie Substance-Materials in Unreal Engine 5 mit dem Substance-Plugin für die Bearbeitung und das Rendern von Materials in Echtzeit.
+description: Verwenden Sie Substance-Materialien in Unreal Engine 5 mit dem Substance-Plug-in für die Bearbeitung und das Rendering von Material in Echtzeit.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5
 helpx_experience_level: ""
@@ -28,7 +28,7 @@ Das Adobe Substance 3D Plug-in in Unreal Engine 5 ist offiziell im Unreal Engine
 
 * [Plugin-Übersicht - UE5](../../../game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5/plugin-overview-ue5.md)
 * [Plug-In-Einstellungen - UE5](../../../game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5/plugin-settings-ue5.md) — Enthält die Einstellungen für das Substance-Plug-In in Unreal.
-* [Substance Eingabebild - UE5](../../../game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md) — Substance kann mit Eingaben erstellt werden, in denen Sie ein Bild zur Verarbeitung im Material bereitstellen können.
+* [Substance-Eingabebild - UE5](../../../game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md) - Substance kann mit Eingaben erstellt werden, bei denen Sie ein Bild zur Verarbeitung im Material bereitstellen können.
 * [Material-Instanzdefinition - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md) - Sie können UE5 Material-Instanzen mit Substance verwenden.
 * [Verwendung der Materialvorlage - UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
 * [Physische Größe - UE5](../../../game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
