@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > Mögliche Fehlermeldung:
 > 
-> > > > 
+> &#x200B;> > > 
 > 
 > [ Baking ] Baking fehlgeschlagen (Farb-Map aus Mesh)\
 > Die Farben des Scheitelpunkts wurden nicht gefunden

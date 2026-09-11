@@ -60,24 +60,24 @@ In den folgenden Tabellen ist die GPU-Raytracing-Unterstützung für jeden Baker
 
 | Baker | Unterstützt GPU-Raytracing |
 | --- | --- |
-| Umgebungsverdeckung | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normal gebogen | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Color | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Biegung | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Höhe | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normal | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Normalen-Welt-Raum | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Umgebungsverdeckung | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normal gebogen | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Color | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Biegung | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Höhe | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normal | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Normalen-Welt-Raum | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 
 | Baker | Unterstützt GPU-Raytracing |
 | --- | --- |
-| Deckkraftmaske | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Position | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Niedrige Position | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Stärke | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Transferierte Textur | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Welt zu Tangente | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Deckkraftmaske | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Position | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Niedrige Position | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Stärke | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Transferierte Textur | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Welt zu Tangente | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ In den folgenden Tabellen ist die GPU-Raytracing-Unterstützung für jeden Baker
 
 | Baker | Unterstützt GPU-Raytracing |
 | --- | --- |
-| Umgebungsverdeckung | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Umgebungsverdeckung aus Mesh | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Normal gebogen aus Mesh | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Farbe aus Mesh | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| UV zu SVG konvertieren | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Krümmung aus Mesh | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Höhe aus Mesh | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Normal aus Mesh | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| Umgebungsverdeckung | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Umgebungsverdeckung aus Mesh | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Normal gebogen aus Mesh | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Farbe aus Mesh | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| UV zu SVG konvertieren | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Krümmung aus Mesh | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Höhe aus Mesh | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Normal aus Mesh | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | Baker | Unterstützt GPU-Raytracing |
 | --- | --- |
-| Deckkraftmaske aus Gitter | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Position aus Mesh | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Position | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Dicke aus Mesh | <div><img alt="(Häkchen)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| Transferierte Textur aus Mesh | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Welt-Raumrichtung | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| Welt-Raum-Normale | <div><img alt="(Fehler)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| Deckkraftmaske aus Gitter | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Position aus Mesh | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Position | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Dicke aus Mesh | <div><img alt="(Häkchen)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| Transferierte Textur aus Mesh | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Welt-Raumrichtung | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| Welt-Raum-Normale | <div><img alt="(Fehler)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 \*: Unterstützt CPU-Raytracing, das deutlich langsamer ist als GPU-Raytracing.

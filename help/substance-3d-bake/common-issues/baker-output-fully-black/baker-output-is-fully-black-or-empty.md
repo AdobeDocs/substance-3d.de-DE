@@ -41,5 +41,5 @@ ht-degree: 0%
 > * Überprüfen Sie, ob das für den Bäcker erforderliche High-Poly-Mesh ordnungsgemäß geladen wurde (Fehler in der Protokolldatei/im Fenster).
 > * Stellen Sie sicher, dass die Mesh mit niedrigem oder hohem Poly nicht zu groß (mehr als einen Kilometer) oder zu klein (weniger als einen Zentimeter) sind.
 > * Überprüfen Sie, ob der Baker den Mesh lesen/verarbeiten konnte (Fehlermeldungen finden Sie in der Protokolldatei/im Protokollfenster).
-> * Überprüfen Sie, ob die Funktion &quot;[ Matching by Name](../../features/matching-by-name/matching-by-name.md)&quot; nicht ordnungsgemäß eingerichtet wurde (einige Objekte schließen sich möglicherweise gegenseitig aus und überlappen sich nie).
+> * Überprüfen Sie, ob die Funktion &quot;[&#x200B; Matching by Name](../../features/matching-by-name/matching-by-name.md)&quot; nicht ordnungsgemäß eingerichtet wurde (einige Objekte schließen sich möglicherweise gegenseitig aus und überlappen sich nie).
 > * Stellen Sie sicher, dass die UVs mit niedrigem Poly-Wert im Bereich von 0 bis 1 liegen.

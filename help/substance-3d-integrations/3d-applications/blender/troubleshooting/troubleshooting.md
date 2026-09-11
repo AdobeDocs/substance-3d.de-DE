@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Fehlerbehebung
 
-Die Systemkonsole kann verwendet werden, um Fehler zu diagnostizieren, die bei der Verwendung des Add-Ons aufgetreten sind. Das Konsolenfenster von Blender wird je nach Betriebssystem unterschiedlich geöffnet. Ausführliche Anweisungen finden Sie in den Schritten auf der [-Dokumentationsseite von Blender auf der Systemkonsole ](https://docs.blender.org/manual/en/2.79/advanced/command_line/introduction.html#console-window-status-and-error-messages). Die Konsolenausgabe kann hilfreich sein, wenn unerwartete Probleme auftreten, z. B. wenn Texturen nicht geladen werden oder Materialien bei der Verarbeitung hängen bleiben.
+Die Systemkonsole kann verwendet werden, um Fehler zu diagnostizieren, die bei der Verwendung des Add-Ons aufgetreten sind. Das Konsolenfenster von Blender wird je nach Betriebssystem unterschiedlich geöffnet. Ausführliche Anweisungen finden Sie in den Schritten auf der [-Dokumentationsseite von Blender auf der Systemkonsole &#x200B;](https://docs.blender.org/manual/en/2.79/advanced/command_line/introduction.html#console-window-status-and-error-messages). Die Konsolenausgabe kann hilfreich sein, wenn unerwartete Probleme auftreten, z. B. wenn Texturen nicht geladen werden oder Materialien bei der Verarbeitung hängen bleiben.
 
 Um einen Fehler zu melden, nehmen Sie am #substance-blender-beta auf dem [Substance Discord-Server](https://discord.com/invite/substance3d) teil oder besuchen Sie [Adobe Communities](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender). Relevante Informationen aus dem Konsolenprotokoll und alle Reproduktionsschritte für das Problem können in die Berichte aufgenommen werden.
 

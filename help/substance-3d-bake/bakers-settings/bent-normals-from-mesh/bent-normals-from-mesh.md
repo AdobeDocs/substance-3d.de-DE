@@ -33,7 +33,7 @@ Die Bent normals aus dem Mesh-Baker berechnen eine Textur, die die Durchschnitts
 | *Parameter* | *Beschreibung* |
 | --- | --- |
 | **Sekundärstrahlen** | Anzahl der Verdeckungen. Ein hoher Wert erzeugt weniger Rauschen, ist aber länger zu berechnen. |
-| **Min. Verdeckungsabstand** | Mindestabstand, ab dem die Verdeckungsstrahlen auf die hohe Poly-Geometrie treffen**.** |
+| **Min. Verdeckungsabstand** | Mindestabstand, ab dem die Verdeckungsstrahlen auf die hohe Poly-Geometrie treffen&#x200B;**.** |
 | **Max. Verdeckungsabstand** | Maximale Entfernung, in der die Verdeckungsstrahl auf die hohe Poly-Geometrie treffen. |
 | **Relativ zum Begrenzungsrahmen** | Wenn diese Option aktiviert ist, basieren die Berechnungen des Strahlenabstands auf dem normalisierten Raum (0 bis 1) des Meshs mit geringer Poly-Intensität. Wenn diese Option deaktiviert ist, basiert die Berechnung des Strahlenabstands auf den Einheiten, die beim Export im Mesh mit niedriger Poly angegeben wurden (m, cm usw.). |
 | **Spread Angle** | Maximaler Ausbreitungswinkel der Verdeckungsstrahlen. Der Standardwert ist 180. |

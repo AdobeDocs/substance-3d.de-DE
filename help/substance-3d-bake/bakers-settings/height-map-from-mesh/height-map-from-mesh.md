@@ -30,5 +30,5 @@ Mit der Height-Map vom Mesh-Bäcker können Sie eine Height-Map aus einem Polygi
 
 | *Parameter* | *Beschreibung* |
 | --- | --- |
-| ****Normalisierung**** | Legt fest, wie der Wertebereich des Heights in der Textur gespeichert werden soll.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Relativ zur Strahlenentfernung</strong>:</li><li data-preserve-html="true"><strong>Relativ zu niedrigem Polygitter (pro UV-Kachel)</strong> (Standard)</li><li data-preserve-html="true"><strong>Relativ zur Min./Max. (pro UV-Kachel)</strong></li><li data-preserve-html="true"><strong>Manuell</strong></li></ul> |
+| **&#x200B;**&#x200B;Normalisierung&#x200B;**&#x200B;** | Legt fest, wie der Wertebereich des Heights in der Textur gespeichert werden soll.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Relativ zur Strahlenentfernung</strong>:</li><li data-preserve-html="true"><strong>Relativ zu niedrigem Polygitter (pro UV-Kachel)</strong> (Standard)</li><li data-preserve-html="true"><strong>Relativ zur Min./Max. (pro UV-Kachel)</strong></li><li data-preserve-html="true"><strong>Manuell</strong></li></ul> |
 | **Skalierungsverteiler** | Legen Sie fest, wie stark die Heights multipliziert oder dividiert werden sollen.Nur verfügbar, wenn die **Normalisierung** auf **Manuell** festgelegt ist. |

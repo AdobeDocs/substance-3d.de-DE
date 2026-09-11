@@ -73,7 +73,7 @@ Im Baker können Sie auswählen, welche Baking geführt Textur Sie generieren m�
 * **Neuen Bäcker hinzufügen:** Klicken Sie auf die Schaltfläche &quot;Bäcker hinzufügen&quot;.
 * **Einen Bäcker entfernen:** Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Bäcker löschen&quot;.
 * **Einen Bäcker nach oben verschieben:** Wählen Sie den Bäcker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach oben ziehen&quot;.
-* **Einen Baker nach unten bewegen**Wählen Sie den Baker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach unten schieben&quot;.
+* **Einen Baker nach unten bewegen**&#x200B;Wählen Sie den Baker in der Liste aus und klicken Sie dann auf die Schaltfläche &quot;Nach unten schieben&quot;.
 
 Jeder Bäcker in der erbt standardmäßig die Standardwerte (siehe oben). Die Größe (Auflösung) kann beispielsweise überschrieben werden, indem man auf die Zelle in der Zeile des Bakers klickt. Dies gilt auch für die anderen Einstellungen in der Zeile.
 

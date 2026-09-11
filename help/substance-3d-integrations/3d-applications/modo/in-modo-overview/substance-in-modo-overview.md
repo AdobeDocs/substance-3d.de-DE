@@ -52,4 +52,4 @@ Sie können die Substance-Parameter ändern, um die generierten Texturen zu aktu
 1. Navigieren Sie zu den Substance-Eigenschaften für das Substance-Material und ändern Sie im Abschnitt &quot;Änderungen&quot; einen der Parameter.
 
    ![](../../../assets/params.png)
-1. Sie können die Auflösung der generierten Texturen im Dropdown-Menü Ausgabegröße ändern. Substance können so eingestellt werden, dass sie bis zu 8K erzeugen. Das [Substance-GPU-Modul ](../../../3d-applications/modo/modo-switch-engine/modo-switch-engine.md) ist für die 8K-Ausgabe erforderlich.
+1. Sie können die Auflösung der generierten Texturen im Dropdown-Menü Ausgabegröße ändern. Substance können so eingestellt werden, dass sie bis zu 8K erzeugen. Das [Substance-GPU-Modul &#x200B;](../../../3d-applications/modo/modo-switch-engine/modo-switch-engine.md) ist für die 8K-Ausgabe erforderlich.
