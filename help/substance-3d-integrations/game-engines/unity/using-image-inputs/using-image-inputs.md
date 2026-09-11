@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
 breadcrumb-title: ''
-description: Verwende Texturen als Eingabeparameter für das Substance von Materialien in Unity, um die Anpassung deiner Materials zu optimieren.
+description: Verwende Bildtexturen als Eingabeparameter für das Substance von Materialien in Unity, um die Materialanpassung zu optimieren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Using Image Inputs
 helpx_experience_level: ""
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Verwenden von Bildeingaben
 
-So verwenden Sie ein Bild in einem Eingabeparameter für einen Substance:
+So verwenden Sie ein Bild in einem Eingabeparameter für eine Substance:
 
 1. Im Inspektorfenster des Substance-Grafen können Sie Texturen in Ihrem Projekt auswählen, die den Bildeingaben zugewiesen werden sollen.
 
    ![](../../../assets/imageinput-inspector.png)
-1. Beachten Sie, dass die Auswahl einer Textur dazu führt, dass das Feld Texturen &quot;Lesen/Schreiben aktiviert&quot; aktiviert wird, da dies zum Lesen der Textur-Daten in das Substance-Material erforderlich ist.
+1. Beachten Sie, dass die Auswahl einer Textur dazu führt, dass das Texturfeld &quot;Lesen/Schreiben aktiviert&quot; aktiviert wird, da dies zum Lesen der Texturdaten in das Substance-Material erforderlich ist.
 
    ![](../../../assets/imageinput-texture.png)

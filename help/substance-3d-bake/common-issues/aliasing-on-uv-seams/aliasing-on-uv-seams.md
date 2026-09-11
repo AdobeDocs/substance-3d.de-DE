@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
-description: Korrigieren Sie Aliasing-Artefakte, die während des Baking führend UV auftreten, indem Sie die Anti-Aliasing- und Abstandseinstellungen anpassen.
+description: Korrigieren Sie Aliasing-Artefakte, die während des Bakings auf UV auftreten, indem Sie die Einstellungen für Glättung und Auffüllung anpassen.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Aliasing on UV Seams
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **Problem**
 > 
-> Nach dem Baking führ werden dunkle Flecken oder Punkte am Rand der UV-Nähte angezeigt:
+> Nach dem Backen erscheinen dunkle Flecken oder Punkte am Rand der UV-Naht:
 > 
 > ![](../../assets/edge-aliasing.png)
 

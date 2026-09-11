@@ -25,5 +25,5 @@ Veröffentlicht am 6. November 2020 für Epic Games Marketplace
 Problembehebungen:
 
 * Substance Painter Live Link-Funktion bei Verwendung der Painter-Versionen 6.2.0 und 6.2.1
-* Absturz bei der Aktualisierung mehrerer Stoffe aus älteren Projekten
+* Absturz beim Aktualisieren mehrerer Substanzen aus älteren Projekten
 * Kompilierungswarnungen

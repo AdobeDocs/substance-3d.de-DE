@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
 breadcrumb-title: ''
-description: Verwenden Sie die Substance Maya API, um die Erstellung und Verwaltung von Substance-Material in Ihren Maya-Workflows zu skripten.
+description: Verwenden Sie die Substance Maya API, um die Erstellung und Verwaltung von Substance-Materialien in Ihren Maya-Workflows zu skripten.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Maya Scripting
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Maya Scripting
 
-Das Substance in Maya-Plugin kann mit Skripten versehen werden. Eine verfügbar gemachte API ermöglicht die Verwendung von Substance-Befehlen in Skripten zum Erstellen und Verwalten von Substance-Materialien. Sie können auf die verfügbaren Befehle zugreifen, indem Sie zu den Plugin-Informationen gehen.
+Das Substance in Maya-Plugin kann mit Skripten versehen werden. Eine gelegt API ermöglicht die Verwendung von Substance-Befehlen in Skripten zum Erstellen und Verwalten von Substance-Materialien. Sie können auf die verfügbaren Befehle zugreifen, indem Sie zu den Plugin-Informationen gehen.
 
 ***Windows>Einstellungen/Voreinstellungen/Plug-In-Manager und suchen Sie nach der Datei &quot;substcemaya.mll&quot;.***
 
@@ -33,9 +33,9 @@ Klicken Sie auf die Schaltfläche &quot;i&quot;, um die verfügbaren Befehle anz
 Dieses Skript lädt eine SBSAR-Datei und wendet den Arnold-Render-Workflow auf das ausgewählte Gitter an. Um das Skript zu verwenden, folgen Sie bitte dem hier aufgeführten Beispiel.
 
 1. Kopieren Sie den Code und fügen Sie ihn in eine Python-Registerkarte des Skripteditors ein.
-1. Auswählen und Vernetzen im Viewport
+1. Auswählen und Mesh im Viewport
 1. Markieren Sie den Text auf der Registerkarte &quot;Python&quot; und drücken Sie &quot;Strg + Eingabe&quot;
-1. Suchen Sie im Fenster nach einer SBSAR-Datei.
+1. Suchen Sie im Fenster nach einer sbsar-Datei.
 
 ```
 import maya.cmds as cmds 
@@ -170,4 +170,4 @@ if __name__ == '__main__':
 ```
 
 
-Eine verfügbar gemachte API ermöglicht die Verwendung von Substance-Befehlen in Skripten
+Eine gelegt API ermöglicht die Verwendung von Substance-Befehlen in Skripten

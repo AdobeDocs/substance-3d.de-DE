@@ -30,21 +30,21 @@ ht-degree: 0%
 
 <b>Aktualisiert:</b>
 
-* Upgrade auf die neueste Version von Connector
-* Es wurde eine Funktion zum Empfangen von Vorgaben über den Connector hinzugefügt.
+* Upgrade auf die neueste Version von Verbindung
+* Es wurde eine Funktion zum Empfangen von Vorgaben mithilfe der Verbindung hinzugefügt.
 * Verbesserte Funktion für die Importvorgabe: Jetzt fügen alle Instanzen eines SBSAR, die das Material enthalten, die Vorgabe hinzu
-* Standardisierte Connector-Funktionen
+* Standardisierte Verbindung
 
 <b>Fest:</b>
 
 * Beharrungsfehler, bei dem das Eingabebild nach dem Speichern der Mischdatei nicht funktionierte
-* Problem mit Shader-Netzwerk funktioniert beim Aktualisieren der Shader-Vorgabe nicht
+* Problem, dass das Shader-Netzwerk beim Aktualisieren der Shader-Vorgabe nicht funktioniert
 * Falsche URL in der Schaltfläche &quot;Plug-in herunterladen&quot;
-* Umgekehrte Kachelung in Octane
+* Invertierte Kachelung in Octane
 * Nicht funktionierende Eingabewerte mit Renderern von Drittanbietern
 * Problem, bei dem der Parameter für den Gleitkommaeingabewert nicht erstellt wurde
 * Renderman-Farbräume funktionieren nicht richtig
-* Shader-Vorgaben werden nicht nach verfügbarem Renderer gefiltert
+* Shader-Vorgaben werden nicht nach verfügbarem Renderer Filterung
 
 ## Add-on 2.1.1
 
@@ -52,23 +52,23 @@ Dieses Update enthält Unterstützung für Blender 4.0+ und mehrere neue Funktio
 
 <b>hinzugefügt/aktualisiert:</b>
 
-* Substance Connector-Funktionalität hinzugefügt (unterstützt SBSAR-Dateien und USD-Dateien).
+* Substance Connector-Funktionalität hinzugefügt (unterstützt SBSAR-Dateien und USD).
 * Unterstützung für Blender 4.0 und höher.
 * Unterstützung für SRE Version 2.1.0.
 * In den Add-on-Voreinstellungen:
   * Möglichkeit, den Installationspfad für Substance-Integrationstools auszuwählen.
   * Schaltfläche zum Zurücksetzen der Integrationstools auf den Standardpfad.
   * Schaltfläche zum Öffnen des Ordners Integrationstools.
-  * Hinzugefügter Typ zum Zuweisen von Material (Einfügen: als Hauptmaterial festlegen, Anfügen: am Ende der Liste).
+  * Hinzugefügter Typ zum Zuweisen von Material (Einfügen: als Haupt-Material festlegen, Anhängen: am Ende der Liste).
   * Es wurde ein Kontrollkästchen hinzugefügt, um das Standardverhalten der Eingabegruppen (reduziert/erweitert) auszuwählen.
   * Es wurde ein Kontrollkästchen hinzugefügt, um das Standardverhalten der einzigen Eigenschaft zum Aktualisieren von Texturen auszuwählen.
-  * Starten Sie die Substance Remote Engine automatisch, wenn Sie Blender öffnen (wichtig, dass Sie diese Option aktivieren, wenn Sie Connector verwenden).
+  * Starten Sie beim Öffnen von Blender automatisch das Substance Remote-Engine (wichtig, um aktiviert zu sein, wenn Sie Verbindung verwenden).
 * In Addon:
-  * Hinzugefügt Nur Texturen aktualisieren (ermöglicht das Ändern der Parameter, ohne das Knotendiagramm neu zu erstellen).
+  * Hinzugefügt Nur Texturen aktualisieren (ermöglicht das Ändern der Parameter, ohne den Node-Graf neu zu erstellen).
   * Es wurden Schaltflächen zum Erweitern aller Gruppen und zum Reduzieren aller Gruppen hinzugefügt.
-  * Eingabebildgruppe hinzugefügt, um alle Eingabebilder zu gruppieren, wenn sie in einem SBSAR benötigt werden.
+  * Es wurde eine Eingabebild-Gruppe hinzugefügt, um alle Eingabebilds zu gruppieren, wenn sie in einem SBSAR benötigt werden.
   * Parametereingaben werden jetzt in derselben Reihenfolge wie in Designer angezeigt.
-  * Eine Miniaturvorschau für jedes Substance-Material wurde hinzugefügt.
+  * Es wurde eine Miniaturvorschau für jedes Substance-Material hinzugefügt.
 
 <b>Fest:</b>
 
@@ -113,12 +113,12 @@ Das Substance 3D Add-on 2.0 markiert ein transformatives Update für Blender-Ben
 * [BLD] Weiche und harte Grenzen der Eingaben werden ignoriert
 * [BLD] Farbintensität wird beim Anpassen eines Parameters nicht korrekt aktualisiert
 * [SRE] Deinstallation der Integrationstools schlägt fehl
-* [SRE] Wir haben das Problem behoben, dass das mehrmalige Duplizieren von Materialien einen Fehler verursacht hat.
+* [SRE] Wir haben das Problem behoben, dass das mehrmalige Duplizieren von Materialien zu einem Fehler führte.
 * [SRE] Der Farbraum der Bildknoten stimmt jetzt mit den Benutzereinstellungen überein.
 
 <b>Bekannte Probleme:</b>
 
 * Bei Verwendung von Blender 4.0 und höher sind die Sockel nach mehrfacher Aktivierung und Deaktivierung nicht in der richtigen Reihenfolge
 * Strg+Z zum Rückgängigmachen von Änderungen kann zu Fehlern führen
-* Das Laden einer leeren Datei oder eines Ordners anstelle einer .sbsar-Datei kann das Plug-in beschädigen
+* Das Laden einer leeren Datei oder eines Ordners anstelle von .sbsar-Datei könnte das Plug-in beschädigen
 * Unterstützung für den Headless-Modus von Blender

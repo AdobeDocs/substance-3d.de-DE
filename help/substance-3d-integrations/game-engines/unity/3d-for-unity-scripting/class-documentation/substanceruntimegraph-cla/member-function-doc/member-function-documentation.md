@@ -310,7 +310,7 @@ Texture2D Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetOutputTexture ( strin
 ```
 
 
-Gibt die Ausgabetextur für einen bestimmten Ausgabenamen zurück.
+Gibt die Textur der Ausgabe für einen bestimmten Ausgabenamen zurück.
 
 **Parameter**
 
@@ -330,7 +330,7 @@ Vector2Int Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetTexturesResolution (
 ```
 
 
-Gibt die Auflösung der Ausgabeinstanz-Textur zurück.
+Gibt die Ausgabeauflösung für die Instanzauflösung zurück.
 
 **Rückgaben**
 
@@ -363,7 +363,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.LoadPreset ( string presetXML
 ```
 
 
-Verwendet eine voreingestellte XML-Datei, um Parameter für die Diagrammeingabe festzulegen.
+Verwendet eine voreingestellte XML-Datei, um Graf-Eingabeparameter festzulegen.
 
 **Parameter**
 
@@ -483,7 +483,7 @@ Texture2D value ) [inline]
 ```
 
 
-Substance Texture2D-Eingabe aktualisieren.
+Substance Textur2D-Eingabe aktualisieren.
 
 **Parameter**
 
@@ -616,7 +616,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.SetTexturesResolution ( Vecto
 ```
 
 
-Legt die Auflösung der Ausgabeinstanz-Textur fest.
+Legt die Ausgabeauflösung für die Instanzauflösung der Textur fest.
 
 **Parameter**
 

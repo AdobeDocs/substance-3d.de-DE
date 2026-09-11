@@ -30,16 +30,16 @@ ht-degree: 0%
 | **GetFactoryName** | **SubstanceGraphInstance** | Gibt den Namen der **GraphInstanceFactory** zurück, die zum Erstellen der **SubstanceGraphInstance** verwendet wurde, die an diesen Knoten übergeben wird. |
 | **GetSubstanceLoadingProgress** | KEINE | Gibt einen Gleitkommawert zwischen 0 und 1 zurück, der angibt, wie viele Substanzen vollständig geladen wurden. |
 | **CreateGraphInstance** | Eingabe: **SubstanceInstanceFactory** - Die Factory, aus der Sie eine Diagramminstanz erstellen möchten.Input: **GraphIndex** (int) - Der Index des Diagramms, den Sie erstellen möchten. Eingabe: **InstanceName** (FString): Der Name, den Sie für Ihre neue Instanz verwenden möchten. | Gibt eine neue eigenständige Grafikinstanz zurück, die beibehalten wird, bis die Anwendung geschlossen wird. |
-| **DuplicateGraphInstance** | **SubstanceGraphInstance** - Die Grapheninstanz, von der Sie eine Kopie erstellen möchten. | Gibt eine neue eigenständige Grafikinstanz zurück, die beibehalten wird, bis die Anwendung geschlossen wird. |
-| **EnableInstanceOutputs** | Eingabe: **SubstanceGraphInstance** - Die Diagramminstanz, die die Ausgabe enthält, um die Eingabe zu aktivieren: **OutputIndices** (int32 Array): Die Indizes der Ausgaben, die Sie aktivieren möchten. (Änderungen vorbehalten) | Wenn zuvor deaktiviert, wird/werden die Texturausgabe(en) von übergeben in **SubstanceGraphInstance** erstellt. Dies weist die gleiche Funktionalität auf wie das Aktivieren einer Ausgabe aus dem **SubstanceGraphInstance**-Editor. *HINWEIS: Dadurch wird dein Material nicht mit der neu erstellten Textur aktualisiert. Dies muss durch Festlegen eines Samplerparameters zur Laufzeit mithilfe der neuen Ausgabe behandelt werden.* |
-| **DisableInstanceOutputs** | Eingabe: **SubstanceGraphInstance** - Die Diagramminstanz, auf die Sie Werte anwenden möchten.Input: **SubstanceGraphInstance** - Die Diagramminstanz, von der Sie die Werte abrufen möchten. | Stellt alle geänderten Eingabewerte des Eingabeparameters &quot;Substance-Grafen-Instanz&quot; wieder her. |
-| **SetGraphInstanceOutputSize** | Eingabe: **SubstanceGraphInstance** Eingabe: Breite - Texturauflösung der X-KoordinateEingabe: Height - Texturauflösung der Y-Koordinate | Legt die Strukturauflösung aller Ausgaben fest, die von dieser Diagramminstanz mit den Größen generiert werden, die von den Parametern übergeben werden. Hinweis: Max. 2048 auf CPU-EngineHinweis: Max. 4096 auf GPU-Engine |
-| **AsyncRendering** | **SubstanceGraphInstance** | Berechnet Ausgabetexturen der Eingabe der Substance-Grafen-Instanz neu. (Nicht blockieren) |
-| **SyncRendering** | **SubstanceGraphInstance** | Berechnet Ausgabetexturen der Eingabe der Substance-Grafen-Instanz neu. (Sperren) |
+| **DuplicateGraphInstance** | **SubstanceGraphInstance** - Die Grapheninstanz, von der Sie eine Kopie erstellen möchten. | Gibt eine neue eigenständige Grapheninstanz zurück, die beibehalten wird, bis die Anwendung geschlossen wird. |
+| **EnableInstanceOutputs** | Eingabe: **SubstanceGraphInstance** - Die Grapheninstanz, die die Ausgabe enthält, um die Eingabe zu aktivieren: **OutputIndices** (int32 Array): Die Indizes der Ausgaben, die Sie aktivieren möchten. (Änderungen vorbehalten) | Wenn diese Option zuvor deaktiviert wurde, werden die Textur-Ausgabe(en) von übergeben in **SubstanceGraphInstance** erstellt. Dies weist die gleiche Funktionalität auf wie das Aktivieren einer Ausgabe aus dem **SubstanceGraphInstance**-Editor. *HINWEIS: Dadurch wird Ihr Material nicht mit der neu erstellten Textur aktualisiert. Dies muss durch Festlegen eines Samplerparameters zur Laufzeit mithilfe der neuen Ausgabe behandelt werden.* |
+| **DisableInstanceOutputs** | Eingabe: **SubstanceGraphInstance** - Die Grapheninstanz, auf die Sie Werte anwenden möchten.Input: **SubstanceGraphInstance** - Die Grapheninstanz, von der Sie die Werte abrufen möchten. | Stellt alle geänderten Eingabewerte des Substance-Grafen Instance Eingabeparameters wieder her. |
+| **SetGraphInstanceOutputSize** | Eingabe: **SubstanceGraphInstance** Eingabe: Breite - Textur Auflösung der X-KoordinateEingabe: Height - Textur Auflösung der Y-Koordinate | Legt die Größenauflösung aller Ausgaben fest, die aus dieser Grapheninstanz generiert werden, wobei die Texturen aus den Parametern übergeben werden. Hinweis: Max. 2048 auf CPU-EngineHinweis: Max. 4096 auf GPU-Engine |
+| **AsyncRendering** | **SubstanceGraphInstance** | Berechnet die Texturen der Substance-Grafen-Instanz neu. (Nicht blockieren) |
+| **SyncRendering** | **SubstanceGraphInstance** | Berechnet die Texturen der Substance-Grafen-Instanz neu. (Sperren) |
 
-## Diagramminstanzspezifische Funktionen:
+## Spezifische Funktionen für Grapheninstanzen:
 
-Kann nur von einer Diagramminstanz aufgerufen werden
+Kann nur von einer Grapheninstanz aus aufgerufen werden
 
 | Name | Eingabe | Beschreibung |
 | --- | --- | --- |

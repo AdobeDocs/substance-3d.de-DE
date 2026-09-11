@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Voreinstellungen
 
-Im Bereich Presets können Sie eingebettete Presets aus der Substance-SBSAR-Datei vollständig verwalten oder neue Presets erstellen.
+Im Bereich Presets können Sie eingebettete Presets aus der Substance-sbsar-Datei vollständig verwalten oder neue Presets erstellen.
 
 ![](../../../assets/presets-15.png)
 

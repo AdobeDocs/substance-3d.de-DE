@@ -31,15 +31,15 @@ Substance.Game ist die Assembly, die die für die Skripterstellung verwendeten K
 
 **Substance.Game.**&#x200B;**Substance**: Verweist auf den Unterstrich
 
-**Substance.Game.SubstanceGraph**: Individuelles Diagramm im Unterabschnitt *(war früher ProceduralMaterial in Unity 2017)*
+**Substance.Game.SubstanceGraph**: Einzelner Graf im Unterabschnitt *(war früher ProceduralMaterial in Unity 2017)*
 
 ## Skripterstellung
 
 1. Instanz von SubstanceGraph erstellen
-1. Parameter für die Grapheninstanz festlegen.
-1. Rendering-Substance in die Warteschlange stellen: QueueForRender() fügt das Substance-Diagramm zu einer Warteschlange hinzu. Diese Liste wird beim nächsten Aufruf von RenderAsync oder RenderSync verarbeitet.
+1. Stellen Sie die Parameter auf der Grapheninstanz ein.
+1. Rendering-Substance in die Warteschlange stellen: QueueForRender() fügt den Substance-Graf einer Warteschlange hinzu. Diese Liste wird beim nächsten Aufruf von RenderAsync oder RenderSync verarbeitet.
 
-### Parameter der Grafikinstanz
+### Parameter für die Grapheninstanz
 
 ```
 // panel color 
@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-Der Wert in Anführungszeichen ist der in Substance Designer festgelegte Parameterbezeichner.
+Der Wert in Anführungszeichen ist die in Substance Designer festgelegte Identifizierung des Parameters.
 
-Im Unity Inspector können Sie den Mauszeiger über einen Parameter bewegen, um eine QuickInfo anzuzeigen, die den Namen des in Substance Designer festgelegten Bezeichners anzeigt.
+Im Unity Inspector können Sie den Mauszeiger über einen Parameter bewegen, um eine QuickInfo anzuzeigen, die den Namen der in Substance Designer festgelegten Identifizierung anzeigt.
 
 ![](../../../../assets/tooltip-6.png)
 

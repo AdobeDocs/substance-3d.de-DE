@@ -32,7 +32,7 @@ Mit dem [3ds Max-Plugin](../../../3d-applications/3ds-max/3ds-max.md) können Si
 
 ## Corona 7-9
 
-Bei Corona-Rendering 7 und höher wird durch Auswahl von &quot;Substance zu Corona&quot; mit dem ausgewählten Substance2-Knoten ein Netzwerk für das Corona Physical Material erstellt.
+Bei Corona-Rendering 7 und höher wird durch Auswahl von &quot;Substance zu Corona&quot; mit dem ausgewählten Substance2-Knoten ein Netzwerk für das Corona-Physikalische Material erstellt.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/corona-physical-material?$png$&jpegSize=200&wid=857)
 

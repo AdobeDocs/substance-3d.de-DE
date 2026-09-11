@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Arbeiten mit Bump Offset (Parallax) - UE4
 
-**Bump Offset**-Zuordnung verleiht einer Oberfläche die Illusion von Tiefe, indem die UV-Koordinaten auf kreative Weise geändert werden, um die Texel weiter von der Oberfläche des Objekts zu verschieben. Dadurch entsteht der Eindruck, dass die Oberfläche mehr Details aufweist als sie tatsächlich tut. In diesem Beispiel wird beschrieben, wie Sie nicht nur den Bump-Offset-Knotenausdruck finden, sondern auch, wie Sie den Bump-Offset-Material in Ihren Materialien verwenden können.
+**Bump Offset**-Zuordnung verleiht einer Oberfläche die Illusion von Tiefe, indem die UV-Koordinaten auf kreative Weise geändert werden, um die Texel weiter von der Oberfläche des Objekts zu verschieben, sodass die Illusion entsteht, dass die Oberfläche mehr Details aufweist als sie tatsächlich tut. In diesem Beispiel wird beschrieben, wie Sie nicht nur den Bump-Offset-Knotenausdruck finden, sondern auch, wie Sie den Bump-Offset-Material in Ihren Materialien verwenden können.
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/HowTo/BumpOffset/>
 

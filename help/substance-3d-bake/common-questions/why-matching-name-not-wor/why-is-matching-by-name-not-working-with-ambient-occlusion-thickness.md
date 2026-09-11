@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
-description: Erfahren Sie, warum das Anpassen nach Namen nicht mit "Umgebende Verdeckung"- und "Thickness"-Bäkern funktioniert, und finden Sie Alternativen.
+description: Erfahren Sie, warum das Zuordnen nach Namen nicht mit den Bakern Ambient occlusion und Thickness funktioniert, und finden Sie Alternativen.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Why is Matching by Name not working with Ambient OcclusionThickness "
 helpx_experience_level: ""
@@ -24,16 +24,16 @@ ht-degree: 0%
 >
 > **Frage**
 > 
-> Ich habe [Übereinstimmend mit Name](../../features/matching-by-name/matching-by-name.md) in den [allgemeinen Parametern](../../bakers-settings/common-parameters/common-parameters.md) aktiviert, um meine niedrigen und hohen Polygitter zu filtern und zu sortieren. Warum ignoriert der Bäcker für Umgebungsgeräusche diese Verdeckung?
+> Ich habe [Übereinstimmend mit Name](../../features/matching-by-name/matching-by-name.md) in den [allgemeinen Parametern](../../bakers-settings/common-parameters/common-parameters.md) aktiviert, um meine niedrigen und hohen Poly-Mesh zu filtern und zu sortieren. Warum ignoriert der Ambient occlusion-Baker dies?
 
 >[!NOTE]
 >
 > **Erklärung**
 > 
-> Die Bäcker &quot;Ambient Verdeckung, Thickness&quot; und &quot;Bent Normale&quot; starten Sekundärstrahlen, wenn sie ihre Texturen berechnen. Für diese Strahlen gibt es eine eigene Einstellung für die Zuordnung nach Name.
+> Der Baker Ambient occlusion, Thickness und Bent normals startet Sekundärstrahlen, wenn sie ihre Texturen berechnen. Für diese Strahlen gibt es eine eigene Einstellung für die Zuordnung nach Name.
 
 >[!NOTE]
 >
 > **Lösung : Substance Painter**
 > 
-> Lösung: Aktivieren Sie die Namensfilterung für die Sekundärstrahlen in den Bäckerparametern.
+> Lösung: Aktivieren Sie die Filterungen zum Abgleich nach Namen für die Sekundärstrahlen in den Baker-Parametern.

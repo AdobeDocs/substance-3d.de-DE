@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unity/substance-3d-assets-library-usage.html"
 breadcrumb-title: ''
-description: Sie können auf hochwertige Substance-Materialien aus der Asset-Bibliothek und auf Community-Assets in Unity-Projekten zugreifen und diese verwenden.
+description: Sie können auf hochwertige Substance-Materialien aus der Asset-Bibliothek und auf Community-Elemente in Unity-Projekten zugreifen und diese verwenden.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Substance 3D Assets Library Usage
 helpx_experience_level: ""

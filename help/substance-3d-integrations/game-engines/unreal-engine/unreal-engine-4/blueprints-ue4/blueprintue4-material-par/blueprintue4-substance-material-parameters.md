@@ -18,25 +18,25 @@ ht-degree: 0%
 ---
 
 
-# Blueprint(UE4): Substance-Materialparameter
+# Blueprint(UE4): Substance Material-Parameter
 
 ## Parameter &quot;float&quot; ändern:
 
-Sie verwenden den Knoten [Fließende Eingabefunktion festlegen](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html), um die Parameter &quot;float&quot;, &quot;color(float4)&quot; und &quot;Boolean&quot; zu ändern.
+Sie verwenden den Knoten [Set Input Fließkommazahl](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html), um die Parameter &quot;float&quot;, &quot;color(float4)&quot; und &quot;Boolesche Wert&quot; zu ändern.
 
 1. Erstellen Sie eine Variable mit dem Typ &quot;Substance-Grafen Instance&quot; als Referenz.
-1. Erstellen Sie einen &quot;Unverankerten Eingabeknoten festlegen&quot; und legen Sie das Ziel als Variable der Substance-Grafen-Instanz fest.
-1. Legen Sie im Knoten &quot;Fließkommaeingabe festlegen&quot; die Kennung auf den Namen des zu ändernden Substance-Parameters fest.\
-   *\* Sie können den Bezeichnernamen finden, indem Sie die Substance INST öffnen und den Mauszeiger über den Parameternamen bewegen. Der Bezeichnername wird im QuickInfo-Popup angezeigt.*
-1. Ziehen Sie am Eingangs-Float-Knoten eine Verbindung heraus, und erstellen Sie einen &quot;Make Array Node&quot; (Array-Knoten erstellen). Der Make Array Node hat einen Index von 0. Der Index 0 entspricht dem float-Wert.
-1. Erstellen Sie einen asynchronen oder synchronen Rendering-Knoten und verbinden Sie die Ausführungszeile vom Set Input Float mit dem Rendering-Knoten. Legen Sie die Instanzen auf Rendern fest und setzen Sie sie auf die Variable der Substance-Grafen-Instanz.\
+1. Erstellen Sie einen Knoten &quot;Fließkommazahl für Eingabe festlegen&quot; und legen Sie das Ziel als Variable für die Substance-Grafen-Instanz fest.
+1. Legen Sie im Knoten Fließkommazahl festlegen die Identifizierung auf den Namen des zu ändernden Substance-Parameters fest.\
+   *\* Sie können den Namen der Identifizierung finden, indem Sie die Substance INST öffnen und mit der Maus auf den Parameternamen zeigen. Der Name der Identifizierung wird im QuickInfo-Popup angezeigt.*
+1. Ziehen Sie im Knoten &quot;Eingangsverbindung&quot; eine Fließkommazahl auf die Zeichenfläche und erstellen Sie einen Knoten &quot;Array erstellen&quot;. Der Make Array Node hat einen Index von 0. Der Index 0 entspricht dem float-Wert.
+1. Erstellen Sie einen Renderknoten für Async oder Sync und verbinden Sie die Ausführungszeile von der Fließkommazahl &quot;Eingabe festlegen&quot; mit dem Renderknoten. Legen Sie die Instanzen auf Rendern fest und setzen Sie sie auf die Variable der Substance-Grafen-Instanz.\
    *\* Async ist nicht blockierend und Sync blockiert.*
 
 ![](../../../../../assets/steps.png){width="800px"}
 
-## Boolesche Parameter
+## Boolesche Wert-Parameter
 
-Boolesche Parameter werden mithilfe von &quot;Eingabebool festlegen&quot; geändert.
+Die Boolesche Wert-Parameter werden mit &quot;Eingabewert festlegen&quot; geändert.
 
 ![](../../../../../assets/setbool.png){width="800px"}
 
@@ -54,6 +54,6 @@ Die Parameter für die Ganzzahl funktionieren genauso wie die Fließkommazahl &q
 
 ## Identifizierungen
 
-Sie finden den Bezeichner für einen Parameter in der Substanz INST. Bewegen Sie den Mauszeiger über den Parameter, und die QuickInfo zeigt den Bezeichnernamen an. Dies ist der Name, der im ID-Feld der Ausgabe in Substance Designer festgelegt wird.
+Sie finden die Identifizierung für einen Parameter in der Substanz INST. Bewegen Sie den Mauszeiger über den Parameter, und die QuickInfo zeigt den Namen der Identifizierung an. Dies ist der Name, der im Feld &quot;Identifizierung&quot; der Ausgabe in Substance Designer festgelegt wird.
 
 ![](../../../../../assets/indent-1.png){width="800px"}

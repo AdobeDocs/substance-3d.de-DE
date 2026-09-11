@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Attributmanager von Cinema 4D, um die Eigenschaften und Materialeinstellungen von Substance-Assets zu konfigurieren.
+description: Verwenden Sie den Attributmanager von Cinema 4D, um die Eigenschaften von Substance-Assets und die Material-Einstellungen zu konfigurieren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Cinema 4D > Attribute Manager
 helpx_experience_level: ""
@@ -41,7 +41,7 @@ Durch Verwenden des Parameters &quot;Dateiname&quot; im Attributmanager kann der
 
 ![](../../../assets/cinema-4d-10.png){width="500px"}
 
-Dies kann nicht nur beim Verschieben von Substance-Dateien nützlich sein, sondern auch beim Austausch einer Substance mit einer völlig anderen.
+Dies kann nicht nur beim verlagre von Substance-Dateien nützlich sein, sondern auch beim Austausch einer Substance mit einer völlig anderen.
 
 In diesem Fall wird der Anwender gefragt, ob vorhandene Verweise auf vorherige Substance-Ausgabekanäle der neuen Substance neu zugeordnet werden sollen.
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
-description: Speichere Gitternormalen, Tangenten und Binormale in Texturen unter Verwendung von Weltraum-Koordinaten für erweiterte Workflows.
+description: Speichern Sie Normale, Tangenten und Binormale von Meshs in Texturen mithilfe von Welt-Raumkoordinaten für erweiterte Workflows.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > World Space Normals
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # Raum-Normalen
 
-Der Bäcker &quot;World Space Normal&quot; ermöglicht das Speichern der Gitternormalen, Tangenten und Binormale in einer Textur.
+Der Baker Welt-Raum-Normale ermöglicht es, den Mesh Normal, Tangente und Binormale in einer Textur zu speichern.
 
 **Verfügbar in:**
 
@@ -31,6 +31,6 @@ Der Bäcker &quot;World Space Normal&quot; ermöglicht das Speichern der Gittern
 
 | *Parameter* | *Beschreibung* |
 | --- | --- |
-| **Backuptyp** | Legt fest, welche Art der Berechnung der Bäcker durchführen soll.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Normal</strong> (Standard)</li><li data-preserve-html="true"><strong>Tangente</strong></li><li data-preserve-html="true"><strong>Binormal</strong></li></ul> |
-| **Normale Karte** | Pfad zur Eingabe-Normaltextur, die während der Berechnung verwendet wird, um Details hinzuzufügen. |
-| **Normale Ausrichtung** | Definiert das normale Format der Eingabetextur, wenn **Backingtyp** auf **Normal** festgelegt ist.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (Standard)</li></ul> |
+| **Baking Typ** | Legt fest, welche Berechnung der Baker ausführen soll.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Normal</strong> (Standard)</li><li data-preserve-html="true"><strong>Tangente</strong></li><li data-preserve-html="true"><strong>Binormal</strong></li></ul> |
+| **Normale Karte** | Pfad zur normalen Textur der Eingabe, die während der Berechnung zum Hinzufügen von Details verwendet wird. |
+| **Normale Ausrichtung** | Definiert das Normalformat der Eingabe-Textur, wenn **Baking Type** auf **Normal** festgelegt ist.Mögliche Werte:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> (Standard)</li></ul> |

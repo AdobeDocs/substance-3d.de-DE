@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!WARNING]
 >
-> **Bitte lesen: Substance Materialbeschädigung:**\
-> Beim Substance von Materialien, die eine benutzerdefinierte Ausgabe mit einer leeren Verwendung enthalten, wird der Import unterbrochen. Auch beim Substance von Materialien, die doppelte Verwendungen enthalten, wird der Inhalt beschädigt.\
-> Ältere SBSAR-Dateien von GameTextures.com sind derzeit nicht mit dem Substance in Unity-Plug-in kompatibel. Diese Materialien, die nicht unterstützte Verwendungs-Ausgaben enthalten, werden beschädigt. Bevor Sie das Plug-in verwenden, stellen Sie sicher, dass Sie ein Backup Ihres Projekts erstellen.
+> **Bitte lesen: Substance Materialien brechen:**\
+> Substance-Material, die eine benutzerdefinierte Ausgabe mit einer leeren Verwendung enthalten, werden beim Importieren unterbrochen. Außerdem werden Substance-Material, die doppelte Verwendungen enthalten, unterbrochen.\
+> Ältere SBSAR-Dateien von GameTextures.com sind derzeit nicht mit dem Substance in Unity-Plug-in kompatibel. Diese Material, die nicht unterstützte Verwendungsausgaben enthalten, werden umgebrochen. Bevor Sie das Plug-in verwenden, stellen Sie sicher, dass Sie ein Backup Ihres Projekts erstellen.
 
 ## Neue Funktionen:
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
 ### Fehlerbehebungen:
 
-* Probleme beim Importieren einer Substance ohne Texturmaps wurden behoben
+* Probleme beim Importieren einer Substance ohne Textur Maps wurden behoben
 * Es wurde ein Problem behoben, bei dem der Reflexionsprozess in Unity 2019.x nicht korrekt funktionierte
-* Probleme beim Umgang mit Prefabs beim Importieren eines Pakets, das Prefabs mit Substance-Materialien enthält, wurden behoben.
-* Feste Material-/Texturzuweisungen werden nach dem Reflexionsprozess nicht übertragen
-* Es wurde ein Problem behoben, durch das beim Ändern von Shadern Materialien beschädigt wurden.
-* Es wurde ein Problem behoben, durch das die Raueit nicht in den metallischen Alphakanal verpackt wurde.
-* Es wurde ein Problem behoben, bei dem bei der Installation des Substance-Plug-ins durch das Ändern der Importeinstellungen für Nicht-Substance-Texturen bestimmte Optionen zurückgesetzt wurden.
+* Probleme bei der prefab-Handhabung beim Importieren eines Pakets mit prefabs mit Substance-Materialien wurden behoben
+* Festgelegte Material/Textur-Zuweisungen werden nach dem Reflexionsprozess nicht übertragen
+* Es wurde ein Problem behoben, durch das beim Ändern der Schattierungen Materialien unterbrochen wurden.
+* Es wurde das Problem behoben, dass die Rauheit nicht in den metallic Alphakanal verpackt wurde.
+* Es wurde ein Problem behoben, durch das bei der Installation des Substance-Plug-ins durch das Ändern der Importeinstellungen für Nicht-Substance-Texturen bestimmte Optionen zurückgesetzt wurden.
 * Es wurde ein Problem behoben, bei dem die Substance Source unter Mac nicht geöffnet werden konnte.
 
 ## Bekannte Probleme:
@@ -59,7 +59,7 @@ ht-degree: 0%
 * Der Benutzer muss &quot;Bitcode aktivieren&quot; im Menü &quot;Buildeinstellungen&quot; in Xcode deaktivieren, um für iOS zu erstellen.
 * Substance funktionieren nicht mit Asset Bundles
 * Substance-Vorschausymbole im Asset-Browser werden nach einem erneuten Import alle zum Substance S-Symbol
-* Bei benutzerdefinierten Substance-Materialien, bei denen die Ausgabe auf &quot;leer&quot; gesetzt ist, wird das Material beschädigt.
+* Benutzerdefinierte Substance-Material, bei denen die Ausgabe auf leer eingestellt ist, brechen das Material
 * Bei benutzerdefinierten Substance-Materialien mit doppelter Nutzung wird das Material beschädigt.
 * Der Editor muss neu gestartet werden, nachdem das Plugin unter Linux importiert wurde
 

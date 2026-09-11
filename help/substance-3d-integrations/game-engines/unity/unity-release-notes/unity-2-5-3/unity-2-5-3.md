@@ -25,10 +25,10 @@ Veröffentlicht am 4. November 2020
 Fest:
 
 * Absturz beim Ändern des Packings für die Specular-Karte
-* Specular Map ist keine Packing-Smoothness im Alpha-Kanal im Standard 3D-Projekt.
+* Specular Map ist keine Packing-Smoothness im Alphakanal im Standard 3D-Projekt
 * Absturz beim Neustart des HDRP/HRP-Projekts nach dem Löschen des Bibliotheksordners
-* Dupliziertes Material hat keinen zugewiesenen Shader und keine Materialeigenschaften
-* Zeichenänderungen am Zeilenende in Szenen- und Prefab-Dateien.
+* Duplizierten Materialien fehlen zugeordnete Shader- und Material-Eigenschaften
+* Zeichenänderungen am Zeilenende in Szene- und Prefab-Dateien.
 
 Bekannte Probleme:
 

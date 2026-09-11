@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/apply-workflow-to-maps.html"
 breadcrumb-title: ''
-description: Wende exportierte Strukturen aus Substance Painter oder anderen Programmen in Maya-Materialien an - mithilfe von Workflows.
+description: Wende exportierte Texturen aus Substance Painter- oder anderen Programmen mithilfe von Workflows schnell auf Materials in Maya an.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Apply Workflow To Maps
 helpx_experience_level: ""
@@ -26,6 +26,6 @@ Mit der Option **Workflow** können Sie auswählen, mit welchem Renderer Sie arb
 
 ![](../../../assets/applymaps.png)
 
-Verwenden Sie **Mehrere Maps auswählen**, um mehrere Maps auszuwählen, die auf der Grundlage der links aufgeführten Benennungskonvention angewendet werden sollen. *Zum Beispiel wird \_Raueit dem Rauigkeitskanal zugeordnet.*
+Verwenden Sie **Mehrere Maps auswählen**, um mehrere Maps auszuwählen, die auf der Grundlage der links aufgeführten Benennungskonvention angewendet werden sollen. *Zum Beispiel wird \_Rauheit dem Kanal der Rauheit zugeordnet.*
 
-Einzelne Karten können hinzugefügt werden, indem Sie auf die Ordnerschaltfläche klicken und die Textur auswählen.
+Einzelne Maps können hinzugefügt werden, indem Sie auf die Ordnerschaltfläche klicken und die Textur auswählen.

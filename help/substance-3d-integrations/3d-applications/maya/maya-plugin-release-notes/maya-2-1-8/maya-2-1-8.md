@@ -22,5 +22,5 @@ ht-degree: 0%
 
 1. 1.8 - Veröffentlichung für Maya PR121
 
-* Renderberechnung ändern, um bei Verwendung von asynchronem Rendering eine sofortigere Aktualisierung zu erzielen
+* Ändern der Render-Berechnung, um bei Verwendung von asynchronem Rendering sofort zu aktualisieren
 * Beheben Sie einen Fehler, bei dem die voreingestellte Benutzeroberfläche nicht aktualisiert wird, da der Befehl zum Hinzufügen von voreingestellten Skripten nicht erfolgreich abgeschlossen wurde

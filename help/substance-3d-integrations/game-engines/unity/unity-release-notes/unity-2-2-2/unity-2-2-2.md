@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ### Kern-Plug-in:
 
-* Es wurde ein Fehler behoben, durch den die Unity-Standardtextur-GUI überschrieben wurde, als das Substance In Unity-Plugin installiert wurde.
+* Es wurde ein Fehler behoben, durch den die Unity-Standard-Textur-GUI überschrieben wurde, als das Substance In Unity-Plugin installiert wurde.
   * Es wurde ein Fehler behoben, durch den das Festlegen von EditorApplication.delayCall Probleme mit anderen Plug-ins verursachte
   * Es wurde ein Absturz behoben, der bei der Verwendung von nicht-lateinischen Zeichen in einem Projektnamen auftrat

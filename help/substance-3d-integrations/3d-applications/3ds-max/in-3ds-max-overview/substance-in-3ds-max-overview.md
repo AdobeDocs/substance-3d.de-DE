@@ -29,8 +29,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   > Sie können die .sbsar-Datei auch per Drag &amp; Drop in den Slate Editor ziehen, um den Knoten automatisch zu erstellen und die Sbar zu importieren.
-1. Wenn eine Substance mehrere Graphen enthält, können Sie den Graphen, den Sie als Material ausgeben möchten, im Dropdown-Menü Ausgewählter Graph auswählen.
+   > Sie können die sbsar-Datei auch per Drag &amp; Drop in den Slate Editor ziehen, um den Knoten automatisch zu erstellen und die Leiste zu importieren.
+1. Wenn eine Substance mehrere Graf enthält, können Sie den Graf, den Sie als Material ausgeben möchten, im Dropdown-Menü Ausgewählter Graf auswählen.
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/max8?$png$&jpegSize=100&wid=341)
 
@@ -68,8 +68,8 @@ Sie können einen bestimmten Kanal für die Miniaturansicht für den Substance-K
 
    ![](../../../assets/max7.png)
 
-## Substance kacheln:
+## Kachelung Substance:
 
-Sie können die Eigenschaften &quot;Koordinaten&quot; verwenden, um Substance-Texturen zu kacheln und Kartenkanäle festzulegen.
+Sie können die Eigenschaften &quot;Koordinaten&quot; verwenden, um Substance-Texturen anzuordnen und Kartenkanäle festzulegen.
 
 ![](../../../assets/max10.png)

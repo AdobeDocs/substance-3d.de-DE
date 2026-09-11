@@ -22,12 +22,12 @@ ht-degree: 0%
 
 Änderungsliste:
 
-* Es wurde ein Modus zum Aktivieren der Physische Größe hinzugefügt. Dadurch werden die dreiplanaren Projektionsberechnungen in das Knotennetzwerk eingefügt und können ein- und ausgeschaltet werden.
-* Es wurden neue Skriptbefehle hinzugefügt: substanceUtilityActivatePhysicalSize zum Aktivieren/Deaktivieren der Physische Größe und substanceUtilityResetPhysicalSize zum Zurücksetzen der Projektionswerte bei Änderungen.
-* Der Befehl substanceNodeGetPhysicalSize wurde hinzugefügt, um den Wert der Physische Größe eines Diagramms abzurufen.
-* Es wurden neue Kontrollkästchen und Schaltflächen zum Aktivieren/Deaktivieren sowie zum Zurücksetzen hinzugefügt. Es wurde eine Anzeige im Attribut-Editor der Physische Größe eines Substance-Diagramms hinzugefügt.
+* Es wurde ein Modus zum Aktivieren der Physische Größe hinzugefügt. Dadurch werden die drei planaren Projektionen in das Knotennetzwerk eingefügt und können ein- und ausgeschaltet werden.
+* Es wurden neue Skriptbefehle hinzugefügt: substanceUtilityActivatePhysicalSize zum Aktivieren/Deaktivieren der Physische Größe und substanceUtilityResetPhysicalSize zum Zurücksetzen der Werte der Projektion, wenn diese geändert wurden.
+* Der Befehl substanceNodeGetPhysicalSize wurde hinzugefügt, um den Wert der Physische Größe eines Grafen abzurufen.
+* Es wurden neue Kontrollkästchen und Schaltflächen zum Aktivieren/Deaktivieren sowie zum Zurücksetzen hinzugefügt. Es wurde eine Anzeige im Attribut-Editor der Physische Größe eines Substance-Grafen hinzugefügt.
 * Es wurden Einstellungen für die globale Aktivierung der Physische Größe-Funktion hinzugefügt.
-  * Wenn die Physische Größe aktiviert ist, unterstützen die Renderer-Arbeitsabläufe die Erstellung dieser Projektionsknoten.
+  * Wenn die Physische Größe-Funktion aktiviert ist, unterstützen die Renderer-Workflows die Erstellung dieser Projektion-Knoten.
 * Unterstützung für Mai 2017 entfernt
 
 1. 3 wird veröffentlicht für

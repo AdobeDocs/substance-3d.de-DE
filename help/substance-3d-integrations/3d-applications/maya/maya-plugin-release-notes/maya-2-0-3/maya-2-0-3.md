@@ -23,13 +23,13 @@ ht-degree: 0%
 Die Version 2.0.3 des Plug-ins ist jetzt auf der [Website](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) veröffentlicht.
 
 Änderungen:\
-\* Der VRay-Arbeitsablauf legt jetzt fest, dass für &quot;Material variieren&quot; die Raueit verwendet wird\
+\* Der VRay-Arbeitsablauf legt jetzt das Material &quot;Variieren&quot; so fest, dass Rauheit verwendet wird\
 \* Einige Links zur neuen substance3d-Website wurden aktualisiert.\
 \* Die Menüversion wurde dem Substance Engine &quot;Info&quot; hinzugefügt.\
 \* Skriptbefehle zum Abfragen der Substance Engine-Version wurden hinzugefügt.\
-\* $pixelsize input stürzt nicht mehr ab\
+\* $pixelsize input no longer Absturz\
 \* In Designer festgelegte Werteingaben sind jetzt auf dem Knoten sichtbar, wie Bildeingaben\
-\* Das Workflow-Skript &quot;Redshift&quot; legt jetzt brdf auf ggx fest und den Bump-Knoten auf Tangentenraumnormalien.\
+\* Das Workflow-Skript &quot;Redshift&quot; legt jetzt brdf auf ggx fest und den Bump-Knoten, um den Normalwert für den Tangente-Raum zu verwenden.\
 \* Neues Renderman-Workflow-Skript, um der erwarteten Verwendung besser zu entsprechen\
 \* Der Befehl substanceSetWorkflow verwendet jetzt ordnungsgemäß ein Zeichenfolgenargument.\
 \* Unterstützung für Mai 2020 hinzugefügt

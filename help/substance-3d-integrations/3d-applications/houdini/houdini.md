@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/houdini.html"
 breadcrumb-title: ''
-description: Verwende Substance-Materialien in Houdini über exportierte Texturmaps für prozedurale Workflows und das Rendering.
+description: Verwenden Sie Substance-Materialien in Houdini über exportierte Textur Maps für prozedurale Workflows und Rendering.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Houdini
 helpx_experience_level: ""
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Substance in Houdini wird von SideFX Labs entwickelt.
+> Substance in Houdini wird von SideFX Labors entwickelt.
 
-Mit dem [Substance-Plug-in für Houdini](https://www.sidefx.com/tutorials/sidefx-labs-substance-plugin/) können Sie Substance-Archivdateien (SBARs) in COPs in Houdini laden. Dies gibt Ihnen die Möglichkeit, Substance-Knoten miteinander zu verketten, die Ausgabe von Substance-Graphen an alle Teile von Houdini (Terrains, Materials, Geometry) und viele andere Workflows zu übertragen. Das Plug-in wird vom SideFX Labs-Team verwaltet.
+Mit dem [Substance-Plug-in für Houdini](https://www.sidefx.com/tutorials/sidefx-labs-substance-plugin/) können Sie Substance-Archivdateien (SBARs) in COPs in Houdini laden. Dies gibt Ihnen die Möglichkeit, Substance-Nodes miteinander zu verknüpfen, die Ausgabe von Substance-Grafen an alle Teile von Houdini (Terrains, Materials, Geometry) und viele andere Workflows zu übertragen. Das Plug-in wird vom SideFX Labors-Team verwaltet.
 
 ## Installationsanweisungen
 
 Für Houdini 17.5 wird das Plugin mit dem GameDevelopment Toolset verteilt\
 [Installationsanweisungen für das GameDevelopment Toolset](https://www.sidefx.com/tutorials/game-dev-toolset-installation/)
 
-Für Houdini 18.0 wird das Plugin mit SideFX Labs vertrieben.\
-[Installationsanweisungen für SideFX Labs](https://www.sidefx.com/tutorials/sidefx-labs-installation/)
+Für Houdini 18.0 wird das Plugin mit SideFX Labors vertrieben.\
+[Installationsanweisungen für SideFX-Labor](https://www.sidefx.com/tutorials/sidefx-labs-installation/)

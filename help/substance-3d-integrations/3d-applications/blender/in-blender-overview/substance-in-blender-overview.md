@@ -28,7 +28,7 @@ Mit dem Substance 3D-Add-on können Sie Substance-Materials in Blender importier
 
 1. Klicken Sie im Substance 3D-Bedienfeld auf die Schaltfläche **Laden**.
 1. Navigieren Sie im daraufhin geöffneten Fenster zum Speicherort der .sbsar-Dateien und wählen Sie eine oder mehrere Dateien aus. Klicken Sie dann auf die Schaltfläche **Substance-Material laden**.
-1. Klicken Sie auf das Kugelsymbol im Bedienfeld Material , um das Dropdown-Menü zu öffnen und Ihr Substance-Material auszuwählen. Dadurch wird das Material dem aktuellen Steckplatz zugewiesen. Alternativ können Sie über die Schaltfläche &quot;Anwenden&quot; im Substance 3D-Bedienfeld das Material einem neuen Material-Steckplatz zuweisen, der die aktuelle Zuweisung nicht überschreibt.
+1. Klicken Sie auf das Kugelsymbol im Bedienfeld Material , um das Dropdown-Menü zu öffnen und Ihr Substance-Material auszuwählen. Dadurch wird das Material dem aktuellen Schlitz zugewiesen. Alternativ können Sie im Bedienfeld &quot;Substance 3D&quot; auf die Schaltfläche &quot;Anwenden&quot; klicken, um das Material in einem neuen Materialschlitz zuzuweisen, der die aktuelle Zuordnung nicht überschreibt.
 
 >[!NOTE]
 >
@@ -44,7 +44,7 @@ Weitere Informationen finden Sie auf der Seite [Substance 3D Panel](../../../3d-
 
 ## Voreinstellungen
 
-Standardverhalten und andere Einstellungen können in den Add-On-Voreinstellungen angepasst werden. &quot;Material automatisch anfügen&quot; kann aktiviert werden, um Substance-Materialien automatisch an Objekte anzuhängen und die aktuelle Materialzuweisung zu überschreiben. &quot;Material für ausgewählte Objekte automatisch hervorheben&quot; ändert das im Bedienfeld &quot;Substance 3D&quot; hervorgehobene Material, wenn ein Objekt mit diesem Material ausgewählt wird. Wenn Sie &quot;Zyklen Texturen automatisch aktualisieren&quot; aktivieren, können Texturen im 3D-Viewport aktualisiert werden, während Sie die Zyklen-Renderansicht verwenden.
+Standardverhalten und andere Einstellungen können in den Add-On-Voreinstellungen angepasst werden. Die Option &quot;Material automatisch anhängen&quot; kann aktiviert werden, um Substance-Materialien automatisch an Objekte anzuhängen und die aktuelle Material-Zuweisung zu überschreiben. &quot;Material für ausgewählte Objekte automatisch hervorheben&quot; ändert das hervorgehobene Material im Bedienfeld Substance 3D, wenn ein Objekt mit diesem Material ausgewählt wird. Wenn Sie &quot;Zyklen - Texturen automatisch aktualisieren&quot; aktivieren, können Texturen im 3D-Viewport aktualisiert werden, während Sie die Zyklen-Renderansicht verwenden.
 
 Versatz kann mit dem Umschalter für Height im Abschnitt &quot;Ausgaben&quot; aktiviert werden. Hier können Sie auch das Dateiformat und die Bittiefe jeder Ausgabe anpassen.
 
@@ -70,9 +70,9 @@ Weitere Informationen finden Sie auf der Seite [Voreinstellungen](../../../3d-ap
 </tr>
 </table>
 
-## Weitere Substance-Materialien
+## Weitere Substance-Material finden
 
-Tausende von professionell erstellten Materialien und anderen Assets stehen auf der [Substance 3D Assets-Seite](https://helpx.adobe.com/de/substance-3d/unlisted/assets.html) zum Download zur Verfügung. Viele weitere Elemente, die von der Community kostenlos freigegeben wurden, finden Sie auf der Seite [Substance 3D Community Assets](https://helpx.adobe.com/de/substance-3d/unlisted/community-assets.html).
+Tausende von professionell erstellten Materialien und anderen Assets stehen auf der [Substance 3D Assets-Seite](https://helpx.adobe.com/de/substance-3d/unlisted/assets.html) zum Download zur Verfügung. Viele weitere Elemente, die von der Community kostenlos freigegeben wurden, finden Sie auf [Substance 3D Community-Assets page](https://helpx.adobe.com/de/substance-3d/unlisted/community-assets.html).
 
 ## Community
 

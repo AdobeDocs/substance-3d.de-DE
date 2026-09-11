@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
-description: Aktivieren Sie hardwarebeschleunigtes GPU-Raytracing, um Backberechnungen für schnellere Workflows um das 25fache oder mehr zu beschleunigen.
+description: Aktivieren Sie hardwarebeschleunigtes GPU-Raytracing, um Baking führend Berechnungen für schnellere Workflows um das 25-Fache zu beschleunigen.
 helpx_creative_field: ""
 helpx_description: bakers > Features > GPU Raytracing
 helpx_experience_level: ""
@@ -24,11 +24,11 @@ ht-degree: 18%
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-Einige Bäcker unterstützen die Hardwarebeschleunigung des Raytracing auf der GPU, wodurch die Rechengeschwindigkeit in der Regel um den Faktor 25 oder mehr erhöht wird.
+Einige Baker unterstützen die Hardwarebeschleunigung für Raytracing auf der GPU, die die Berechnung in der Regel um den Faktor 25 oder mehr erhöht.
 
 ## Hardware-Anforderungen
 
-Die Raytracing-Funktion wird automatisch aktiviert, wenn das System die folgenden Anforderungen erfüllt:
+Raytracing wird automatisch aktiviert, wenn das System die folgenden Anforderungen erfüllt:
 
 * Eine kompatible GPU ist installiert\* (RTX-Serie, Titan V oder GeForce 10xx)
 * GPU-Treiber sind auf dem neuesten Stand
@@ -52,9 +52,9 @@ Sie können das Update über die [dedizierte Seite](https://support.microsoft.co
 >
 > Bei Problemen können GPU-Raytracing in den Anwendungsvoreinstellungen deaktiviert werden.
 
-## Unterstützte Bäcker
+## Unterstützte Baker
 
-In den folgenden Tabellen ist die GPU-Raytracing-Unterstützung für jeden Bäcker nach der Substance 3D-Bäckerversion aufgeführt:
+In den folgenden Tabellen ist die GPU-Raytracing-Unterstützung für jeden Baker gemäß der Substance 3D Baker-Version aufgeführt:
 
 +++Version 3 und höher
 

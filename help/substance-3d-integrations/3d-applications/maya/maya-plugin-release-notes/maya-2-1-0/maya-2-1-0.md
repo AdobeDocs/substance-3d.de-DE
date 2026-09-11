@@ -28,12 +28,12 @@ Substance in Maya 2.1.0 Changelog
 * Redshift-Arbeitsablauf setzt Fresnel jetzt auf Metallität
 * Neue Plugin-Datei hinzugefügt, substanceLink, die Interoperabilität mit anderen Substance-Programmen und dem Substance Launcher behandelt
 * Beim Öffnen der Substance Source wird jetzt der Substance Launcher zur Registerkarte Source (Quelle) geöffnet, wenn das substanzielle Link-Plugin geladen wird.
-* Das substancelink-Plugin ermöglicht es dem Launcher, beim Hinzufügen der Benutzeroberfläche Substance Source-Materialien an die Maya-Integration zu senden
+* Das substancelink-Plugin ermöglicht es dem Launcher, beim Hinzufügen der Benutzeroberfläche Substance Source-Materials an die Maya-Integration zu senden
 * Skriptbefehle wurden hinzugefügt, um interne Bibliotheksversionen abzurufen und den Substance Launcher auf der Quellseite zu öffnen
 * Website-Links sind jetzt für [substance3d.com](http://substance3d.com) anstelle von [allegorithmic.com](http://allegorithmic.com) geöffnet.
 * Beim Öffnen einer Webseite öffnen Dokumentations- und Quelllinks jetzt den vom Benutzer festgelegten Standardbrowser
 * Unter Windows wird der Internet Explorer nicht mehr geöffnet
-* Neuer Link in der Ablage und im Menü zum Substance share hinzugefügt
+* Neuer Link im Regal und Menü zum Substance share hinzugefügt
 * Neue Befehle zum Abfragen der Substance Linker-Version und des Hashs hinzugefügt
 * In Maya LT wurde die Version aus dem Menü &quot;Einstellungen&quot; entfernt
 * Das Menü &quot;Info&quot; wird nicht mehr in PySide2 und Python geschrieben, sondern in nativem Code, der stattdessen Qt verwendet. Es ist jetzt in Maya LT verfügbar, wo es vorher nicht war.

@@ -52,10 +52,10 @@ Nachfolgend finden Sie eine Liste aller Fehlermeldungen, die beim Backen mit Sub
 | Scheitelpunkttangenten im Gitter [Gittername] wurden nicht gefunden. | Wie oben. |
 | Vertex-Binormalitäten im Gitter [Gittername] wurden nicht gefunden. | Wie oben. |
 | Scheitelpunktfarben im Gitter [Gittername] wurden nicht gefunden. | Im angegebenen Gitter wurden keine Scheitelpunktfarben gefunden. Dies kann passieren, wenn für mindestens ein Teilgitter im High-Poly-Gitter keine Scheitelpunktfarben definiert sind. |
-| Nicht genügend Daten im hohen Poly, um den ausgewählten Bäcker zu verwenden. Backen wird abgebrochen. | Zumindest einer der obigen Meldungen vorangestellt. Normalerweise, wenn nur ein Teil der Daten in der Szene fehlt (Beispiel : nur ein Gitter in einer High-Poly-Szene hat keine Scheitelpunktfarben), der Backvorgang füllt die fehlenden Daten mit Nullen und backt weiter. Wenn zu viele Daten fehlen, wird diese Meldung ausgegeben und der Backvorgang wird beendet. |
+| Nicht genügend Daten im hohen Poly, um den ausgewählten Bäcker zu verwenden. Baking wird abgebrochen. | Zumindest einer der obigen Meldungen vorangestellt. Normalerweise, wenn nur wenige Daten in der Szene fehlen (Beispiel : nur ein Mesh in hoher Poly-Szene hat keine Scheitelpunkt-Farben), der Baking führ-Prozess füllt die fehlenden Daten mit Nullen und Baking führe weiter. Wenn zu viele Daten fehlen, wird diese Meldung ausgegeben und der Baking führ wird beendet. |
 
-## Übertragene Textur aus Mesh
+## Transferierte Textur aus Mesh
 
 | *Nachricht* | *Beschreibung* |
 | --- | --- |
-| Laden der Detailtextur fehlgeschlagen. | Die in den Bäckereinstellungen definierte Textur konnte nicht geladen werden. Dies kann daran liegen, dass die Datei tatsächlich auf der Festplatte fehlt oder dass sie beschädigt und nicht lesbar ist. |
+| Laden der detaillierten Textur fehlgeschlagen. | Die in den Baker-Einstellungen definierte Textur konnte nicht geladen werden. Dies kann daran liegen, dass die Datei tatsächlich auf der Festplatte fehlt oder dass sie beschädigt und nicht lesbar ist. |

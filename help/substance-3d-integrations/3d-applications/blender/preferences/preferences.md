@@ -103,7 +103,7 @@ Die Add-On-Voreinstellungen finden Sie im Fenster &quot;Einstellungen&quot; von 
 
 <b>Emissive-Intensität</b> - Der Standardwert für die Emissions-Stärke im Knoten Principled BSDF.
 
-<b>Überblendung der Projektion</b>: Legt den Grad der Überblendung zwischen den Winkeln für die Projektion-Methodenschattierer fest.
+<b>Projektionsüberblendung</b> - Legt den Grad der Überblendung zwischen Winkeln für die Projektionsmethodenschattierungen fest.
 
 <b>AO Mix</b> - Wenn Ambient occlusion als Ausgabe aktiviert ist, bestimmt dieser Wert den Standardfaktorwert des MixRGB-Knotens, der zum Kombinieren der Grundfarbe- und Ambient occlusion-Texturen verwendet wird.
 

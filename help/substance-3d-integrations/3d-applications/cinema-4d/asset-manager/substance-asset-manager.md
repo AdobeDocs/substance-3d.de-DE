@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
-description: Verwenden Sie den Substance Asset Manager in Cinema 4D, um Substance-Materialien in Ihrer Szene hinzuzufügen, zu entfernen und zu organisieren.
+description: Verwenden Sie den Substance Asset Manager in Cinema 4D, um Substance-Material in Ihrer Szene hinzuzufügen, zu entfernen und zu organisieren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Cinema 4D > Substance Asset Manager
 helpx_experience_level: ""
@@ -50,13 +50,13 @@ Wählt alle im Asset Manager aufgelisteten Substance aus. Dasselbe lässt sich d
 
 Hebt die Auswahl aller im Asset Manager aufgelisteten Substance auf. Dasselbe lässt sich durch Drücken von Umschalt+Strg+A erreichen, während die Maus über den Asset Manager bewegt wird.
 
-## Aus ausgewähltem Material auswählen
+## Aus ausgewählten Materialien auswählen
 
 Wählt alle Substance aus, auf die von den derzeit *ausgewählten* Materialien verwiesen wird.
 
-## Auswählen aus markiertem Material
+## Aus markierten Materialien auswählen
 
-Wählt alle Substance aus, auf die von den derzeit *markierten* Materialien verwiesen wird. In Cinema 4D wird ein Material markiert, wenn ein Objekt oder Tag ausgewählt wird, das dieses Material verwendet.
+Wählt alle Substance aus, auf die von den derzeit *markierten* Materialien verwiesen wird. In Cinema 4D wird ein Material markiert, wenn ein Objekt oder Tag, das dieses Material verwendet, ausgewählt ist.
 
 ## Material(e) auswählen
 

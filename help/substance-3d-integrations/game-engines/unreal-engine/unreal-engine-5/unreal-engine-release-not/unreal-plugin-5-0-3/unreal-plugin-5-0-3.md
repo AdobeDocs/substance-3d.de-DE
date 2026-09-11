@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-3.html"
 breadcrumb-title: ''
-description: Lesen Sie die Versionshinweise für die Unreal Engine 5-Plug-in-Version 5.0.3 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
+description: Lesen Sie die Versionshinweise für Unreal Engine 5 Plugin Version 5.0.3 , um mehr über neue Funktionen, Verbesserungen und Fehlerbehebungen zu erfahren.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Release Notes > Unreal plugin 5.0.3
 helpx_experience_level: ""

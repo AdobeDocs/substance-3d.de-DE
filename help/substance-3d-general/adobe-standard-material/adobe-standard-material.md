@@ -26,4 +26,4 @@ Weitere Informationen finden Sie auf den folgenden Seiten:
 
 * [ASM-Spezifikationen](../adobe-standard-material/asm-specifications/asm-specifications.md)
 * [Technische Dokumentation zu ASM](../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)
-* [Metall-Werkstoffreferenzen](../adobe-standard-material/metal-material-references/metal-material-references.md)
+* [Metall-Material-Referenzen](../adobe-standard-material/metal-material-references/metal-material-references.md)

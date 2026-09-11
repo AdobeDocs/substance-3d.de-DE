@@ -75,7 +75,7 @@ Im Folgenden finden Sie Beispiele für die Funktionsweise der Zuordnung (unter V
 | <ul data-preserve-html="true"><li data-preserve-html="true">Überschrift_niedrig</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Überschrift_hoch</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">head_high</li></ul> |
 | <ul data-preserve-html="true"><li data-preserve-html="true">Leg_low_top</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Bein_hoch</li><li data-preserve-html="true">Leg_high_top</li><li data-preserve-html="true">Leg_high_high_top</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Leg_top_high</li></ul> |
 
-## Bäcker einrichten
+## Baker einrichten
 
 ### Aktivieren der Zuordnung nach Name
 
@@ -83,21 +83,21 @@ Die Zuordnung nach Name kann in den [allgemeinen Parametern](../../bakers-settin
 
 | *Software* | *Konfiguration wird festgelegt* |
 | --- | --- |
-| **Substance Painter** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     Öffnen Sie das Fenster &quot;Backen&quot; (über die Einstellungen für den Textursatz).    </li> <li class="step" data-preserve-html="true">     Zeigen Sie die allgemeinen Parameter an.    </li> <li class="step" data-preserve-html="true">     Ändern Sie die Einstellung &quot;<strong>Match</strong>&quot; von &quot;Always&quot; in &quot;By Mesh Name&quot;.<br/> <img data-preserve-html="true" src="../../assets/baking-match-setting-sp.png"/>    </li> </ol> |
-| **Substance Designer** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     Öffnen Sie das Backfenster (durch Klicken mit der rechten Maustaste auf ein verknüpftes Gitter im Explorer-Fenster).    </li> <li class="step" data-preserve-html="true">     Ändern Sie die Einstellung &quot;<strong>Match</strong>&quot; von &quot;Immer&quot; in &quot;Nach Gittername&quot;. 2<br/> <br/>    </li> </ol> |
+| **Substance Painter** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     Öffnen Sie das Baking-Fenster (über die Textursatz-Einstellungen).    </li> <li class="step" data-preserve-html="true">     Zeigen Sie die allgemeinen Parameter an.    </li> <li class="step" data-preserve-html="true">     Ändern Sie die Einstellung &quot;<strong>Match</strong>&quot; von &quot;Immer&quot; in &quot;Nach Mesh&quot;.<br/> <img data-preserve-html="true" src="../../assets/baking-match-setting-sp.png"/>    </li> </ol> |
+| **Substance Designer** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     Öffnen Sie das Baking (indem Sie mit der rechten Maustaste auf einen verknüpften Mesh im Explorer klicken).    </li> <li class="step" data-preserve-html="true">     Ändern Sie die Einstellung &quot;<strong>Match</strong>&quot; von &quot;Immer&quot; in &quot;Nach Mesh&quot;. 2<br/> <br/>    </li> </ol> |
 
 ### Ändern der Suffixnamen
 
 Die Standardsuffixe lauten \_low und \_high und können wie folgt geändert werden:
 
-* **Substance Painter**: Im [Baking führend Fenster](../../getting-started/software-interface/3d-painter/substance-3d-painter.md) innerhalb der allgemeinen Parameter.
-* **Substance Designer**: In den [Projekteinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/preferences/project-settings) unter den Baking geführt Einstellungen.
+* **Substance Painter**: Im [Baking-Fenster](../../getting-started/software-interface/3d-painter/substance-3d-painter.md), innerhalb der allgemeinen Parameter.
+* **Substance Designer**: In den [Projekteinstellungen](https://experienceleague.adobe.com/de/docs/substance-3d-designer/using/workspace/preferences/project-settings) unter den Baking-Einstellungen.
 
 ## High-Poly-Meshs von zBrush
 
-Aus zBrush exportierte Mesh mit hoher Poly-Qualität können für den Baking führ mit der Funktion &quot;Passender Name&quot; verwendet werden. Es können jedoch einige Einstellungen vorgenommen werden:
+Aus zBrush exportierte Mesh mit hoher Poly-Qualität können für das Baking mit der Funktion &quot;Passender Name&quot; verwendet werden. Es können jedoch einige Einstellungen vorgenommen werden:
 
 | *Dateiformat* | *Beschreibung* |
 | --- | --- |
 | **FBX** | Es gibt keine spezifischen Parameter zum Aktivieren/Deaktivieren, Meshdateien können unverändert verwendet werden. |
-| **OBJ** | OBJ von zBrush exportierten Dateien funktionieren standardmäßig nicht mit **Übereinstimmender Name**. Es ist auch möglich, Substance Painter anzuweisen, den Dateinamen des Meshs zu verwenden, anstatt Mesh anhand ihres Namens abzugleichen.Gehen Sie hierzu wie folgt vor:<ol data-preserve-html="true"><li data-preserve-html="true"><strong>Deaktivieren Sie </strong> den Gruppenparameter (Grp) für <strong>jedes</strong>-Untertool.</li><li data-preserve-html="true"><strong>Name</strong> die OBJ Datei entsprechend (z. B.: <strong>body_high.obj</strong>).</li></ol> ![](../../assets/zbrush-setting.png) |
+| **OBJ** | Von zBrush exportierte OBJ-Dateien funktionieren standardmäßig nicht mit &quot;**Matching By Name**&quot;. Es ist auch möglich, Substance Painter anzuweisen, den Dateinamen des Meshs zu verwenden, anstatt Mesh anhand ihres Namens abzugleichen.Gehen Sie hierzu wie folgt vor:<ol data-preserve-html="true"><li data-preserve-html="true"><strong>Deaktivieren Sie </strong> den Gruppenparameter (Grp) für <strong>jedes</strong>-Untertool.</li><li data-preserve-html="true"><strong>Name</strong> die OBJ Datei entsprechend (z. B.: <strong>body_high.obj</strong>).</li></ol> ![](../../assets/zbrush-setting.png) |

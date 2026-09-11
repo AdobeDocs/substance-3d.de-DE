@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
-description: Verwende Bump- und Versatz-Maps aus Substance-Materialien in MODO, um deinen Modellen Oberflächendetails und Tiefe hinzuzufügen.
+description: Verwende Bump- und Versatz-Maps von Substance-Materialien in MODO, um deinen Modellen Oberflächendetails und Tiefe hinzuzufügen.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Bump and Displacement
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Arbeiten mit Bump und Versatz
 
-Substance kann eine optionale Height-Ausgabe haben. Sie können dies als Versatz oder Bump verwenden. Wenn Sie &quot;Height&quot; aktivieren, wird der Effekt auf die Bump-Textur angewendet. Für Unity wird &quot;Unity Bump&quot; und &quot;Unreal Bump&quot; festgelegt. Sie können dann das Substance-Item-Material auswählen und die Bump-Amplitude entsprechend einstellen. Wenn Sie das Height als Versatz verwenden möchten, können Sie den Effekt &quot;Materialebene&quot; in &quot;Oberflächengüte&quot; > &quot;Schattierung&quot; > &quot;Versatz&quot; ändern. Legen Sie dann in der Materialreferenz den entsprechenden Versatz-Abstand fest.
+Substance kann eine optionale Height-Ausgabe haben. Sie können dies als Versatz oder Bump verwenden. Wenn Sie &quot;Height&quot; aktivieren, wird der Effekt auf die Bump-Textur festgelegt. Für Unity wird &quot;Unity Bump&quot; und &quot;Unreal Bump&quot; festgelegt. Sie können dann das Material &quot;Substance-Objekt&quot; auswählen und die Bump-Amplitude entsprechend einstellen. Wenn Sie das Height als Versatz verwenden möchten, können Sie den Effekt &quot;Material-Ebene&quot; in &quot;Schattierung der Oberfläche&quot; > &quot;Versatz&quot; ändern. Legen Sie dann in der Materialreferenz den entsprechenden Versatz-Abstand fest.
 
 ![](../../../assets/bump-1.png)
 

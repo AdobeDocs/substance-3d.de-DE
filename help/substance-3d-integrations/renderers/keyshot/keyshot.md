@@ -34,7 +34,7 @@ Sie werden zwei erweiterte Material verwenden. Das eine ist für metallic und da
 
 1. Setzen Sie Ihr Material auf Erweitert und ändern Sie den Graf des Materials.
 
-   **Metallic:**\
+   **Metallisch:**\
    a. Legen Sie den Brechungsindex auf 10 fest.\
    b. Legen Sie die Karten wie in der folgenden Tabelle angegeben fest.
 

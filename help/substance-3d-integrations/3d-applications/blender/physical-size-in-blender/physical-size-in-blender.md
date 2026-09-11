@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Physische Größe in Blender
 
-Physische Größe in Substance-Materialien ermöglicht die Skalierung von Materialien auf Basis ihrer Größe in der Welt. Die Abmessungen werden in Substance-Applikationen wie Designer festgelegt und im Abschnitt &quot;Physische Größe&quot; des Plug-in-Bedienfelds angezeigt.
+Physische Größe auf Substance-Materialien ermöglicht die Skalierung von Materialien auf Basis ihrer Größe in der Welt. Die Abmessungen werden in Substance-Applikationen wie Designer festgelegt und im Abschnitt &quot;Physische Größe&quot; des Plug-in-Bedienfelds angezeigt.
 
 ![](../../../assets/blender-physical-size.png)
 

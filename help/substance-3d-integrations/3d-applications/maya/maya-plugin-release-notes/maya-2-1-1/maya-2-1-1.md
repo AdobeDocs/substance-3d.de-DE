@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Mai 2.1.1
 
-Fest: substanceLink-Plug-in stürzt beim Entladen nicht mehr ab
+Fest: substcelink plugin nicht mehr Absturz beim Entladen

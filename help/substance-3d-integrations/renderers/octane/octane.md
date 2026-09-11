@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
-description: Rendern Sie Substance-Materialien mit Octane mithilfe des eigenständigen Renderers oder DCC-Plug-ins in 3ds Max und MODO.
+description: Rendern Sie Substance-Materials mit Octane mithilfe des eigenständigen Renderers oder DCC-Plugins in 3ds Max und MODO.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Octane
 helpx_experience_level: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Oktan
 
-Octane kann verwendet werden, um Substance-Ausgaben mit dem eigenständigen Renderer oder über die DCC-Plugins zu rendern. Über ein Live-DB-Substance-Material unterstützt Octane Standalone Substance-Ausgaben basierend auf der Grundfarbe, der Metallic-Farbe und der Raueit.
+Octane kann verwendet werden, um Substance-Ausgaben mit dem eigenständigen Renderer oder über die DCC-Plugins zu rendern. Über ein Live-DB-Substance-Material unterstützt Octane Standalone Substance-Ausgaben auf der Grundlage von Grundfarbe, metallic und Rauheit.
 
 **Eigenständiges Oktan**\
-Suchen Sie unter **Live DB > Materials > Misc** das Material &quot;**Substance PBR**&quot;.
+Suchen Sie unter **Live DB > Material > Sonstiges** das Material &quot;**Substance PBR**&quot;.
 
 ![](../../assets/octane-1.png)
 

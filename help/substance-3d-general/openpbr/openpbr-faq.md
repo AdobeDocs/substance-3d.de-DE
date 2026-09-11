@@ -77,34 +77,34 @@ Nein - bestehende benutzerdefinierte Shader funktionieren weiterhin, da die ents
 
 +++Wo kann ich meine Aufmerksamkeit auf die vielen verfügbaren OpenPBR-Parameter lenken?
 
-Aller Anfang ist einfach. Bei den meisten undurchsichtigen Oberflächen sind die Grundfarbe, die Raueit des Speculars und die Metallität für die meisten sichtbaren Materialunterschiede verantwortlich. Fügen Sie IOR hinzu, wenn es auf den richtigen Reflexionsgrad ankommt. Verfeinern Sie die Specular-Farbe, wenn das Material einen Graswinkel-Farbton aufweist. Ermöglichen Sie Übertragung, Untergrund, Beschichtung, Fuzz, Dünnfilm und Dispersion nur, wenn Sie einen klaren, referenzgesteuerten Grund dafür haben, da jeder zusätzliche Kanal die Komplexität und die potenziellen Renderkosten erhöht. Durch das Ausblenden oder Reduzieren nicht verwendeter Parametergruppen bleibt Ihr Arbeitsbereich fokussiert und das Risiko unbeabsichtigter Effekte wird reduziert.
+Aller Anfang ist einfach. Bei den meisten undurchsichtigen Oberflächen sind die Grundfarbe, die Specular-Rauheit und die Metalness-Eigenschaften die größten Unterschiede zwischen den Materialien. Fügen Sie IOR hinzu, wenn es auf den richtigen Reflexionsgrad ankommt. Verfeinern Sie die Specular-Farbe, wenn das Material einen Graswinkel-Farbton hat. Ermöglichen Sie Übertragung, Untergrund, Beschichtung, Fuzz, Dünnfilm und Streuung nur, wenn Sie dafür einen klaren, referenzgesteuerten Grund haben, da jeder zusätzliche Kanal die Komplexität und die potenziellen Renderkosten erhöht. Durch das Ausblenden oder Reduzieren nicht verwendeter Parametergruppen bleibt Ihr Arbeitsbereich fokussiert und das Risiko unbeabsichtigter Effekte wird reduziert.
 
 +++
 
-+++Ich habe eine Raueitskarte. Soll ich sie in die diffuse Grundrauigkeit oder die Specular-Raueit einbinden?
++++Ich habe eine Rauheit-Map. Soll ich sie an eine Base Diffuse-Rauheit oder Specular-Rauheit anschließen?
 
-Specular-Raueit: Steuert die Spiegelschärfe und ist das direkte Äquivalent der in anderen PBR-Workflows eingegebenen Raueit. &quot;Diffuse Grundrauigkeit&quot; ist ein separater spezieller Parameter, der nur die diffuse Streuung beeinflusst. Bei den meisten Arbeitsabläufen kann es an der Standardeinstellung bleiben.
+Specular-Rauheit: Steuert die Spiegelungsschärfe und ist das direkte Äquivalent der Rauheit, die in anderen PBR-Workflows eingegeben wird. Die Rauheit der Basis-Diffuse ist ein separater, spezieller Parameter, der nur die diffuse Streuung beeinflusst. Bei den meisten Arbeitsabläufen kann es an der Standardeinstellung bleiben.
 
 +++
 
-+++Warum hat die Änderung der Grundfarbe keine Auswirkungen, wenn ich Volumenstreuung verwende?
++++Warum hat das Ändern der Grundfarbe keine Auswirkungen, wenn ich Volumenstreuung verwende?
 
-Es gibt eine &#39;Prioritätshierarchie&#39;, die bestimmt, wie viel Einfluss jeder Parameter auf das endgültige Aussehen des Materials hat. So zum Beispiel:
+Es gibt eine &#39;Prioritätshierarchie&#39;, die bestimmt, wie viel Einfluss jeder Parameter auf das endgültige Erscheinungsbild des Materials hat. So zum Beispiel:
 
 * Metalismus an erster Stelle: wenn &quot;Metalness&quot; = 1 ist, werden die Teile &quot;Untergrund&quot; und &quot;Transmission&quot; deaktiviert.
 * Übertragungsgewicht kommt als Nächstes: wenn Übertragungsgewicht = 1, Untergrund fehlt.
 * Das Untergrundgewicht kommt danach.
-* &quot;Diffuse Grundfarbe&quot; kommt zuletzt: die Basis-Diffuse trägt nur bei, wenn keiner der oben genannten Werte auf 1 gesetzt ist.
+* Diffuse Grundfarbe kommt als letztes: die Basis-Diffuse trägt nur bei, wenn keiner der oben genannten Werte auf 1 gesetzt ist.
 
-Wenn also im angegebenen Beispiel die Flächengewicht auf 1 (der Höchstwert) festgelegt ist, bestimmt sie das gesamte Erscheinungsbild. Das Ändern des Werts für die Grundfarbe hat keine Auswirkungen, da der Effekt &quot;Base Diffuse&quot; im Wesentlichen keinen Beitrag leistet. Wenn dagegen der Wert für &quot;Metalness&quot; auf den Höchstwert von 1 gesetzt wird, hat die Änderung der Werte für die Transmission Weight (Übertragungsgewicht), die Subsurface Weight (Oberflächengewicht) und die Diffuse Basisfarbe keine Auswirkungen auf das endgültige Erscheinungsbild des Materials. Transmission, Subsurface und Diffuse sind alle dielektrisch (nicht-metallisch), sodass durch die Einstellung &quot;Metalness&quot; auf 1 alle nicht-metallischen Beiträge entfernt werden.
+Wenn also im angegebenen Beispiel die Flächengewicht auf 1 (der Höchstwert) festgelegt ist, bestimmt sie das gesamte Erscheinungsbild. Die Änderung des Werts der Grundfarbe hat keine Auswirkungen, da die Diffuse der Basisdaten im Wesentlichen keinen Beitrag leistet. Wenn dagegen für &quot;Metalness&quot; der Höchstwert von 1 festgelegt ist, hat die Änderung der Werte für das Übertragungsgewicht, das Unteroberflächengewicht und die Grundfarbe der Diffuse keine Auswirkungen auf das endgültige Erscheinungsbild des Materials. Transmission, Subsurface und Diffuse sind alle dielektrisch (nicht-metallisch), sodass die Einstellung &quot;Metalness&quot; auf 1 jeden nicht-metallischen Beitrag entfernt.
 
 +++
 
-+++Warum verhält sich die Übertragung unerwartet? Warum wird beispielsweise mein Gitter sehr dunkel angezeigt, wenn ich es aktiviere?
++++Warum verhält sich die Übertragung unerwartet? Warum wird beispielsweise mein Mesh sehr dunkel angezeigt, wenn ich ihn aktiviere?
 
-Der häufigste Grund ist, dass die Tiefe der Übertragung zu niedrig eingestellt ist. Dieser Parameter legt fest, wie weit das Licht reicht, bis die Übertragungsfarbe die volle Sättigung erreicht. bei niedrigen Werten erscheint selbst dünne Geometrie dunkel und dicht. Erhöhe den Wert, bis er etwa der physischen Skalierung deines Objekts entspricht. Wenn das Material dann zu klar aussieht, passe Übertragungsfarbe und Tiefe an, um die richtige Balance zu finden.
+Der häufigste Grund ist, dass die Tiefe der Übertragung zu niedrig eingestellt ist. Dieser Parameter legt fest, wie weit das Licht reicht, bis die Übertragungsfarbe die volle Sättigung erreicht. bei niedrigen Werten erscheint selbst dünne Geometrie dunkel und dicht. Erhöhe den Wert, bis er etwa der physischen Skalierung deines Objekts entspricht. Wenn das Material dann zu klar aussieht, passen Sie Übertragungsfarbe und Tiefe gemeinsam an, um die richtige Balance zu finden.
 
-Eine Streuung kann eine weitere Komplexitätsschicht hinzufügen. Die Übertragungsfarbe ist kein einfacher Farbton. Seine Wirkung hängt davon ab, wie weit das Licht durch das Objekt fällt (gesteuert durch die Übertragungsfarbe). Die Tiefe der Transmission ist hier ebenfalls maßgeblich. Streuung Color hingegen steuert die Einstellungen eines separaten Licht-Journey, das innerhalb des Materials reflektiert wird, anstatt direkt durch das Material zu reflektieren. Da die Streuung in eine Richtung erfolgt, ändert sich das Ergebnis auch in Abhängigkeit davon, wo sich die Lichtquelle befindet. Eine Anpassung ohne Berücksichtigung der anderen ist eine häufige Quelle unerwarteter Ergebnisse.
+Eine Streuung kann eine weitere Komplexitätsschicht hinzufügen. Die Übertragungsfarbe ist kein einfacher Farbton. Seine Wirkung hängt davon ab, wie weit das Licht durch das Objekt fällt (gesteuert durch die Übertragungsfarbe). Die Tiefe der Transmission ist hier ebenfalls maßgeblich. Streuung Color hingegen steuert eine Bewegung, die von einem anderen Licht durchflutet werden kann - indem es innerhalb des Materials hin- und herspringt, anstatt direkt durch das Bild zu gehen. Da die Streuung in eine Richtung erfolgt, ändert sich das Ergebnis auch in Abhängigkeit davon, wo sich die Lichtquelle befindet. Eine Anpassung ohne Berücksichtigung der anderen ist eine häufige Quelle unerwarteter Ergebnisse.
 
 +++
 

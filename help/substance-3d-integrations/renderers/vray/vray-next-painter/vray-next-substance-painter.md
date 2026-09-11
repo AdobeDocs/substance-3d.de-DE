@@ -24,19 +24,19 @@ Substance Painter 2020.1 (6.1.0) wird mit [VrayMtl](https://docs.chaosgroup.com/
 
 ![](../../../assets/template-16.jpg)
 
-Unter den Shader-Einstellungen können Sie den Vray-Shader für die Arbeit mit VrayMtl konfigurieren.
+Unter den Shader-Einstellungen können Sie den Vray Shader für die Arbeit mit VrayMtl konfigurieren.
 
 >[!NOTE]
 >
-> Wenn Ihr Projekt für die Verwendung von [UV Tile UDIM Legacy](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html) eingerichtet wurde. Verwenden Sie die Vray Next UDIM-Ausgabevorlage.
+> Wenn Ihr Projekt für die Verwendung von [UV-Kachel UDIM Legacy](https://helpx.adobe.com/de/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html) eingerichtet wurde. Verwenden Sie die Ausgabevorlage Nächste UDIM variieren.
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 
-Um Texturen für das Rendern in Vray Next zu exportieren, wählen Sie die Vray Mtl-Ausgabevorlage aus.
+Um Texturen zum Rendern in Vray Next zu exportieren, wählen Sie die Vray Mtl-Ausgabevorlage aus.
 
 ![](../../../assets/template-project.jpg){width="800px"}
 
-## Verschiedenes Material (Verschiedenes nächstes - Metallisch/Raueit)
+## Material variieren (Nächstes variieren - Metallic/Rauheit)
 
 | Substance Painter Export | VRayMtl |
 | --- | --- |
@@ -46,11 +46,11 @@ Um Texturen für das Rendern in Vray Next zu exportieren, wählen Sie die Vray M
 | Normal | (**Maya**) Bump- und Normalzuordnung / Karte (Zuordnungstyp = Normal im Tangentenraum)(**3ds** **Max**) Bitmap → Normal |
 | Höhe | (**Maya**) Versatz Shader / Versatz (**3ds** **Max**) Object-Modifizierer → VrayDisplacementMod → Textzuordnung |
 | Ausstrahlend | Selbstbeleuchtung |
-| Übertragbar | (**Maya**) Untergrundstreuung / Lichtdurchlässigkeitsfarbe (**3ds Max**) Lichtdurchlässigkeit → Rückseitenfarbe |
+| Übertragbar | (**Maya**) Volumenstreuung/Translucency-Farbe (**3ds Max**) Translucency → Rückseitenfarbe |
 | AnisotropyAngle | (**Maya**) Anisotropie/Anisotropie-Drehung (**3ds** **Max**) BRDF/Drehung |
 | AnisotropyLevel | (**Maya**) Anisotropie/Anisotropie (**3ds Max**) BRDF/Angle |
 
-## Variieren des Materials (Variieren des nächsten - Specular/Glanz
+## Vray Material (Vray Next - Specular/Glanz)
 
 | Substance Painter Export | VRayMtl |
 | --- | --- |
@@ -60,7 +60,7 @@ Um Texturen für das Rendern in Vray Next zu exportieren, wählen Sie die Vray M
 | Normal | (**Maya**) Bump- und Normalzuordnung / Karte (Zuordnungstyp = Normal im Tangentenraum)(**3ds** **Max**) Bitmap → Normal |
 | Höhe | (**Maya**) Versatz Shader / Versatz (**3ds** **Max**) Object-Modifizierer → VrayDisplacementMod → Textzuordnung |
 | Ausstrahlend | Selbstbeleuchtung |
-| Übertragbar | (**Maya**) Untergrundstreuung / Lichtdurchlässigkeitsfarbe (**3ds Max**) Lichtdurchlässigkeit → Rückseitenfarbe |
+| Übertragbar | (**Maya**) Volumenstreuung/Translucency-Farbe (**3ds Max**) Translucency → Rückseitenfarbe |
 | AnisotropyAngle | (**Maya**) Anisotropie/Anisotropie-Drehung (**3ds** **Max**) BRDF/Drehung |
 | AnisotropyLevel | (**Maya**) Anisotropie/Anisotropie (**3ds Max**) BRDF/Angle |
 
@@ -68,6 +68,6 @@ Um Texturen für das Rendern in Vray Next zu exportieren, wählen Sie die Vray M
 >
 > Karten, die Daten darstellen, müssen korrekt interpretiert werden. Weitere Informationen finden Sie auf der Seite [Farbmanagement](../../../renderers/color-management/color-management.md).
 
-In diesem Beispiel wird der Substance Painter-Viewport mit dem Vray-Shader &quot;Metallic/Raueit&quot; und das Vray-Rendering mit Maya gezeigt.
+In diesem Beispiel wird der Substance Painter-Viewport mit dem Vray-Shader Metallic/Rauheit und der Vray-Render mit Maya gezeigt.
 
 ![](../../../assets/vray-maya.jpg){width="800px"}

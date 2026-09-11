@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
 breadcrumb-title: ''
-description: Beheben Sie, warum außerhalb der Substance-Software enthaltene Texturen falsch aussehen und erfahren Sie, wie Sie Farbraumprobleme beheben können.
+description: Beheben Sie, warum außerhalb der Substance-Software Baking geführt Texturen falsch aussehen und erfahren Sie, wie Sie Farbraumprobleme beheben können.
 helpx_creative_field: ""
 helpx_description: bakers > Common Questions > Texture baked outside of Substance software looks incorrect
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **Frage**
 > 
-> Warum sieht die Textur, die ich mit einer externen Anwendung gebacken habe, und nicht die Substance Bakers im Substance Painter falsch aus?
+> Warum sieht die Textur, die ich mit einer externen Anwendung Baking geführt habe, und nicht die Substance Baker im Substance Painter falsch aus?
 
 >[!NOTE]
 >

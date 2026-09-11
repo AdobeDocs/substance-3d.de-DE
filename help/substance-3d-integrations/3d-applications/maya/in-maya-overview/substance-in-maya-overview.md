@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Übersicht über Plug-ins
 
-Mit dem Substance-Plugin können Sie ein in Substance Designer erstelltes Substance-Material direkt in Maya laden. Das Plugin erstellt ein Maya-Material und speist die Substance-Texturen in die Materialkanäle-Eingänge ein. Sie können dann Änderungen an den Substance-Parametern vornehmen, und die Texturen werden automatisch aktualisiert.
+Mit dem Substance-Plugin können Sie ein in Substance Designer erstelltes Substance-Material direkt in Maya laden. Das Plugin erstellt ein Maya-Material und speist die Substanz-Texturen in die Material-Kanäle Eingänge. Sie können dann Änderungen an den Substance-Parametern vornehmen, und die Texturen werden automatisch aktualisiert.
 
 >[!NOTE]
 >
@@ -36,16 +36,16 @@ Mit dem Substance-Plugin können Sie ein in Substance Designer erstelltes Substa
 
    ![](../../../assets/createnode.png)
 
-   Sie können auch im Knoten-Editor auf die Registerkarte klicken und im Textfeld Substanz eingeben. Dies wird nach den Substance-Optionen gefiltert. Wählen Sie in den Optionen &quot;Substance Texture&quot; aus.
+   Sie können auch im Knoten-Editor auf die Registerkarte klicken und im Textfeld Substanz eingeben. Dies wird nach den Substance-Optionen gefiltert. Wählen Sie in den Optionen &quot;Substance-Textur&quot;.
 1. Wählen Sie den Substance-Knoten und im Eigenschaften-Editor aus, und suchen Sie nach einer Substance-Datei (.sbsar), um sie zu laden.
 
    ![](../../../assets/1.png)
-1. Das Dropdown-Menü Ausgewählter Graph wird angezeigt, wenn die Substance mehrere Graphen enthält. Das gewählte Diagramm wird verwendet, um das Material zu erstellen.
-1. Die Schaltfläche &quot;Diagramminfo&quot; zeigt die in Substance Designer festgelegten Diagrammattribute an.
+1. Die Dropdown-Liste Ausgewählter Graf wird angezeigt, wenn die Substance mehrere Graf enthält. Der ausgewählte Graf wird verwendet, um das Material zu erstellen.
+1. Die Schaltfläche Graf-Info zeigt die in Substance Designer festgelegten Graf-Attribute an.
 1. Legen Sie die Auflösung fest, indem Sie einen Wert in den Dropdown-Feldern &quot;Breite&quot; und &quot;Height&quot; wählen. Die Option &quot;Ration sperren&quot; ist standardmäßig aktiviert.
-1. Aktivieren Sie die Option &quot;Cacheausgaben auf Festplatte&quot;, um die Substance-Ausgaben auf der Festplatte zu backen, damit sie mit Renderern wie Arnold verwendet werden können. Die zwischengespeicherte Datei wird vom Plugin über einen Maya-Dateiknoten wieder eingelesen.
+1. Aktivieren Sie &quot;Zwischenspeichern von Ausgaben auf Festplatte&quot;, um die Substance-Ausgaben auf die Festplatte Baking führen, damit sie mit Renderern wie Arnold verwendet werden können. Die zwischengespeicherte Datei wird vom Plugin über einen Maya-Dateiknoten wieder eingelesen.
 
    ![](../../../assets/outputsettings.png)
-1. Wählen Sie einen Arbeitsablauf für den verwendeten Renderer aus und klicken Sie auf die Schaltfläche Shader-Netzwerk erstellen. Für den Renderer-Workflow wird ein Shader-Netzwerk erstellt. Sie können nun das Material in der Szene anwenden.
+1. Wählen Sie einen Arbeitsablauf für den verwendeten Renderer und klicken Sie auf die Schaltfläche Shader-Netzwerk erstellen. Für den Renderer-Workflow wird ein Shader-Netzwerk erstellt. Sie können nun das Material in der Szene anwenden.
 
    ![](../../../assets/createnetwork.gif){width="1000px"}

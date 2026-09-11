@@ -23,10 +23,10 @@ ht-degree: 0%
 Änderungsliste:
 
 * Unterstützung für Arnold 7.1.0/MtoA 5.1.0 für Mai 2019, 2020 und 2022 hinzugefügt
-* Der neue Skriptbefehl &quot;substanceNodeGetGraphMetadata&quot; wurde hinzugefügt, um die Substance-Graph-Metadaten als XML-Zeichenfolge im Skript abzurufen.
-* Das Abfragen eines außerhalb des gültigen Bereichs liegenden Diagramms bei Skriptaufrufen stürzt nicht mehr ab
+* Der neue Skriptbefehl &quot;substanceNodeGetGraphMetadata&quot; wurde hinzugefügt, um die Substance-Graf-Metadaten als XML-Zeichenfolge im Skript abzurufen.
+* Das Abfragen eines Out-of-Bounds-Grafen bei Skriptaufrufen führt nicht mehr zu Abstürzen
 * Arnold- und MtoA-Plug-ins werden jetzt in einem Verzeichnis installiert, das &quot;-&quot; Trennzeichen zwischen semantischen Versionsnummern verwendet
-* Die Engine-Ressourceneinstellungen werden jetzt ordnungsgemäß berücksichtigt, wodurch eine Regression behoben wird, bei der sie ignoriert wurden.
+* Engine-Ressourceneinstellungen werden jetzt ordnungsgemäß berücksichtigt, wodurch eine Regression behoben wird, bei der sie ignoriert wurden.
 
 1. 2.3 wurde veröffentlicht für
 1. Mai 2017, 2018, 2019, 2020, 2022 und 2023 unter Linux, macOS und Windows

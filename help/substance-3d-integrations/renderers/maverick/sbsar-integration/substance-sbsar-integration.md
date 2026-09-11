@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
-description: Verwenden Sie Substance SBSAR-Dateien direkt im Maverick-Renderer für Materialbearbeitung und Parametersteuerung in Echtzeit.
+description: Verwenden Sie Substance SBSAR-Dateien direkt im Maverick-Renderer für die Bearbeitung von Materials in Echtzeit und die Parametersteuerung.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Maverick > Substance SBSAR Integration
 helpx_experience_level: ""
@@ -24,31 +24,31 @@ ht-degree: 0%
 
 **Methode** **1:**
 
-1. Verwenden Sie das SBSAR-Symbol und wählen Sie Ihre SBSAR-Datei aus.
+1. Verwenden Sie das SBSAR-Symbol und wählen Sie Ihre Sbsar-Dateien aus.
 
    ![](../../../assets/maverickrender-sbsar-icon.jpg)
-1. Im Dialogfeld &quot;Importieren&quot; können Sie einige Materialparameter festlegen:
+1. Im Dialogfeld &quot;Importieren&quot; können Sie einige Parameter für das Material festlegen:
 
    ![](../../../assets/maverickrender-sbsar-import-1.jpg)
-1. Wenn du fortfährst, wird dein Material im Bedienfeld &quot;Materialien&quot; angezeigt und kann in deiner Szene verwendet werden:
+1. Fahren Sie fort, damit Ihr Material im Bedienfeld &quot;Materialien&quot; angezeigt wird und in Ihrer Szene verwendet werden kann:
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
    **Methode** **2**&#x200B;**:**
-1. Platziere einfach deine SBSAR-Datei im Windows Explorer an einem beliebigen Objekt in der Szene. Sie können SBSAR-Dateien auch im Bedienfeld &quot;Material&quot; ablegen.
-1. Im Dialogfeld &quot;Importieren&quot; können Sie einige Materialparameter festlegen:
+1. Legen Sie einfach Ihre Sbsar-Dateien vom Windows-Explorer an einem beliebigen Objekt in der Szene ab. Sie können SBSAR-Dateien auch im Bereich Material ablegen.
+1. Im Dialogfeld &quot;Importieren&quot; können Sie einige Parameter für das Material festlegen:
 
    ![](../../../assets/maverickrender-sbsar-import-1.jpg)
-1. Das Material wird auf das Objekt angewendet, auf das Sie gefallen sind.
+1. Das Material wird auf das Objekt angewendet, auf das Sie geworfen haben.
 
    **Tipps und Tricks:**
-1. Du kannst die SBSAR-Parameter bearbeiten, indem du den Substance-Knoten im Bedienfeld &quot;Materialien&quot; auswählst oder auf einen der Kanal-Plug-ins des Materials klickst.
+1. Sie können die SBSAR-Parameter bearbeiten, indem Sie den Substance-Knoten im Bedienfeld &quot;Material&quot; auswählen oder auf einen der Kanalstecker des Materials klicken.
 1. Es wird empfohlen, das Material mit einer Auflösung von 512 oder 1024 zu bearbeiten, um die Bearbeitung flüssiger zu gestalten. Für das finale Rendering können Sie die Auflösung auf 2048 oder 4096 erhöhen.
-1. Wenn du dieselbe SBSAR mit unterschiedlichen Parametern auf ein anderes Objekt in der Szene anwenden möchtest, dupliziere sie und wende sie auf das neue Objekt an. Maverick erstellt automatisch ein neues Material, das du unabhängig voneinander bearbeiten kannst.
-1. Wenn du mehrere SBSARs in der Szene hast, kannst du den Button &quot;Als globale Auflösung festlegen&quot; in einem dieser SBSARs verwenden, um die Auflösung aller SBSARs gleichzeitig zu steuern.
+1. Wenn Sie dieselbe SBSAR mit unterschiedlichen Parametern auf ein anderes Objekt in der Szene anwenden möchten, duplizieren Sie sie und wenden Sie sie auf das neue Objekt an. Maverick erstellt automatisch ein neues Material, das du unabhängig voneinander bearbeiten kannst.
+1. Wenn Sie mehrere SBSARs auf der Szene haben, können Sie den Button &quot;Als globale Auflösung festlegen&quot; in einem dieser SBSARs verwenden, um die Auflösung aller SBSARs auf einmal zu steuern.
 
    ![](../../../assets/maverickrender-sbsar-resolution.jpg)
-1. Maverick enthält 10 Materialien und SBSARs, die Sie in der Kartenbibliothek unter der Schattierung &quot;Materials/Substance&quot; und unter den Ordnern &quot;Maps/Sbsar&quot; finden können:
+1. Maverick enthält 10 Materialien und SBSARs, die Sie in der Kartenbibliothek unter Materialien/Substance und unter Schattierungen/Sbsar-Ordner finden:
 
    ![](../../../assets/maverickrender-sbsar-library.jpg)
 1. Wenn Sie Ihre eigenen SBSARs Maverick zur Verfügung stellen möchten, erstellen Sie einen Unterordner, in dem Sie sie ablegen können

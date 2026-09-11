@@ -44,33 +44,33 @@ Bei Verwendung des Einheitsmaterials wird der Effekt &quot;Materialebene&quot; a
 
 Bei Verwendung des unrealen Materials wird der Effekt &quot;Materialebene&quot; automatisch eingestellt. Das Substance Plugin platziert das Unreal Material direkt über dem Substance Item Material.
 
-| Substance-Ausgabe | Farbraum | Effekt &quot;Materialebene&quot; |
+| Substance-Ausgabe | Farbraum | Effekt &quot;Material-Ebene&quot; |
 | --- | --- | --- |
-| Grundfarbe | sRGB | Unreale Grundfarbe |
-| Rauheit | Linear | Unebenheit |
-| Metallisch | Linear | Unreal Metallic |
+| Grundfarbe | sRGB | Unwirkliche Grundfarbe |
+| Rauheit | Linear | Unwirkliche Rauheit |
+| Metallisch | Linear | Unwirklich Metallic |
 | Normal | Linear | Unreal Normal |
 | Höhe | Linear | Unregelmäßiger Bump |
-| Ausstrahlend | sRGB | Unreal Emissive **\*auf sRGB für Image Still eingestellt** |
-| Umgebungsverdeckung | Linear | Unreale Verdeckung der Umgebung |
-| Deckkraft | Linear | Unreale Deckkraft **\*muss die Option &quot;Invertiert&quot; für die Texturebene deaktivieren** |
+| Ausstrahlend | sRGB | Unreale Emissive **\*auf sRGB für Bildstandbild festgelegt** |
+| Umgebungsverdeckung | Linear | Unechtes Ambient occlusion |
+| Deckkraft | Linear | Unreale Deckkraft **\*muss die Option &quot;Invertiert&quot; für die Textur** deaktivieren. |
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/unreal?$png$&jpegSize=200&wid=1343){width="600px"}
 
-Möglicherweise musst du die Normalität umkehren. Sie können dies über das Menü &quot;Tweak&quot; (Anpassungen) tun, wenn der Substance über eine Steuerung für die normale Ausrichtung verfügt. Wenn nicht, kann dies an der Textur selbst vorgenommen werden. Weitere Informationen finden Sie auf der Seite &quot;**[Arbeiten mit Normalen](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**&quot;.
+Möglicherweise musst du die Normalität umkehren. Sie können dies über das Menü &quot;Tweak&quot; (Anpassungen) tun, wenn der Substance über eine Steuerung für die normale Ausrichtung verfügt. Wenn nicht, kann dies auf der Textur selbst geschehen. Weitere Informationen finden Sie auf der Seite &quot;**[Arbeiten mit Normalen](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**&quot;.
 
-## glTF Material
+## glTF-Material
 
-Bei Verwendung des glTF-Materials wird der Effekt &quot;Materialschicht&quot; automatisch eingestellt. Das Substance Plugin platziert das glTF Material direkt über dem Substance Item Material.
+Bei Verwendung des glTF-Materials wird der Material-Ebeneneffekt automatisch eingestellt. Das Substance-Plugin platziert das glTF-Material direkt über dem Substance Item-Material.
 
-| Substance-Ausgabe | Farbraum | Effekt &quot;Materialebene&quot; |
+| Substance-Ausgabe | Farbraum | Effekt &quot;Material-Ebene&quot; |
 | --- | --- | --- |
 | Grundfarbe | sRGB | glTF-Grundfarbe |
-| Rauheit | Linear | glTF-Raueit |
+| Rauheit | Linear | glTF-Rauheit |
 | Metallisch | Linear | glTF Metallic |
 | Normal | Linear | glTF Normal |
-| Ausstrahlend | sRGB | glTF-Emissive **\*auf sRGB für Standbild eingestellt** |
-| Umgebungsverdeckung | Linear | glTF Umgebungs-Verdeckung |
+| Ausstrahlend | sRGB | glTF Emissive **\*auf sRGB für Standbild** festgelegt |
+| Umgebungsverdeckung | Linear | glTF Ambient occlusion |
 
 ![](../../../assets/gltf.png){width="600px"}
 

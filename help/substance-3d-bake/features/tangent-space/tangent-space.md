@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
-description: Erfahre, wie Substance Baker die Berechnung des Tangentenraums verarbeitet und den Algorithmus für deinen Workflow anpasst.
+description: Erfahre, wie Substance Bakers die Berechnung des Tangente-Raums anwendet und den Algorithmus an deinen Workflow anpasst.
 helpx_creative_field: ""
 helpx_description: bakers > Features > Tangent Space
 helpx_experience_level: ""
@@ -20,18 +20,18 @@ ht-degree: 2%
 
 # Tangentialraum
 
-Substance Baker können die vorhandenen Tangenten und Binormale auf das Gitter mit geringer Poly-Zahl laden oder neu berechnen. Bei der Neuberechnung kann ein benutzerdefinierter Tangent-Space-Algorithmus definiert werden (standardmäßig MikkTSpace).
+Substance Baker können entweder die auf dem Mesh mit niedrigem Poly-Anteil vorhandenen Tangenten und Binormale laden oder sie neu berechnen. Bei der Neuberechnung kann ein benutzerdefinierter Tangentialraum-Algorithmus (standardmäßig MikkTSpace) definiert werden.
 
-## Tangent-Leerzeichen-Zusatzmodulliste
+## Liste der Tangentialraum-Plug-ins
 
 ## Substance Painter
 
-Substance Painters das Tangent-Space-Plug-in nicht geändert werden kann, lautet es immer **MikkTSpace**. Es gibt jedoch einen Parameter, mit dem sich das Verhalten leicht ändern lässt, um die Kompatibilität mit anderen Anwendungen zu gewährleisten:
+Substance Painters die Tangentialraum-Plug-in nicht geändert werden kann, ist sie immer **MikkTSpace**. Es gibt jedoch einen Parameter, mit dem sich das Verhalten leicht ändern lässt, um die Kompatibilität mit anderen Anwendungen zu gewährleisten:
 
 | *Parameter* | *Kompatibel* *Anwendung* |
 | --- | --- |
-| **Tangentenraum pro Fragment berechnen: Deaktiviert** | Kompatibel mit xNormal, Unity 5.3 oder höher. |
-| **Tangentenraum pro Fragment berechnen: Aktiviert** | Kompatibel mit Unreal Engine 4, Blender und Unity HDRP-Arbeitsablauf. |
+| **Tangente-Speicherplatz pro Fragment berechnen: Deaktiviert** | Kompatibel mit xNormal, Unity 5.3 oder höher. |
+| **Tangente-Speicherplatz pro Fragment berechnen: Aktiviert** | Kompatibel mit den Workflows Unreal Engine 4, Blender und Unity HDRP. |
 
 ## Substance Designer
 
@@ -39,23 +39,23 @@ Substance Designer unterstützt den folgenden Algorithmus:
 
 | *Dateiname* | *Beschreibung* |
 | --- | --- |
-| **mikktspace.dll** | MikkTSpace, Tangent Space Algorithmus basiert auf Morten S. Mikkelsen Arbeit.Kompatibel mit xNormal, Unity 5.3 oder höher. |
-| **mikkunrealtspace.dll** | MikkTSpace, Tangent Space Algorithmus basiert auf Morten S. Mikkelsen Arbeit.Kompatibel mit Unreal Engine 4, Blender und Unity HDRP-Arbeitsablauf. |
-| **unityspace.dll** | Tangent-Space-Algorithmus basierend auf Unity 4. |
+| **mikktspace.dll** | MikkTSpace, Tangentialraum-Algorithmus auf Basis von Morten S. Mikkelsen Arbeit.Kompatibel mit xNormal, Unity 5.3 oder höher. |
+| **mikkunrealtspace.dll** | MikkTSpace, Tangentialraum-Algorithmus auf Basis von Morten S. Mikkelsen Arbeit.Kompatibel mit den Workflows Unreal Engine 4, Blender und Unity HDRP. |
+| **unityspace.dll** | Tangentialraum-Algorithmus auf Basis von Unity 4. |
 
 >[!NOTE]
 >
-> Es ist möglich, ein benutzerdefiniertes Tangent Space-Plug-in zu schreiben. Eine Headerdatei mit dem Namen **tangentspaceplugin.h** ist im Installationsordner unter **Substance Designer/SDK/tangentspace** verfügbar und kann als Schnittstelle verwendet werden.
+> Es ist möglich, eine benutzerdefinierte Tangentialraum-Plug-in zu schreiben. Eine Headerdatei mit dem Namen **tangentspaceplugin.h** ist im Installationsordner unter **Substance Designer/SDK/tangentspace** verfügbar und kann als Schnittstelle verwendet werden.
 
 ## Festlegen eines benutzerdefinierten Tangentialraums
 
 ## Substance Painter
 
-Substance Painter unterstützt derzeit keine benutzerdefinierten Tangent-Space-Plug-ins. Dies bedeutet, dass Tangents und Binormalitäten, die nicht auf dem Low-Poly-Gitter (verwendet, um das Projekt zu erstellen) vorhanden sind, auf der Grundlage des MikkTSpace-Algorithmus neu berechnet werden.
+Substance Painter unterstützt derzeit keine benutzerdefinierten Tangentialraum-Plug-ins. Dies bedeutet, dass Tangenten und Binormalitäten, die auf dem Low-Poly-Mesh (der zum Erstellen des Projekts verwendet wird) nicht vorhanden sind, auf der Grundlage des MikkTSpace-Algorithmus neu berechnet werden.
 
 ## Substance Designer
 
-So legen Sie den Tangentenraumalgorithmus im Substance Designer fest:
+Gehen Sie wie folgt vor, um den Algorithmus für den Tangente-Raum im Substance Designer festzulegen:
 
 1. Wählen Sie **Bearbeiten** > **Voreinstellungen**.
 
@@ -70,7 +70,7 @@ So legen Sie den Tangentenraumalgorithmus im Substance Designer fest:
 
 ## Substance Automation Toolkit
 
-Beim Backen mit dem Automation Toolkit ist es möglich, das Tangent Space-Plug-in mit einem bestimmten Befehlszeilenargument anzugeben:
+Beim Baking mit dem Automation Toolkit ist es möglich, die Tangentialraum-Plug-in mit einem bestimmten Befehlszeilenargument anzugeben:
 
 ```
 sbsbaker normal-from-mesh --tangent-space-plugin "C:/Substance Designer/plugins⁄tangentspace⁄mikktspace.dll" ...

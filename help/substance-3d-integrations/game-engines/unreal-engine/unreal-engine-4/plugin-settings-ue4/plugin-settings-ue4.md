@@ -26,29 +26,29 @@ Um auf die Einstellungen zuzugreifen, gehen Sie zu Bearbeiten > Projekteinstellu
 
 ## Hardware-Budget
 
-Das Speicherbudget ist die maximale Speichermenge, die für die Substance-Engine verwendet werden darf. Kann erhöht werden, um die Geschwindigkeit der Substanzverarbeitung zu verbessern, verbraucht aber mehr Systemressourcen. (Nicht immer eine hilfreiche Steigerung auf Projektebene).
+Das Speicherbudget ist die maximale Speichermenge, die für das Substance-Engine verwendet werden darf. Kann erhöht werden, um die Geschwindigkeit der Substanzverarbeitung zu verbessern, verbraucht aber mehr Systemressourcen. (Nicht immer eine hilfreiche Steigerung auf Projektebene).
 
-Die CPU-Kerne geben an, wie viele Kerne die Substance-Engine verwenden darf. Dies umfasst sowohl physische Kerne als auch Hyperthreads. (Wenn die zugewiesene Anzahl größer als die verfügbaren Kerne auf einem System ist, wird standardmäßig alle verfügbaren Kerne verwendet.
+Die CPU-Kerne geben an, wie viele Kerne das Substance-Engine verwenden darf. Dies umfasst sowohl physische Kerne als auch Hyperthreads. (Wenn die zugewiesene Anzahl größer als die verfügbaren Kerne auf einem System ist, wird standardmäßig alle verfügbaren Kerne verwendet.
 
 ## Kochen
 
-Die beim Kochen entfernte Mip-Level-Zahl ändert, wie Texturen für ein Paket erstellt werden. Diese Einstellung kann die Ladezeiten erheblich verbessern und die Paketgröße reduzieren, da die größeren Textur-MIP-Level nicht mehr geladen werden müssen. Die niedrigere Auflösung/die kleineren LODs werden geladen und die höchste wird standardmäßig vom UE4 vorgegeben. Die Substanzen werden dann über die Substance Engine verarbeitet und zur Laufzeit mit den hochauflösenden LODs aktualisiert.
+Die beim Kochen entfernte Mip-Level-Zahl ändert, wie Texturen für ein Paket erstellt werden. Diese Einstellung kann die Ladezeiten erheblich verbessern und die Paketgröße reduzieren, da die größeren Textur-MIP-Level nicht mehr geladen werden müssen. Die niedrigere Auflösung/die kleineren LODs werden geladen und die höchste wird standardmäßig vom UE4 vorgegeben. Die Stoffe werden dann über das Substance-Engine verarbeitet und zur Laufzeit mit den hochauflösenden LODs aktualisiert.
 
-Das Substance Engine kann CPU oder GPU sein. Mit der GPU-Engine können Sie 4K-Texturen erstellen. Die CPU-Engine ist auf 2K begrenzt.
+Das Substance Engine kann CPU oder GPU sein. Mit dem GPU-Engine können Sie 4K-Texturen erstellen. Das CPU-Engine ist auf 2K begrenzt.
 
 ## Standardgenerierung:
 
 Der Substance-Generierungsmodus (SGM) steuert, wie die Texturen generiert werden. Dies ist ein globales Umfeld für Substance. Die SGM kann pro Substance in der Substance Factory geändert werden.
 
-**SGM gebacken**: Backt die Substance-Texturen. Sie verlieren die Möglichkeit, Parameter zur Laufzeit zu ändern.
+**SGM Baking geführt**: Baking führe die Texturen des Stoffes. Sie verlieren die Möglichkeit, Parameter zur Laufzeit zu ändern.
 
 **SGM beim Laden der Synchronisation**: Sperrt die Anwendung, während die Substance geladen werden.
 
-**SGM beim Laden von Sync und Cache**: Zwischenspeichert ein Zwischenergebnis der Textur auf der Festplatte.
+**SGM beim Laden von Sync und Cache**: Zwischenspeichert ein Zwischenergebnis der Textur auf dem Datenträger.
 
 **SGM beim Laden von Async**: Nicht blockierend. Im Hintergrund werden Substance erzeugt.
 
-**SGM beim Laden von Async und Cache**: Zwischenspeichert ein Zwischenergebnis der Textur auf der Festplatte.
+**SGM beim Laden von Async und Cache**: Zwischenspeichert ein Zwischenergebnis der Textur auf dem Datenträger.
 
 ***Plattformstandard ist Async laden und Cache***
 
@@ -60,10 +60,10 @@ Um die SGM für eine Substance zu ändern, klicken Sie mit der rechten Maustaste
 
 ## Optimierung:
 
-Dadurch wird begrenzt, wie viele asynchrone Substanzen pro Charge an den Substance-Motor übergeben werden können. Niedrigere Zahlen beschleunigen die Geschwindigkeit, mit der eine asynchrone Aufgabe abgeschlossen und aktualisiert wird, wenn höhere Zahlen Batch-Renderings durchführen und mehrere Substanzen gleichzeitig verarbeiten. (Je höher die Anzahl, desto abgehackter werden die Texturaktualisierungen, da die Zeit zwischen den Aktualisierungen länger ist).
+Dadurch wird begrenzt, wie viele asynchrone Stoffe pro Charge an das Substance-Engine abgegeben werden können. Niedrigere Zahlen beschleunigen die Geschwindigkeit, mit der eine asynchrone Aufgabe abgeschlossen und aktualisiert wird, wenn höhere Zahlen Batch-Renderings durchführen und mehrere Substanzen gleichzeitig verarbeiten. (Je höher die Zahl, desto abgehackter werden die Aktualisierungen der Texturen, da die Zeit zwischen den Aktualisierungen länger ist).
 
 ## Async/Sync-Rendering
 
-Beim Synchronisationsrendering wird der Rendering-Aufruf blockiert. Dies übergibt eine Instanz des Substance-Graphen an die neu zu berechnende Substance-Engine, stoppt jedoch die Ausführung, bis die Substance-Engine die Verarbeitung der Substanz abgeschlossen hat, bevor mit einer weiteren Codeausführung fortgefahren wird. Das Ergebnis wird auch auf Ihrem Bildschirm aktualisiert, sobald der Vorgang abgeschlossen ist.
+Beim Synchronisationsrendering wird der Rendering-Aufruf blockiert. Dadurch wird eine Substance-Grapheninstanz an das neu zu berechnende Substance-Engine übergeben. Die Ausführung wird jedoch gestoppt, bis das Substance-Engine die Verarbeitung der Substanz abgeschlossen hat, bevor mit der weiteren Codeausführung fortgefahren wird. Das Ergebnis wird auch auf Ihrem Bildschirm aktualisiert, sobald der Vorgang abgeschlossen ist.
 
-Async fügt Ihr Diagramm zu einer Warteschlange hinzu und sendet mehrere Diagramme gleichzeitig an die Substance-Engine (von den Substance-Einstellungen aus eingestellt) innerhalb des Plug-in-Updates. Im Gegensatz zum Sync-Rendering läuft das Programm, sobald es versendet wird, wie gewohnt, anstatt darauf zu warten, dass die Substance-Engine vollständig ist. Wenn die Substance-Engine diesen Stapel fertig gestellt hat, werden die Ergebnisse zurückgesendet, auf die Ergebnisse angewendet und ein weiterer Stapel gestartet.
+Async fügt Ihren Graf einer Warteschlange hinzu und sendet mehrere Graf gleichzeitig an das Substance-Engine (von den Substance-Einstellungen aus festgelegt) innerhalb des Plug-in-Updates. Im Gegensatz zum Sync-Rendering läuft das Programm, sobald es versendet wird, wie gewohnt, anstatt darauf zu warten, dass das Substance-Engine abgeschlossen ist. Wenn das Substance-Engine den Stapel fertig gestellt hat, werden die Ergebnisse zurückgesendet, auf die Ergebnisse angewendet und ein weiterer Stapel gestartet.
