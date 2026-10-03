@@ -19,7 +19,7 @@ von dir wird erwartet, dass du diesen Kodex einhältst. Melden Sie unangemessene
 
 ## Leitfaden für Mitwirkende - Dokumentation
 
-Siehe [Leitfaden für Mitwirkende](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Siehe [Leitfaden für Mitwirkende](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
 
 ## Haben Sie eine Frage?
 

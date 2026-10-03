@@ -29,7 +29,7 @@ Wenn Sie ein kleineres Update einreichen:
 1. Im Dialogfeld &quot;War dieser Inhalt hilfreich?&quot; &quot;, das am unteren Rand Ihres Browserfensters angezeigt wird, klicken Sie auf **Detaillierte Feedbackoptionen**.
 1. Klicken Sie auf **Edit vorschlagen** und senden Sie einen Pull-Request (PR) mit Ihren Änderungen in der GitHub-Benutzeroberfläche.
 
-   Weitere Informationen finden Sie im allgemeinen Leitfaden für Mitwirkende an [Adobe-Dokumentation](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+   Weitere Informationen finden Sie im allgemeinen Leitfaden für Mitwirkende an [Adobe-Dokumentation](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
 
 Geringfügige Korrekturen oder Klarstellungen, die Sie für die Dokumentation und Codebeispiele in diesem Repo einreichen, werden von den Adobe-Nutzungsbedingungen abgedeckt.
 
@@ -43,7 +43,7 @@ Wenn Sie Teil der Adobe-Community sind und ein neues Thema erstellen oder größ
 
 Community-Mitwirkende können die GitHub-Benutzeroberfläche für grundlegende Bearbeitungen verwenden oder das Repo verzweigen, um wichtige Beiträge zu leisten.
 
-Weitere Informationen finden Sie im [Leitfaden für Mitwirkende an Adobe-Dokumentation](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Leitfaden für Mitwirkende an Adobe-Dokumentation](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
 
 ## Interne Anbieter
 
