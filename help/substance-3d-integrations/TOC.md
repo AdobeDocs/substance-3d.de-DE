@@ -2,21 +2,19 @@
 user-guide-description: Substance 3D Ecosystem
 user-guide-title: Substance 3D Ecosystem
 breadcrumb-title: Substance 3D Ecosystem-Benutzerhandbuch
-source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
+source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '818'
 ht-degree: 2%
-
 ---
-
 
 # Substance 3D Ecosystem {#ecosystem}
 
 + [Startseite](/help/substance-3d-integrations/home/home.md)
-+ Game Engines.{#game-engines}
++ Game-Engine{#game-engines}
   + [Game Engine - Übersicht](/help/substance-3d-integrations/game-engines/game-engines.md)
   + Unechtes Engine{#unreal-engine}
-    + Unreal Engine 5{#unreal-engine-5}
+    + Unreales Engine 5{#unreal-engine-5}
       + [Unreal Engine 5 - Übersicht](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5.md)
       + Unreal Engine 5 - Versionshinweise{#unreal-engine-5-release-notes}
         + [Unechtes Plug-in 5.3.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-3-2/unreal-plugin-5-3-2.md)
@@ -25,22 +23,22 @@ ht-degree: 2%
         + [Unechtes Plug-in 5.0.1](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-0-1/unreal-plugin-5-0-1.md)
       + [Plugin-Übersicht - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5/plugin-overview-ue5.md)
       + [Plug-in-Einstellungen - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5/plugin-settings-ue5.md)
-      + [Substance-Eingabebild - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md)
-      + [Materialinstanzdefinition - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md)
-      + [Verwendung der Materialvorlage - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
+      + [Substance Eingabebild - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md)
+      + [Material-Instanzdefinition - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md)
+      + [Verwendung von Material-Vorlagen - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
       + [Gebrauchsfertige Vorlagen für Materials](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md)
       + [Physische Größe - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-      + [Kachel-Substance - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
+      + [Kachelung Substance - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
       + [Standardvorlagen für Substance 3D-Plug-ins](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
       + [Substance 3D Assets Library Usage - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
       + Blueprints - UE5{#blueprints-ue5}
-        + [Blueprint-UE5: Substance-Materialparameter](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md)
-        + [Blueprint-UE5: Dynamische Materialinstanz Zum Ende der Metadaten springen](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-mat/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.md)
+        + [Blueprint-UE5: Substance Material-Parameter](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md)
+        + [Blueprint-UE5: Dynamische Material-Instanz Zum Ende der Metadaten springen](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-mat/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.md)
         + [Blueprint-UE5: Aggregate-Substance](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate/blueprintue5-aggregate-substance.md)
         + [Blueprint-UE5: Knotenreferenz](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-ref/blueprintue5-node-reference.md)
-      + [Unreal Engine 5 - Skripterstellung](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting/unreal-engine-5-scripting.md)
+      + [Unreal Engine 5 Scripting](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting/unreal-engine-5-scripting.md)
       + [Installieren auf Quellbuilds](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/installing-source-builds/installing-to-source-builds-ue5.md)
-    + Unreal Engine 4{#unreal-engine-4}
+    + Unechtes Engine 4{#unreal-engine-4}
       + [Unreal Engine 4 - Übersicht](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4.md)
       + Unreal Engine 4 Plugin Versionshinweise{#unreal-engine-4-plugin-release-notes}
         + [Unechtes Plug-in 4.27.0.1](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-27-0-1/unreal-plugin-4-27-0-1.md)
@@ -58,19 +56,19 @@ ht-degree: 2%
         + [Unechtes Plug-in 4.21.0.31](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-21-0-31/unreal-plugin-4-21-0-31.md)
       + [Plugin-Übersicht - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-overview-ue4/plugin-overview-ue4.md)
       + [Plugin Settings - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4/plugin-settings-ue4.md)
-      + [Substance-Eingabebild - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
-      + [Materialinstanzdefinition - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-def-1/material-instance-definition-ue4.md)
-      + [Kachel-Substance - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
+      + [Substance Eingabebild - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
+      + [Material Instance Definition - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-def-1/material-instance-definition-ue4.md)
+      + [Kachelung Substance - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
       + [Arbeiten mit Bump Offset - Parallax - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset/working-with-bump-offset-parallax-ue4.md)
       + [Arbeiten mit Versatz - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement/working-with-displacement-ue4.md)
       + [Quelle in UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4/source-in-ue4.md)
       + [Live Link in UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4/live-link-in-ue4.md)
       + Blueprints - UE4{#blueprints-ue4}
-        + [Blueprint-UE4: Substance-Materialparameter](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-material-par/blueprintue4-substance-material-parameters.md)
-        + [Blueprint-UE4: Dynamische Materialinstanz](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-mat/blueprintue4-dynamic-material-instance.md)
+        + [Blueprint-UE4: Substance Material-Parameter](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-material-par/blueprintue4-substance-material-parameters.md)
+        + [Blueprint-UE4: Instanz des dynamischen Materials](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-mat/blueprintue4-dynamic-material-instance.md)
         + [Blueprint-UE4: Aggregate-Substance](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate/blueprintue4-aggregate-substance.md)
         + [Blueprint-UE4: Knotenreferenz](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-ref/blueprintue4-node-reference.md)
-      + [Unreal Engine 4-Skripterstellung](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting/unreal-engine-4-scripting.md)
+      + [Unreal Engine 4 Scripting](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting/unreal-engine-4-scripting.md)
   + Einheit{#unity}
     + [Einheitenübersicht](/help/substance-3d-integrations/game-engines/unity/unity.md)
     + Versionshinweise zu Unity{#unity-release-notes}
@@ -153,7 +151,7 @@ ht-degree: 2%
     + [Substance-Ausgabeknoten](/help/substance-3d-integrations/3d-applications/maya/output-node/substance-output-node.md)
     + [Verwenden von Workflows](/help/substance-3d-integrations/3d-applications/maya/using-workflows/using-workflows.md)
     + [Arbeiten mit Ausgaben](/help/substance-3d-integrations/3d-applications/maya/working-with-outputs/working-with-outputs.md)
-    + [Verfahrensauswahl](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
+    + [Prozedurale Probenahme](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
     + [Voreinstellungen](/help/substance-3d-integrations/3d-applications/maya/presets/presets.md)
     + [Einstellungen](/help/substance-3d-integrations/3d-applications/maya/settings/settings.md)
     + [Arnold-Unterstützung](/help/substance-3d-integrations/3d-applications/maya/arnold-support/arnold-support.md)
@@ -180,7 +178,7 @@ ht-degree: 2%
     + [Stapelimport](/help/substance-3d-integrations/3d-applications/3ds-max/batch-import/batch-import.md)
     + [Verwenden von Workflows im 3ds Max](/help/substance-3d-integrations/3d-applications/3ds-max/using-workflows-3ds-max/using-workflows-in-3ds-max.md)
     + [Substance Source](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
-    + [Animieren von Substance-Material](/help/substance-3d-integrations/3d-applications/3ds-max/animating-a-material/animating-a-substance-material.md)
+    + [Animieren eines Substance-Materials](/help/substance-3d-integrations/3d-applications/3ds-max/animating-a-material/animating-a-substance-material.md)
     + [3ds MAX Scripting API](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api/3ds-max-scripting-api.md)
     + [Fehlerbehebung](/help/substance-3d-integrations/3d-applications/3ds-max/troubleshooting/troubleshooting.md)
   + STIMMUNG{#modo}
@@ -196,16 +194,16 @@ ht-degree: 2%
     + [Substance in MODO - Übersicht](/help/substance-3d-integrations/3d-applications/modo/in-modo-overview/substance-in-modo-overview.md)
     + [Modo-Installation](/help/substance-3d-integrations/3d-applications/modo/modo-installation/modo-installation.md)
     + [Parameter](/help/substance-3d-integrations/3d-applications/modo/parameters/parameters.md)
-    + [Eigene Materialien](/help/substance-3d-integrations/3d-applications/modo/custom-materials/custom-materials.md)
+    + [Benutzerdefinierte Material](/help/substance-3d-integrations/3d-applications/modo/custom-materials/custom-materials.md)
     + [Arbeiten mit Normalen](/help/substance-3d-integrations/3d-applications/modo/working-with-normals/working-with-normals.md)
-    + [Arbeiten mit emissiven](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
+    + [Arbeiten mit Emissive](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
     + [Bump und Versatz](/help/substance-3d-integrations/3d-applications/modo/bump-and-displacement/bump-and-displacement.md)
     + [Arbeiten mit Verweisen](/help/substance-3d-integrations/3d-applications/modo/working-with-references/working-with-references.md)
     + [Substance animieren.](/help/substance-3d-integrations/3d-applications/modo/animating-substances/animating-substances.md)
     + [Substance kopieren/duplizieren](/help/substance-3d-integrations/3d-applications/modo/copy-duplicate/copy-duplicate-substance.md)
     + [Umgebung und Rendering-Setup](/help/substance-3d-integrations/3d-applications/modo/environment-and-rendering/environment-and-rendering-setup.md)
-    + [Modo Switch Engine](/help/substance-3d-integrations/3d-applications/modo/modo-switch-engine/modo-switch-engine.md)
-    + [Kacheln von Modo-Strukturen](/help/substance-3d-integrations/3d-applications/modo/tiling-modo-textures/tiling-modo-textures.md)
+    + [Modo Switch-Engine](/help/substance-3d-integrations/3d-applications/modo/modo-switch-engine/modo-switch-engine.md)
+    + [Kachelung Modo-Texturen](/help/substance-3d-integrations/3d-applications/modo/tiling-modo-textures/tiling-modo-textures.md)
   + Cinema 4D{#cinema-4d}
     + [Cinema 4D - Übersicht](/help/substance-3d-integrations/3d-applications/cinema-4d/cinema-4d.md)
     + [Einrichtung](/help/substance-3d-integrations/3d-applications/cinema-4d/set-up/set-up.md)
@@ -218,6 +216,8 @@ ht-degree: 2%
   + Mixer{#blender}
     + [Blender - Übersicht](/help/substance-3d-integrations/3d-applications/blender/blender.md)
     + Versionshinweise{#release-notes}
+      + [Versionshinweise](/help/substance-3d-integrations/3d-applications/blender/release-notes/release-notes.md)
+      + [Add-on 3.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-3-0-0.md)
       + [Add-on 2.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus/add-on-2-0-0-plus.md)
       + [Add-on 2.0.0](/help/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0/blender-add-on-2-0-0.md)
       + [Add-on 1.0.2](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2/add-on-1-0-2.md)
@@ -245,8 +245,8 @@ ht-degree: 2%
   + [Konvertieren von Substance-Ausgaben](/help/substance-3d-integrations/renderers/converting-outputs/converting-substance-outputs.md)
   + Farbmanagement{#color-management}
     + [Farbmanagement - Übersicht](/help/substance-3d-integrations/renderers/color-management/color-management.md)
-    + [Substance von Texturen in Maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
-    + [Substance von Texturen in 3ds Max](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
+    + [Substance Texturen in Maya](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
+    + [Substance Texturen in 3ds Max](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
   + Arnold{#arnold}
     + [Übersicht über Arnold](/help/substance-3d-integrations/renderers/arnold/arnold.md)
     + [Arnold - Substance in 3ds Max](/help/substance-3d-integrations/renderers/arnold/arnold-in-3ds-max/arnold-substance-in-3ds-max.md)
