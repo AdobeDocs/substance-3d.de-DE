@@ -100,7 +100,7 @@ Ihr Maxon One-Abonnement verlängert sich automatisch um ein weiteres Jahr zum r
 
 Die Adobe Substance 3D Collection wird nur dann automatisch verlängert, wenn Sie beim Einlösen Ihres Gutscheincodes eine gültige Kreditkarte eingeben oder wenn Sie vor dem Ablaufdatum der Abonnementlaufzeit eine Kreditkarte auf Ihrer Kontoverwaltungsseite unter account.adobe.com hinzufügen.
 
-[Vergleichen Sie Adobe-Abonnements](https://www.adobe.com/creativecloud/plans.html), um den Listenpreis für das Adobe Substance 3D Collection-Einzelabonnement zu überprüfen, das im Voraus bezahlt wurde.
+[Vergleichen Sie Adobe-Abonnements](https://www.adobe.com/de/creativecloud/plans.html), um den Listenpreis für das Adobe Substance 3D Collection-Einzelabonnement zu überprüfen, das im Voraus bezahlt wurde.
 
 +++
 
