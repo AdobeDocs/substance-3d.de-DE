@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ""
 description: Erfahren Sie mehr über das Substance-Plug-in für 3ds Max und wie Sie Substance-Materialien importieren und in Ihren Projekten verwenden können.
 helpx_creative_field: ""
@@ -79,7 +79,7 @@ Zwei OpenPBR-Workflows sind in der Liste **Workflows** im Menü **Substance verf
 
 ### Was ist OpenPBR?
 
-OpenPBR ist ein offenes, physikalisch basiertes Material-Schattierung-Modell, das von Adobe und Autodesk entwickelt wurde und an der Academy Software Foundation (ASWF) mitwirkte. Es bietet eine einheitliche Material-Definition, die mit allen Renderern kompatibel ist. Weitere Informationen finden Sie in der [OpenPBR-Dokumentation](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
+OpenPBR ist ein offenes, physikalisch basiertes Material-Schattierung-Modell, das von Adobe und Autodesk entwickelt wurde und an der Academy Software Foundation (ASWF) mitwirkte. Es bietet eine einheitliche Material-Definition, die mit allen Renderern kompatibel ist. Weitere Informationen finden Sie in der [OpenPBR-Dokumentation](https://experienceleague.adobe.com/de/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
 
 ### Wann sollte ein OpenPBR-Arbeitsablauf verwendet werden?
 

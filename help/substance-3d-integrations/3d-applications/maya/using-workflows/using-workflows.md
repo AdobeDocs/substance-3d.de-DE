@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ""
 description: Erstellen und verwenden Sie Render-Vorgaben für Substance-Ausgaben in Maya, um automatisch Shader-Netzwerke für verschiedene Renderer zu generieren.
 helpx_creative_field: ""
@@ -69,7 +69,7 @@ In der Liste &quot;Workflows&quot; sind zwei OpenPBR-Workflows verfügbar: **Ope
 
 ### Was ist OpenPBR?
 
-OpenPBR ist ein offenes, physikalisch basiertes Material-Schattierung-Modell, das von Adobe und Autodesk entwickelt wurde und an der Academy Software Foundation (ASWF) mitwirkte. Es bietet eine einheitliche Material-Definition, die mit allen Renderern kompatibel ist. Weitere Informationen finden Sie in der [OpenPBR-Dokumentation](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
+OpenPBR ist ein offenes, physikalisch basiertes Material-Schattierung-Modell, das von Adobe und Autodesk entwickelt wurde und an der Academy Software Foundation (ASWF) mitwirkte. Es bietet eine einheitliche Material-Definition, die mit allen Renderern kompatibel ist. Weitere Informationen finden Sie in der [OpenPBR-Dokumentation](https://experienceleague.adobe.com/de/docs/substance-3d/general-knowledge/openpbr/openpbr-overview).
 
 ### Wann sollte ein OpenPBR-Arbeitsablauf verwendet werden?
 
