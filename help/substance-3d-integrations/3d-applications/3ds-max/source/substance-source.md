@@ -1,29 +1,27 @@
 ---
 helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: Substance-Materialien aus der Substance Source Library lassen sich direkt in 3ds Max-Projekten aufrufen und verwenden.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > Substance Source
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Substance Source
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+title: Substance 3D Assets Library
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 5%
-
+source-wordcount: '96'
+ht-degree: 11%
 ---
 
+# Substance 3D Assets Library
 
-# Substance Source
+Sie können die Substance 3D Assets-Bibliothek direkt über das Plug-in Substance for 3ds Max öffnen.
 
-Sie können Substance-Materialien von Substance Source im 3ds Max v2-Plugin verwenden.
+1. Wählen Sie im Substance-Menü oben in der 3ds Max-Benutzeroberfläche die Option &quot;Substance 3D Assets&quot;.
+1. Ein Browser wird geöffnet und Sie können sich bei Ihrem Adobe-Konto anmelden, um .sbsar-Dateien herunterzuladen. Substance-Abonnierende haben unbegrenzten Zugriff auf die vollständige 3D-Asset-Bibliothek.
+1. Laden Sie SBSAR-Dateien mit dem Plug-in Substance for 3ds Max in 3ds Max herunter und importieren Sie sie.
 
-1. Wählen Sie im Substance-Menü oben in der Benutzeroberfläche &quot;3ds max&quot; die Option &quot;Substance Source&quot;.
-1. Es wird ein Browser geöffnet, und Sie können sich bei Ihrem Quell-Abonnement anmelden, um .sbsar-Dateien herunterzuladen.
-1. Importieren Sie die .sbsar-Datei in 3ds Max mithilfe des Substance-Plugins.
-
-   ![](../../../assets/max12.png)
+![](../../../assets/maya-max-v3-1/3dsmax-substance-3d-assets.png)
