@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/de/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ""
 description: Installieren Sie das Substance-Plugin für Maya mit dem offiziellen Installationsprogramm oder über Maya's Plugin-Manager.
 helpx_creative_field: ""
@@ -10,19 +10,13 @@ helpx_tags: ""
 title: Herunterladen und installieren
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 0b6fbb25891bf442fc52b52089422ab0f762c1ae
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '91'
 ht-degree: 0%
 ---
 
 # Herunterladen und installieren
-
-Das Substance in Maya-Plugin ist standardmäßig im Maya-Installationsprogramm enthalten.
-
-Sie können neuere Versionen des Installationsprogramms von der Seite [Adobe Substance 3D für Mai herunterladen](https://substance3d.adobe.com/plugins/substance-in-maya/).
-
-## Ältere Plug-in-Versionen
 
 Die neueste Version des Plug-Ins wird nativ von Autodesk mit der neuesten kompatiblen Version von Maya vertrieben. Wenn Sie einen bestimmten Build für eine ältere Version benötigen, finden Sie die Download-Links unten
 
